@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NightmareJumpscares02.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Wussup Bitch instance 10000" x="10" y="10" width="792" height="1575" frameX="-433" frameY="-132" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10001" x="812" y="10" width="827" height="1428" frameX="-436" frameY="-279" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10002" x="1649" y="10" width="790" height="1553" frameX="-435" frameY="-132" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10003" x="2449" y="10" width="769" height="951" frameX="-432" frameY="-734" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10004" x="3228" y="10" width="798" height="1535" frameX="-427" frameY="-132" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10005" x="4036" y="10" width="833" height="1388" frameX="-430" frameY="-279" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10006" x="4879" y="10" width="886" height="1443" frameX="-429" frameY="-217" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10007" x="5775" y="10" width="873" height="1524" frameX="-431" frameY="-136" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10008" x="6658" y="10" width="888" height="1554" frameX="-431" frameY="-100" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10009" x="10" y="1595" width="948" height="1576" frameX="-428" frameY="-78" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10010" x="968" y="1595" width="936" height="1591" frameX="-428" frameY="-59" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10011" x="1914" y="1595" width="917" height="1471" frameX="-425" frameY="-179" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10012" x="2841" y="1595" width="947" height="1478" frameX="-425" frameY="-169" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10013" x="3798" y="1595" width="993" height="1508" frameX="-427" frameY="-139" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10014" x="4801" y="1595" width="980" height="1554" frameX="-427" frameY="-91" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10015" x="5791" y="1595" width="970" height="1585" frameX="-430" frameY="-60" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10016" x="6771" y="1595" width="801" height="1570" frameX="-419" frameY="-79" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10017" x="10" y="3196" width="836" height="1412" frameX="-437" frameY="-232" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10018" x="856" y="3196" width="1201" height="1485" frameX="-262" frameY="-138" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10019" x="2067" y="3196" width="877" height="1566" frameX="-458" frameY="-112" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10020" x="2954" y="3196" width="1305" height="1603" frameX="-172" frameY="0" frameWidth="1751" frameHeight="1707"/>
+	<SubTexture name="Wussup Bitch instance 10021" x="4269" y="3196" width="1751" height="1624" frameX="0" frameY="-38" frameWidth="1751" frameHeight="1707"/>
+</TextureAtlas>

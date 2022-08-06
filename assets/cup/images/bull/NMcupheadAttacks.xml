@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NMcupheadAttacks.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DeathBlast instance 10000" x="10" y="10" width="996" height="437" frameX="0" frameY="-45" frameWidth="1009" frameHeight="541"/>
+	<SubTexture name="DeathBlast instance 10001" x="1016" y="10" width="819" height="474" frameX="-173" frameY="-18" frameWidth="1009" frameHeight="541"/>
+	<SubTexture name="DeathBlast instance 10002" x="1845" y="10" width="906" height="536" frameX="-97" frameY="-5" frameWidth="1009" frameHeight="541"/>
+	<SubTexture name="DeathBlast instance 10003" x="2761" y="10" width="929" height="505" frameX="-80" frameY="0" frameWidth="1009" frameHeight="541"/>
+	<SubTexture name="DeathBlast instance 10004" x="10" y="556" width="850" height="456" frameX="-144" frameY="-26" frameWidth="1009" frameHeight="541"/>
+	<SubTexture name="DeathBlast instance 10005" x="870" y="556" width="860" height="474" frameX="-132" frameY="-18" frameWidth="1009" frameHeight="541"/>
+	<SubTexture name="DeathBlast instance 10006" x="1740" y="556" width="854" height="505" frameX="-149" frameY="-5" frameWidth="1009" frameHeight="541"/>
+	<SubTexture name="DeathBlast instance 10007" x="2604" y="556" width="930" height="490" frameX="-71" frameY="-16" frameWidth="1009" frameHeight="541"/>
+	<SubTexture name="DeathRoundabout instance 10000" x="3544" y="556" width="514" height="563" frameX="-32" frameY="-33" frameWidth="547" frameHeight="617"/>
+	<SubTexture name="DeathRoundabout instance 10001" x="10" y="1129" width="518" height="587" frameX="-28" frameY="-17" frameWidth="547" frameHeight="617"/>
+	<SubTexture name="DeathRoundabout instance 10002" x="538" y="1129" width="475" height="602" frameX="-45" frameY="-11" frameWidth="547" frameHeight="617"/>
+	<SubTexture name="DeathRoundabout instance 10003" x="1023" y="1129" width="475" height="611" frameX="-59" frameY="0" frameWidth="547" frameHeight="617"/>
+	<SubTexture name="DeathRoundabout instance 10004" x="1508" y="1129" width="485" height="617" frameX="-34" frameY="0" frameWidth="547" frameHeight="617"/>
+	<SubTexture name="DeathRoundabout instance 10005" x="2003" y="1129" width="512" height="578" frameX="-24" frameY="-17" frameWidth="547" frameHeight="617"/>
+	<SubTexture name="DeathRoundabout instance 10006" x="2525" y="1129" width="496" height="563" frameX="-19" frameY="-30" frameWidth="547" frameHeight="617"/>
+	<SubTexture name="DeathRoundabout instance 10007" x="3031" y="1129" width="524" height="556" frameX="-8" frameY="-33" frameWidth="547" frameHeight="617"/>
+	<SubTexture name="DeathRoundabout instance 10008" x="10" y="1756" width="545" height="553" frameX="0" frameY="-33" frameWidth="547" frameHeight="617"/>
+	<SubTexture name="DeathRoundabout instance 10009" x="565" y="1756" width="545" height="533" frameX="-2" frameY="-55" frameWidth="547" frameHeight="617"/>
+	<SubTexture name="DeathRoundabout instance 10010" x="1120" y="1756" width="532" height="548" frameX="-4" frameY="-39" frameWidth="547" frameHeight="617"/>
+	<SubTexture name="DeathRoundabout instance 10011" x="1662" y="1756" width="524" height="557" frameX="-14" frameY="-44" frameWidth="547" frameHeight="617"/>
+</TextureAtlas>

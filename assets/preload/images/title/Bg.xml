@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bg.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ddddd instance 10000" x="10" y="10" width="1359" height="855"/>
+	<SubTexture name="ddddd instance 10001" x="1379" y="10" width="1359" height="855"/>
+	<SubTexture name="ddddd instance 10002" x="10" y="875" width="1359" height="855"/>
+	<SubTexture name="ddddd instance 10003" x="1379" y="875" width="1359" height="855"/>
+	<SubTexture name="ddddd instance 10004" x="10" y="1740" width="1359" height="855"/>
+	<SubTexture name="ddddd instance 10005" x="1379" y="1740" width="1359" height="855"/>
+	<SubTexture name="ddddd instance 10006" x="1379" y="1740" width="1359" height="855"/>
+	<SubTexture name="ddddd instance 10007" x="1379" y="1740" width="1359" height="855"/>
+	<SubTexture name="ddddd instance 10008" x="1379" y="1740" width="1359" height="855"/>
+	<SubTexture name="ddddd instance 10009" x="1379" y="1740" width="1359" height="855"/>
+	<SubTexture name="ddddd instance 10010" x="1379" y="1740" width="1359" height="855"/>
+</TextureAtlas>

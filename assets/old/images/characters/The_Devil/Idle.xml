@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Idle.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DevIdle instance 10000" x="10" y="10" width="1267" height="1547"/>
+	<SubTexture name="DevIdle instance 10001" x="10" y="10" width="1267" height="1547"/>
+	<SubTexture name="DevIdle instance 10002" x="1287" y="10" width="1267" height="1546" frameX="0" frameY="-1" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10003" x="1287" y="10" width="1267" height="1546" frameX="0" frameY="-1" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10004" x="2564" y="10" width="1265" height="1543" frameX="0" frameY="-2" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10005" x="2564" y="10" width="1265" height="1543" frameX="0" frameY="-2" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10006" x="3839" y="10" width="1262" height="1538" frameX="0" frameY="-5" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10007" x="3839" y="10" width="1262" height="1538" frameX="0" frameY="-5" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10008" x="5111" y="10" width="1258" height="1531" frameX="0" frameY="-8" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10009" x="5111" y="10" width="1258" height="1531" frameX="0" frameY="-8" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10010" x="6379" y="10" width="1253" height="1524" frameX="0" frameY="-12" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10011" x="6379" y="10" width="1253" height="1524" frameX="0" frameY="-12" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10012" x="10" y="1567" width="1250" height="1519" frameX="0" frameY="-14" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10013" x="10" y="1567" width="1250" height="1519" frameX="0" frameY="-14" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10014" x="1270" y="1567" width="1248" height="1515" frameX="0" frameY="-16" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10015" x="1270" y="1567" width="1248" height="1515" frameX="0" frameY="-16" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10016" x="2528" y="1567" width="1248" height="1515" frameX="0" frameY="-16" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10017" x="2528" y="1567" width="1248" height="1515" frameX="0" frameY="-16" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10018" x="3786" y="1567" width="1248" height="1516" frameX="0" frameY="-16" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10019" x="3786" y="1567" width="1248" height="1516" frameX="0" frameY="-16" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10020" x="5044" y="1567" width="1250" height="1519" frameX="0" frameY="-14" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10021" x="5044" y="1567" width="1250" height="1519" frameX="0" frameY="-14" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10022" x="6304" y="1567" width="1253" height="1524" frameX="0" frameY="-12" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10023" x="6304" y="1567" width="1253" height="1524" frameX="0" frameY="-12" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10024" x="10" y="3101" width="1258" height="1531" frameX="0" frameY="-8" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10025" x="10" y="3101" width="1258" height="1531" frameX="0" frameY="-8" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10026" x="1278" y="3101" width="1262" height="1538" frameX="0" frameY="-5" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10027" x="1278" y="3101" width="1262" height="1538" frameX="0" frameY="-5" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10028" x="2550" y="3101" width="1265" height="1544" frameX="0" frameY="-2" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10029" x="2550" y="3101" width="1265" height="1544" frameX="0" frameY="-2" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10030" x="3825" y="3101" width="1267" height="1546" frameX="0" frameY="-1" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10031" x="3825" y="3101" width="1267" height="1546" frameX="0" frameY="-1" frameWidth="1267" frameHeight="1547"/>
+	<SubTexture name="DevIdle instance 10032" x="10" y="10" width="1267" height="1547"/>
+	<SubTexture name="DevIdle instance 10033" x="10" y="10" width="1267" height="1547"/>
+</TextureAtlas>

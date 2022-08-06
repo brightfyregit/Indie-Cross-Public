@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NightmareBlueNotes.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="B-01 instance 10000" x="10" y="10" width="249" height="364" frameX="-21" frameY="-15" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-01 instance 10001" x="269" y="10" width="258" height="364" frameX="-15" frameY="-15" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-01 instance 10002" x="537" y="10" width="170" height="364" frameX="-60" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-01 instance 10003" x="717" y="10" width="264" height="364" frameX="-16" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-01 instance 10004" x="991" y="10" width="176" height="364" frameX="-58" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-01 instance 10005" x="1177" y="10" width="268" height="364" frameX="-8" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-01 instance 10006" x="1455" y="10" width="282" height="364" frameX="-7" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-01 instance 10007" x="1747" y="10" width="185" height="364" frameX="-50" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-01 instance 10008" x="1942" y="10" width="294" height="392"/>
+	<SubTexture name="B-01 instance 10009" x="2246" y="10" width="274" height="363" frameX="-6" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-02 instance 10000" x="2530" y="10" width="249" height="364" frameX="-21" frameY="-15" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-02 instance 10001" x="2789" y="10" width="258" height="364" frameX="-15" frameY="-15" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-02 instance 10002" x="3057" y="10" width="169" height="364" frameX="-61" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-02 instance 10003" x="3236" y="10" width="264" height="364" frameX="-16" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-02 instance 10004" x="3510" y="10" width="176" height="364" frameX="-58" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-02 instance 10005" x="3696" y="10" width="267" height="364" frameX="-9" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-02 instance 10006" x="10" y="412" width="283" height="364" frameX="-7" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-02 instance 10007" x="303" y="412" width="185" height="364" frameX="-50" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-02 instance 10008" x="498" y="412" width="294" height="392"/>
+	<SubTexture name="B-02 instance 10009" x="802" y="412" width="274" height="364" frameX="-6" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-03 instance 10000" x="1086" y="412" width="249" height="364" frameX="-21" frameY="-15" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-03 instance 10001" x="1345" y="412" width="258" height="364" frameX="-15" frameY="-15" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-03 instance 10002" x="1613" y="412" width="170" height="364" frameX="-60" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-03 instance 10003" x="1793" y="412" width="264" height="364" frameX="-16" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-03 instance 10004" x="2067" y="412" width="175" height="364" frameX="-58" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-03 instance 10005" x="2252" y="412" width="268" height="364" frameX="-8" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-03 instance 10006" x="2530" y="412" width="282" height="364" frameX="-7" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-03 instance 10007" x="2822" y="412" width="185" height="364" frameX="-50" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-03 instance 10008" x="3017" y="412" width="294" height="392"/>
+	<SubTexture name="B-03 instance 10009" x="3321" y="412" width="275" height="363" frameX="-5" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-04 instance 10000" x="3606" y="412" width="250" height="364" frameX="-20" frameY="-15" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-04 instance 10001" x="10" y="814" width="259" height="364" frameX="-14" frameY="-15" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-04 instance 10002" x="279" y="814" width="170" height="364" frameX="-60" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-04 instance 10003" x="459" y="814" width="263" height="364" frameX="-16" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-04 instance 10004" x="732" y="814" width="175" height="364" frameX="-58" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-04 instance 10005" x="917" y="814" width="267" height="364" frameX="-8" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-04 instance 10006" x="1194" y="814" width="282" height="364" frameX="-7" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-04 instance 10007" x="1486" y="814" width="185" height="364" frameX="-50" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-04 instance 10008" x="1681" y="814" width="293" height="392"/>
+	<SubTexture name="B-04 instance 10009" x="1984" y="814" width="275" height="363" frameX="-5" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-05 instance 10000" x="2269" y="814" width="250" height="364" frameX="-23" frameY="-13" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-05 instance 10001" x="2529" y="814" width="259" height="364" frameX="-20" frameY="-13" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-05 instance 10002" x="2798" y="814" width="170" height="364" frameX="-63" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-05 instance 10003" x="2978" y="814" width="263" height="364" frameX="-14" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-05 instance 10004" x="3251" y="814" width="175" height="364" frameX="-60" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-05 instance 10005" x="3436" y="814" width="267" height="364" frameX="-18" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-05 instance 10006" x="3713" y="814" width="282" height="364" frameX="-4" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-05 instance 10007" x="10" y="1216" width="186" height="364" frameX="-58" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-05 instance 10008" x="206" y="1216" width="293" height="392"/>
+	<SubTexture name="B-05 instance 10009" x="509" y="1216" width="274" height="363" frameX="-14" frameY="-15" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-06 instance 10000" x="793" y="1216" width="249" height="364" frameX="-23" frameY="-13" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-06 instance 10001" x="1052" y="1216" width="259" height="364" frameX="-20" frameY="-13" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-06 instance 10002" x="1321" y="1216" width="170" height="364" frameX="-63" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-06 instance 10003" x="1501" y="1216" width="264" height="364" frameX="-13" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-06 instance 10004" x="1775" y="1216" width="175" height="364" frameX="-60" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-06 instance 10005" x="1960" y="1216" width="268" height="364" frameX="-17" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-06 instance 10006" x="2238" y="1216" width="282" height="364" frameX="-4" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-06 instance 10007" x="2530" y="1216" width="185" height="364" frameX="-58" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-06 instance 10008" x="2725" y="1216" width="293" height="392"/>
+	<SubTexture name="B-06 instance 10009" x="3028" y="1216" width="275" height="363" frameX="-13" frameY="-15" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="B-07 instance 10000" x="3313" y="1216" width="249" height="364" frameX="-24" frameY="-13" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-07 instance 10001" x="3572" y="1216" width="258" height="364" frameX="-21" frameY="-13" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-07 instance 10002" x="3840" y="1216" width="169" height="364" frameX="-64" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-07 instance 10003" x="10" y="1618" width="264" height="364" frameX="-14" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-07 instance 10004" x="284" y="1618" width="176" height="364" frameX="-60" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-07 instance 10005" x="470" y="1618" width="267" height="364" frameX="-18" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-07 instance 10006" x="747" y="1618" width="282" height="364" frameX="-5" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-07 instance 10007" x="1039" y="1618" width="185" height="364" frameX="-59" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-07 instance 10008" x="1234" y="1618" width="294" height="392"/>
+	<SubTexture name="B-07 instance 10009" x="1538" y="1618" width="274" height="364" frameX="-14" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-08 instance 10000" x="1822" y="1618" width="249" height="364" frameX="-24" frameY="-13" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-08 instance 10001" x="2081" y="1618" width="258" height="364" frameX="-21" frameY="-13" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-08 instance 10002" x="2349" y="1618" width="170" height="364" frameX="-64" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-08 instance 10003" x="2529" y="1618" width="264" height="364" frameX="-14" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-08 instance 10004" x="2803" y="1618" width="175" height="364" frameX="-61" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-08 instance 10005" x="2988" y="1618" width="268" height="364" frameX="-18" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-08 instance 10006" x="3266" y="1618" width="282" height="364" frameX="-5" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-08 instance 10007" x="3558" y="1618" width="185" height="364" frameX="-59" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="B-08 instance 10008" x="3753" y="1618" width="294" height="392"/>
+	<SubTexture name="B-08 instance 10009" x="10" y="2020" width="275" height="363" frameX="-14" frameY="-15" frameWidth="294" frameHeight="392"/>
+</TextureAtlas>

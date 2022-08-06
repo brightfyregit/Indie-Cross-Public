@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pee.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hehe boii instance 10000" x="10" y="10" width="82" height="125"/>
+	<SubTexture name="oh shit instance 10000" x="102" y="10" width="82" height="125"/>
+</TextureAtlas>

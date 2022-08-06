@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goose icons.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gose0000" x="4" y="4" width="126" height="87"/>
+	<SubTexture name="goose pissed0000" x="4" y="95" width="148" height="92"/>
+</TextureAtlas>

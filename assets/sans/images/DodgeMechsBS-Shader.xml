@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DodgeMechs.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Alarm instance 10000" x="10" y="10" width="911" height="499"/>
+	<SubTexture name="Alarm instance 10001" x="931" y="10" width="911" height="499"/>
+	<SubTexture name="Alarm instance 10002" x="10" y="10" width="911" height="499"/>
+	<SubTexture name="Alarm instance 10003" x="931" y="10" width="911" height="499"/>
+	<SubTexture name="Alarm instance 10004" x="10" y="10" width="911" height="499"/>
+	<SubTexture name="Alarm instance 10005" x="931" y="10" width="911" height="499"/>
+	<SubTexture name="Alarm instance 10006" x="10" y="10" width="911" height="499"/>
+	<SubTexture name="Alarm instance 10007" x="931" y="10" width="911" height="499"/>
+	<SubTexture name="Alarm instance 10008" x="10" y="10" width="911" height="499"/>
+	<SubTexture name="Alarm instance 10009" x="931" y="10" width="911" height="499"/>
+	<SubTexture name="Bones boi instance 10000" x="1852" y="10" width="902" height="120" frameX="-26" frameY="-426" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10001" x="2764" y="10" width="928" height="262" frameX="0" frameY="-284" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10002" x="10" y="519" width="974" height="404" frameX="0" frameY="-142" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10003" x="994" y="519" width="974" height="546"/>
+	<SubTexture name="Bones boi instance 10004" x="1978" y="519" width="974" height="534" frameX="0" frameY="-12" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10005" x="2962" y="519" width="974" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10006" x="2962" y="519" width="974" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10007" x="2962" y="519" width="974" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10008" x="2962" y="519" width="974" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10009" x="2962" y="519" width="974" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10010" x="2962" y="519" width="974" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10011" x="2962" y="519" width="974" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10012" x="2962" y="519" width="974" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10013" x="10" y="1075" width="974" height="529" frameX="0" frameY="-17" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10014" x="994" y="1075" width="974" height="525" frameX="0" frameY="-21" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10015" x="1978" y="1075" width="974" height="519" frameX="0" frameY="-27" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10016" x="2962" y="1075" width="974" height="511" frameX="0" frameY="-35" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10017" x="10" y="1614" width="974" height="500" frameX="0" frameY="-46" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10018" x="994" y="1614" width="928" height="289" frameX="0" frameY="-257" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10019" x="1932" y="1614" width="902" height="162" frameX="-26" frameY="-384" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10020" x="1852" y="10" width="902" height="120" frameX="-26" frameY="-426" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10021" x="2844" y="1614" width="198" height="70" frameX="-376" frameY="-476" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10022" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10023" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10024" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10025" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10026" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10027" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10028" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10029" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10030" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10031" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10032" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10033" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10034" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10035" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10036" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Bones boi instance 10037" x="3052" y="1614" width="0" height="0" frameX="1997" frameY="493" frameWidth="974" frameHeight="546"/>
+	<SubTexture name="Dodge instance 10000" x="3062" y="1614" width="445" height="360" frameX="0" frameY="-53" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10001" x="3517" y="1614" width="387" height="417" frameX="-24" frameY="0" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10002" x="3517" y="1614" width="387" height="417" frameX="-24" frameY="0" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10003" x="10" y="2124" width="406" height="405" frameX="-13" frameY="-11" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10004" x="10" y="2124" width="406" height="405" frameX="-13" frameY="-11" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10005" x="426" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10006" x="842" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10007" x="426" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10008" x="842" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10009" x="426" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10010" x="842" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10011" x="426" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10012" x="842" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10013" x="426" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10014" x="842" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10015" x="426" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10016" x="842" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10017" x="426" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10018" x="842" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10019" x="426" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10020" x="842" y="2124" width="406" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437"/>/>
+	<SubTexture name="Dodge instance 10021" x="1258" y="2124" width="389" height="396" frameX="-14" frameY="-20" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10022" x="1258" y="2124" width="389" height="396" frameX="-14" frameY="-20" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10023" x="1657" y="2124" width="408" height="401" frameX="-24" frameY="-36" frameWidth="445" frameHeight="437"/>
+	<SubTexture name="Dodge instance 10024" x="1657" y="2124" width="408" height="401" frameX="-24" frameY="-36" frameWidth="445" frameHeight="437"/>
+</TextureAtlas>

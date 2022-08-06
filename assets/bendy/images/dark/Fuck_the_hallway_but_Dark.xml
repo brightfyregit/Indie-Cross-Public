@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fuck the hallway but Dark.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RunLol Hallway instance 10000" x="10" y="10" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10001" x="1301" y="10" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10002" x="2592" y="10" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10003" x="3883" y="10" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10004" x="5174" y="10" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10005" x="6465" y="10" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10006" x="10" y="740" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10007" x="1301" y="740" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10008" x="2592" y="740" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10009" x="3883" y="740" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10010" x="5174" y="740" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10011" x="6465" y="740" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10012" x="10" y="1470" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10013" x="1301" y="1470" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10014" x="2592" y="1470" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10015" x="3883" y="1470" width="1281" height="720"/>
+	<SubTexture name="RunLol Hallway instance 10016" x="5174" y="1470" width="1281" height="720"/>
+</TextureAtlas>

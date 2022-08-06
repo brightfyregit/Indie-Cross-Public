@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE sin notes downscroll.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downscrolldown0000" x="2" y="2" width="247" height="373" frameX="-6" frameY="-10" frameWidth="259" frameHeight="383"/>
+	<SubTexture name="downscrolldown0001" x="249" y="2" width="247" height="373" frameX="-6" frameY="-10" frameWidth="259" frameHeight="383"/>
+	<SubTexture name="downscrolldown0002" x="496" y="2" width="247" height="372" frameX="-6" frameY="-11" frameWidth="259" frameHeight="383"/>
+	<SubTexture name="downscrolldown0003" x="743" y="2" width="247" height="372" frameX="-6" frameY="-11" frameWidth="259" frameHeight="383"/>
+	<SubTexture name="downscrolldown0004" x="990" y="2" width="247" height="372" frameX="-6" frameY="-11" frameWidth="259" frameHeight="383"/>
+	<SubTexture name="downscrolldown0005" x="1237" y="2" width="247" height="372" frameX="-6" frameY="-11" frameWidth="259" frameHeight="383"/>
+	<SubTexture name="downscrolldown0006" x="1484" y="2" width="250" height="372" frameX="-6" frameY="-11" frameWidth="259" frameHeight="383"/>
+	<SubTexture name="downscrolldown0007" x="1734" y="2" width="247" height="372" frameX="-6" frameY="-11" frameWidth="259" frameHeight="383"/>
+	<SubTexture name="downscrolldown0008" x="1981" y="2" width="259" height="383"/>
+	<SubTexture name="downscrolldown0009" x="2240" y="2" width="248" height="372" frameX="-5" frameY="-11" frameWidth="259" frameHeight="383"/>
+	<SubTexture name="downscrollleft0000" x="2488" y="2" width="269" height="347" frameX="0" frameY="-10" frameWidth="269" frameHeight="357"/>
+	<SubTexture name="downscrollleft0001" x="2757" y="2" width="269" height="347" frameX="0" frameY="-10" frameWidth="269" frameHeight="357"/>
+	<SubTexture name="downscrollleft0002" x="3026" y="2" width="269" height="346" frameX="0" frameY="-11" frameWidth="269" frameHeight="357"/>
+	<SubTexture name="downscrollleft0003" x="3295" y="2" width="269" height="346" frameX="0" frameY="-11" frameWidth="269" frameHeight="357"/>
+	<SubTexture name="downscrollleft0004" x="3564" y="2" width="269" height="346" frameX="0" frameY="-11" frameWidth="269" frameHeight="357"/>
+	<SubTexture name="downscrollleft0005" x="2" y="385" width="269" height="346" frameX="0" frameY="-11" frameWidth="269" frameHeight="357"/>
+	<SubTexture name="downscrollleft0006" x="271" y="385" width="269" height="346" frameX="0" frameY="-11" frameWidth="269" frameHeight="357"/>
+	<SubTexture name="downscrollleft0007" x="540" y="385" width="269" height="346" frameX="0" frameY="-11" frameWidth="269" frameHeight="357"/>
+	<SubTexture name="downscrollleft0008" x="809" y="385" width="269" height="357"/>
+	<SubTexture name="downscrollleft0009" x="1078" y="385" width="269" height="346" frameX="0" frameY="-11" frameWidth="269" frameHeight="357"/>
+	<SubTexture name="downscrollright0000" x="1347" y="385" width="269" height="363" frameX="0" frameY="-10" frameWidth="274" frameHeight="373"/>
+	<SubTexture name="downscrollright0001" x="1616" y="385" width="269" height="363" frameX="0" frameY="-10" frameWidth="274" frameHeight="373"/>
+	<SubTexture name="downscrollright0002" x="1885" y="385" width="269" height="362" frameX="0" frameY="-11" frameWidth="274" frameHeight="373"/>
+	<SubTexture name="downscrollright0003" x="2154" y="385" width="269" height="362" frameX="0" frameY="-11" frameWidth="274" frameHeight="373"/>
+	<SubTexture name="downscrollright0004" x="2423" y="385" width="269" height="362" frameX="0" frameY="-11" frameWidth="274" frameHeight="373"/>
+	<SubTexture name="downscrollright0005" x="2692" y="385" width="269" height="362" frameX="0" frameY="-11" frameWidth="274" frameHeight="373"/>
+	<SubTexture name="downscrollright0006" x="2961" y="385" width="270" height="362" frameX="0" frameY="-11" frameWidth="274" frameHeight="373"/>
+	<SubTexture name="downscrollright0007" x="3231" y="385" width="269" height="362" frameX="0" frameY="-11" frameWidth="274" frameHeight="373"/>
+	<SubTexture name="downscrollright0008" x="3500" y="385" width="274" height="373"/>
+	<SubTexture name="downscrollright0009" x="3774" y="385" width="269" height="362" frameX="0" frameY="-11" frameWidth="274" frameHeight="373"/>
+	<SubTexture name="downscrollup0000" x="2" y="758" width="248" height="357" frameX="-3" frameY="-10" frameWidth="259" frameHeight="367"/>
+	<SubTexture name="downscrollup0001" x="250" y="758" width="248" height="357" frameX="-3" frameY="-10" frameWidth="259" frameHeight="367"/>
+	<SubTexture name="downscrollup0002" x="498" y="758" width="248" height="356" frameX="-3" frameY="-11" frameWidth="259" frameHeight="367"/>
+	<SubTexture name="downscrollup0003" x="746" y="758" width="248" height="356" frameX="-3" frameY="-11" frameWidth="259" frameHeight="367"/>
+	<SubTexture name="downscrollup0004" x="994" y="758" width="248" height="356" frameX="-3" frameY="-11" frameWidth="259" frameHeight="367"/>
+	<SubTexture name="downscrollup0005" x="1242" y="758" width="248" height="356" frameX="-3" frameY="-11" frameWidth="259" frameHeight="367"/>
+	<SubTexture name="downscrollup0006" x="1490" y="758" width="253" height="356" frameX="-3" frameY="-11" frameWidth="259" frameHeight="367"/>
+	<SubTexture name="downscrollup0007" x="1743" y="758" width="248" height="356" frameX="-3" frameY="-11" frameWidth="259" frameHeight="367"/>
+	<SubTexture name="downscrollup0008" x="1991" y="758" width="259" height="367"/>
+	<SubTexture name="downscrollup0009" x="2250" y="758" width="248" height="356" frameX="-3" frameY="-11" frameWidth="259" frameHeight="367"/>
+</TextureAtlas>

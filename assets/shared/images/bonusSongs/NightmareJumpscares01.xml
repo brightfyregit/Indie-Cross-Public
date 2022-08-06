@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NightmareJumpscares01.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CupScare instance 10000" x="10" y="10" width="827" height="1380" frameX="-1043" frameY="-1233" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10001" x="847" y="10" width="926" height="1425" frameX="-999" frameY="-826" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10002" x="1783" y="10" width="990" height="1461" frameX="-997" frameY="-398" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10003" x="2783" y="10" width="786" height="1071" frameX="-1193" frameY="-518" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10004" x="3579" y="10" width="786" height="1064" frameX="-1193" frameY="-525" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10005" x="4375" y="10" width="810" height="1070" frameX="-1161" frameY="-527" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10006" x="5195" y="10" width="810" height="1063" frameX="-1161" frameY="-534" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10007" x="6015" y="10" width="868" height="1064" frameX="-1075" frameY="-559" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10008" x="6893" y="10" width="868" height="1060" frameX="-1075" frameY="-563" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10009" x="10" y="1481" width="858" height="1064" frameX="-1085" frameY="-544" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10010" x="878" y="1481" width="858" height="1060" frameX="-1085" frameY="-548" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10011" x="1746" y="1481" width="854" height="1064" frameX="-1092" frameY="-535" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10012" x="2610" y="1481" width="854" height="1060" frameX="-1092" frameY="-539" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10013" x="3474" y="1481" width="878" height="1088" frameX="-1068" frameY="-511" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10014" x="4362" y="1481" width="1090" height="1063" frameX="-857" frameY="-537" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10015" x="5462" y="1481" width="1181" height="1060" frameX="-761" frameY="-536" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10016" x="6653" y="1481" width="901" height="1087" frameX="-1055" frameY="-504" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10017" x="10" y="2579" width="936" height="1095" frameX="-1003" frameY="-511" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10018" x="956" y="2579" width="952" height="1103" frameX="-1003" frameY="-493" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10019" x="1918" y="2579" width="1219" height="1187" frameX="-675" frameY="-475" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10020" x="3147" y="2579" width="1730" height="1723" frameX="-302" frameY="-309" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10021" x="4887" y="2579" width="2210" height="2200" frameX="-65" frameY="-67" frameWidth="2341" frameHeight="2613"/>
+	<SubTexture name="CupScare instance 10022" x="10" y="4789" width="2341" height="2331" frameX="0" frameY="0" frameWidth="2341" frameHeight="2613"/>
+</TextureAtlas>

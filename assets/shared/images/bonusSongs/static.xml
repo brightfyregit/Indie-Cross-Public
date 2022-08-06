@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="static.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="static0000" x="1" y="1" width="1125" height="620" pivotX="0" pivotY="0"/>
+	<SubTexture name="static0001" x="1127" y="1" width="1125" height="620"/>
+	<SubTexture name="static0002" x="2253" y="1" width="1125" height="620"/>
+	<SubTexture name="static0003" x="1" y="622" width="1125" height="620"/>
+</TextureAtlas>

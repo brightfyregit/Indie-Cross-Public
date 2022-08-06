@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Grainshit.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Geain instance 10000" x="10" y="10" width="1280" height="720" frameX="-3" frameY="0" frameWidth="1283" frameHeight="721"/>
+	<SubTexture name="Geain instance 10001" x="1300" y="10" width="1280" height="720" frameX="-3" frameY="-1" frameWidth="1283" frameHeight="721"/>
+	<SubTexture name="Geain instance 10002" x="2590" y="10" width="1280" height="720" frameX="-3" frameY="-1" frameWidth="1283" frameHeight="721"/>
+	<SubTexture name="Geain instance 10003" x="10" y="10" width="1280" height="720" frameX="0" frameY="-1" frameWidth="1283" frameHeight="721"/>
+	<SubTexture name="Geain instance 10004" x="1300" y="10" width="1280" height="720" frameX="-3" frameY="-1" frameWidth="1283" frameHeight="721"/>
+	<SubTexture name="Geain instance 10005" x="2590" y="10" width="1280" height="720" frameX="-3" frameY="-1" frameWidth="1283" frameHeight="721"/>
+	<SubTexture name="Geain instance 10006" x="10" y="10" width="1280" height="720" frameX="-3" frameY="0" frameWidth="1283" frameHeight="721"/>
+</TextureAtlas>

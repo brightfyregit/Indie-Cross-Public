@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UTextBox.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DiaBox instance 10000" x="10" y="10" width="823" height="103" frameX="-368" frameY="-183" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="DiaBox instance 10001" x="10" y="123" width="1205" height="115" frameX="-205" frameY="-177" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="DiaBox instance 10002" x="10" y="248" width="1088" height="424" frameX="-263" frameY="0" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="DiaBox instance 10003" x="10" y="682" width="1573" height="348" frameX="-22" frameY="-49" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="DiaBox instance 10004" x="10" y="682" width="1573" height="348" frameX="-22" frameY="-49" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="DiaBox instance 10005" x="10" y="1040" width="1617" height="319" frameX="0" frameY="-64" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="DiaBox instance 10006" x="10" y="1040" width="1617" height="319" frameX="0" frameY="-64" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="DiaBox instance 10007" x="10" y="1040" width="1617" height="319" frameX="0" frameY="-64" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="DiaBox instance 10008" x="10" y="1040" width="1617" height="319" frameX="0" frameY="-64" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="DiaBox instance 10009" x="10" y="1040" width="1617" height="319" frameX="0" frameY="-64" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="DiaBox instance 10010" x="10" y="1040" width="1617" height="319" frameX="0" frameY="-64" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="DiaBox instance 10011" x="10" y="1040" width="1617" height="319" frameX="0" frameY="-64" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="DiaBox instance 10012" x="10" y="1040" width="1617" height="319" frameX="0" frameY="-64" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="DiaBox instance 10013" x="10" y="1040" width="1617" height="319" frameX="0" frameY="-64" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="DiaBox instance 10014" x="10" y="1040" width="1617" height="319" frameX="0" frameY="-64" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="Paps-1 instance 10000" x="1637" y="1040" width="145" height="206" frameX="0" frameY="-6" frameWidth="145" frameHeight="217"/>
+	<SubTexture name="Paps-1 instance 10001" x="1637" y="1040" width="145" height="206" frameX="0" frameY="-6" frameWidth="145" frameHeight="217"/>
+	<SubTexture name="Paps-1 instance 10002" x="1792" y="1040" width="145" height="217"/>
+	<SubTexture name="Paps-1 instance 10003" x="1792" y="1040" width="145" height="217"/>
+	<SubTexture name="Paps-1 instance 10004" x="1792" y="1040" width="145" height="217"/>
+	<SubTexture name="Paps-2 instance 10000" x="10" y="1369" width="145" height="207" frameX="0" frameY="-5" frameWidth="145" frameHeight="217"/>
+	<SubTexture name="Paps-2 instance 10001" x="10" y="1369" width="145" height="207" frameX="0" frameY="-5" frameWidth="145" frameHeight="217"/>
+	<SubTexture name="Paps-2 instance 10002" x="165" y="1369" width="145" height="217"/>
+	<SubTexture name="Paps-2 instance 10003" x="165" y="1369" width="145" height="217"/>
+	<SubTexture name="Paps-3 instance 10000" x="320" y="1369" width="145" height="217"/>
+	<SubTexture name="Paps-3 instance 10001" x="320" y="1369" width="145" height="217"/>
+	<SubTexture name="Paps-3 instance 10002" x="475" y="1369" width="145" height="206" frameX="0" frameY="-6" frameWidth="145" frameHeight="217"/>
+	<SubTexture name="Paps-3 instance 10003" x="475" y="1369" width="145" height="206" frameX="0" frameY="-6" frameWidth="145" frameHeight="217"/>
+	<SubTexture name="Paps-5 instance 10000" x="630" y="1369" width="145" height="217"/>
+	<SubTexture name="Paps-5 instance 10001" x="630" y="1369" width="145" height="217"/>
+	<SubTexture name="Paps-5 instance 10002" x="785" y="1369" width="145" height="206" frameX="0" frameY="-6" frameWidth="145" frameHeight="217"/>
+	<SubTexture name="Paps-5 instance 10003" x="785" y="1369" width="145" height="206" frameX="0" frameY="-6" frameWidth="145" frameHeight="217"/>
+	<SubTexture name="Paps-6 instance 10000" x="940" y="1369" width="144" height="217"/>
+	<SubTexture name="Paps-6 instance 10001" x="940" y="1369" width="144" height="217"/>
+	<SubTexture name="Paps-6 instance 10002" x="1094" y="1369" width="144" height="207" frameX="0" frameY="-5" frameWidth="144" frameHeight="217"/>
+	<SubTexture name="Paps-6 instance 10003" x="1094" y="1369" width="144" height="207" frameX="0" frameY="-5" frameWidth="144" frameHeight="217"/>
+	<SubTexture name="Paps-7 instance 10000" x="1248" y="1369" width="144" height="207" frameX="0" frameY="-5" frameWidth="144" frameHeight="217"/>
+	<SubTexture name="Paps-7 instance 10001" x="1248" y="1369" width="144" height="207" frameX="0" frameY="-5" frameWidth="144" frameHeight="217"/>
+	<SubTexture name="Paps-7 instance 10002" x="1402" y="1369" width="144" height="217"/>
+	<SubTexture name="Paps-7 instance 10003" x="1402" y="1369" width="144" height="217"/>
+	<SubTexture name="Papy-4 instance 10000" x="1556" y="1369" width="145" height="201"/>
+	<SubTexture name="Pop out instance 10000" x="10" y="1040" width="1617" height="319" frameX="0" frameY="-63" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="Pop out instance 10001" x="10" y="1040" width="1617" height="319" frameX="0" frameY="-63" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="Pop out instance 10002" x="10" y="682" width="1573" height="348" frameX="-22" frameY="-49" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="Pop out instance 10003" x="10" y="682" width="1573" height="348" frameX="-22" frameY="-49" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="Pop out instance 10004" x="10" y="248" width="1088" height="424" frameX="-263" frameY="0" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="Pop out instance 10005" x="10" y="123" width="1205" height="115" frameX="-205" frameY="-177" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="Pop out instance 10006" x="10" y="10" width="823" height="103" frameX="-368" frameY="-183" frameWidth="1617" frameHeight="424"/>
+	<SubTexture name="Sans-01 instance 10000" x="1711" y="1369" width="186" height="171"/>
+	<SubTexture name="Sans-02 instance 10000" x="10" y="1596" width="185" height="171"/>
+	<SubTexture name="Sans-3 instance 10000" x="205" y="1596" width="186" height="171"/>
+	<SubTexture name="Sans-4 instance 10000" x="401" y="1596" width="186" height="171"/>
+	<SubTexture name="Sans-5 instance 10000" x="597" y="1596" width="186" height="170"/>
+	<SubTexture name="Sans-6 instance 10000" x="793" y="1596" width="186" height="171"/>
+</TextureAtlas>

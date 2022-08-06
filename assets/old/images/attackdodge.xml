@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="attackdodge.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dodge instance 10000" x="10" y="10" width="1086" height="647"/>
+	<SubTexture name="Parry notes instance 10000" x="10" y="667" width="1087" height="648"/>
+</TextureAtlas>

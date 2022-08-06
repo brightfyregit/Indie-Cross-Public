@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Title screen.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF idle dance instance 10000" x="10" y="10" width="529" height="372" frameX="0" frameY="-12" frameWidth="529" frameHeight="384"/>
+	<SubTexture name="BF idle dance instance 10001" x="549" y="10" width="517" height="381" frameX="-8" frameY="-1" frameWidth="529" frameHeight="384"/>
+	<SubTexture name="BF idle dance instance 10002" x="549" y="10" width="517" height="381" frameX="-8" frameY="-1" frameWidth="529" frameHeight="384"/>
+	<SubTexture name="BF idle dance instance 10003" x="1076" y="10" width="517" height="381" frameX="-9" frameY="-1" frameWidth="529" frameHeight="384"/>
+	<SubTexture name="BF idle dance instance 10004" x="1076" y="10" width="517" height="381" frameX="-9" frameY="-1" frameWidth="529" frameHeight="384"/>
+	<SubTexture name="BF idle dance instance 10005" x="10" y="401" width="516" height="381" frameX="-10" frameY="-1" frameWidth="529" frameHeight="384"/>
+	<SubTexture name="BF idle dance instance 10006" x="10" y="401" width="516" height="381" frameX="-10" frameY="-1" frameWidth="529" frameHeight="384"/>
+	<SubTexture name="BF idle dance instance 10007" x="536" y="401" width="514" height="382" frameX="-12" frameY="0" frameWidth="529" frameHeight="384"/>
+	<SubTexture name="BF idle dance instance 10008" x="536" y="401" width="514" height="382" frameX="-12" frameY="0" frameWidth="529" frameHeight="384"/>
+	<SubTexture name="BF idle dance instance 10009" x="536" y="401" width="514" height="382" frameX="-12" frameY="0" frameWidth="529" frameHeight="384"/>
+	<SubTexture name="BF idle dance instance 10010" x="1060" y="401" width="514" height="382" frameX="-12" frameY="0" frameWidth="529" frameHeight="384"/>
+	<SubTexture name="BF idle dance instance 10011" x="1060" y="401" width="514" height="382" frameX="-12" frameY="0" frameWidth="529" frameHeight="384"/>
+	<SubTexture name="BF idle dance instance 10012" x="1060" y="401" width="514" height="382" frameX="-12" frameY="0" frameWidth="529" frameHeight="384"/>
+	<SubTexture name="BF idle dance instance 10013" x="1060" y="401" width="514" height="382" frameX="-12" frameY="0" frameWidth="529" frameHeight="384"/>
+</TextureAtlas>

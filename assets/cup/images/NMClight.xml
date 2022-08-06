@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NMClight.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rgrrr instance 10000" x="10" y="10" width="1237" height="1390" frameX="0" frameY="-28" frameWidth="1237" frameHeight="1447"/>
+	<SubTexture name="rgrrr instance 10001" x="1257" y="10" width="1189" height="1447" frameX="-24" frameY="0" frameWidth="1237" frameHeight="1447"/>
+	<SubTexture name="rgrrr instance 10002" x="2456" y="10" width="1232" height="1359" frameX="-2" frameY="-44" frameWidth="1237" frameHeight="1447"/>
+</TextureAtlas>

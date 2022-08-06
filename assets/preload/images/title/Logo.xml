@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Logo.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tween 11 instance 10000" x="10" y="10" width="883" height="698"/>
+	<SubTexture name="Tween 11 instance 10001" x="903" y="10" width="868" height="686" frameX="-8" frameY="-6" frameWidth="883" frameHeight="698"/>
+	<SubTexture name="Tween 11 instance 10002" x="1781" y="10" width="854" height="675" frameX="-15" frameY="-12" frameWidth="883" frameHeight="698"/>
+	<SubTexture name="Tween 11 instance 10003" x="2645" y="10" width="842" height="666" frameX="-21" frameY="-16" frameWidth="883" frameHeight="698"/>
+	<SubTexture name="Tween 11 instance 10004" x="10" y="718" width="833" height="659" frameX="-25" frameY="-19" frameWidth="883" frameHeight="698"/>
+	<SubTexture name="Tween 11 instance 10005" x="853" y="718" width="826" height="653" frameX="-29" frameY="-22" frameWidth="883" frameHeight="698"/>
+	<SubTexture name="Tween 11 instance 10006" x="1689" y="718" width="820" height="649" frameX="-32" frameY="-24" frameWidth="883" frameHeight="698"/>
+	<SubTexture name="Tween 11 instance 10007" x="2519" y="718" width="817" height="647" frameX="-33" frameY="-25" frameWidth="883" frameHeight="698"/>
+	<SubTexture name="Tween 11 instance 10008" x="10" y="1387" width="816" height="647" frameX="-34" frameY="-25" frameWidth="883" frameHeight="698"/>
+	<SubTexture name="Tween 11 instance 10009" x="10" y="1387" width="816" height="647" frameX="-34" frameY="-25" frameWidth="883" frameHeight="698"/>
+	<SubTexture name="Tween 11 instance 10010" x="10" y="1387" width="816" height="647" frameX="-34" frameY="-25" frameWidth="883" frameHeight="698"/>
+	<SubTexture name="Tween 11 instance 10011" x="10" y="1387" width="816" height="647" frameX="-34" frameY="-25" frameWidth="883" frameHeight="698"/>
+	<SubTexture name="Tween 11 instance 10012" x="10" y="1387" width="816" height="647" frameX="-34" frameY="-25" frameWidth="883" frameHeight="698"/>
+	<SubTexture name="Tween 11 instance 10013" x="10" y="1387" width="816" height="647" frameX="-34" frameY="-25" frameWidth="883" frameHeight="698"/>
+</TextureAtlas>

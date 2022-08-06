@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gaster2.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gs30000" x="0" y="0" width="1506" height="1502" frameX="-1496" frameY="-71" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30001" x="1506" y="0" width="1419" height="1268" frameX="-1496" frameY="-305" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30002" x="2925" y="0" width="1270" height="1049" frameX="-1496" frameY="-524" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30003" x="4195" y="0" width="1070" height="844" frameX="-1502" frameY="-732" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30004" x="5265" y="0" width="1003" height="837" frameX="-1502" frameY="-739" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30005" x="6268" y="0" width="916" height="819" frameX="-1502" frameY="-757" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30006" x="7184" y="0" width="856" height="774" frameX="-1502" frameY="-802" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30007" x="0" y="1502" width="791" height="735" frameX="-1502" frameY="-841" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30008" x="791" y="1502" width="784" height="728" frameX="-1502" frameY="-848" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30009" x="1575" y="1502" width="777" height="721" frameX="-1502" frameY="-855" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30010" x="2352" y="1502" width="769" height="714" frameX="-1502" frameY="-862" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30011" x="3121" y="1502" width="762" height="707" frameX="-1502" frameY="-869" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30012" x="3883" y="1502" width="2020" height="1887" frameX="-247" frameY="-866" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30013" x="5903" y="1502" width="2056" height="1915" frameX="-302" frameY="-782" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30014" x="0" y="3417" width="2141" height="2002" frameX="-308" frameY="-698" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30015" x="2141" y="3417" width="2196" height="2052" frameX="-344" frameY="-615" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30016" x="4337" y="3417" width="2232" height="2081" frameX="-400" frameY="-531" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30017" x="0" y="5498" width="2581" height="2416" frameX="-236" frameY="-354" frameWidth="3189" frameHeight="2975"/>
+	<SubTexture name="gs30022" x="2581" y="5498" width="2911" height="2692" frameX="-168" frameY="-117" frameWidth="3189" frameHeight="2975"/>
+</TextureAtlas>

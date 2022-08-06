@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PiperDespair.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PeepAttack instance 10000" x="10" y="10" width="336" height="405" frameX="0" frameY="0" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10001" x="356" y="10" width="411" height="264" frameX="-44" frameY="-141" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10002" x="777" y="10" width="368" height="282" frameX="-160" frameY="-150" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10003" x="1155" y="10" width="367" height="282" frameX="-161" frameY="-150" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10004" x="1532" y="10" width="346" height="254" frameX="-161" frameY="-150" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10005" x="1888" y="10" width="347" height="254" frameX="-160" frameY="-150" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10006" x="2245" y="10" width="249" height="254" frameX="-160" frameY="-150" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10007" x="2504" y="10" width="249" height="253" frameX="-160" frameY="-151" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10008" x="2763" y="10" width="256" height="253" frameX="-160" frameY="-151" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10009" x="3029" y="10" width="256" height="254" frameX="-160" frameY="-150" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10010" x="3295" y="10" width="261" height="254" frameX="-160" frameY="-150" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10011" x="3566" y="10" width="260" height="254" frameX="-161" frameY="-150" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10012" x="10" y="425" width="263" height="254" frameX="-161" frameY="-150" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10013" x="283" y="425" width="263" height="255" frameX="-161" frameY="-149" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10014" x="556" y="425" width="265" height="254" frameX="-160" frameY="-150" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PeepAttack instance 10015" x="831" y="425" width="264" height="254" frameX="-161" frameY="-150" frameWidth="528" frameHeight="432"/>
+	<SubTexture name="PipAttack instance 10000" x="1105" y="425" width="174" height="278" frameX="-50" frameY="-26" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10001" x="1289" y="425" width="174" height="278" frameX="-50" frameY="-26" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10002" x="1473" y="425" width="194" height="278" frameX="0" frameY="-26" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10003" x="1677" y="425" width="193" height="278" frameX="0" frameY="-26" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10004" x="1880" y="425" width="187" height="278" frameX="-9" frameY="-26" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10005" x="2077" y="425" width="186" height="278" frameX="-9" frameY="-26" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10006" x="2273" y="425" width="150" height="285" frameX="-47" frameY="-19" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10007" x="2273" y="425" width="150" height="285" frameX="-47" frameY="-19" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10008" x="2433" y="425" width="152" height="297" frameX="-48" frameY="-7" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10009" x="2595" y="425" width="152" height="297" frameX="-48" frameY="-7" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10010" x="2757" y="425" width="167" height="298" frameX="-34" frameY="-6" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10011" x="2934" y="425" width="168" height="298" frameX="-34" frameY="-6" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10012" x="3112" y="425" width="173" height="300" frameX="-28" frameY="-4" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10013" x="3295" y="425" width="173" height="300" frameX="-28" frameY="-4" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10014" x="3478" y="425" width="173" height="301" frameX="-28" frameY="-3" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10015" x="3661" y="425" width="173" height="301" frameX="-28" frameY="-3" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10016" x="3844" y="425" width="173" height="302" frameX="-28" frameY="-2" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10017" x="10" y="737" width="172" height="302" frameX="-28" frameY="-2" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10018" x="192" y="737" width="171" height="302" frameX="-29" frameY="-2" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10019" x="373" y="737" width="172" height="302" frameX="-29" frameY="-2" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10020" x="555" y="737" width="172" height="303" frameX="-29" frameY="-1" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10021" x="737" y="737" width="172" height="303" frameX="-29" frameY="-1" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10022" x="919" y="737" width="171" height="303" frameX="-30" frameY="-1" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10023" x="1100" y="737" width="172" height="303" frameX="-30" frameY="-1" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10024" x="1282" y="737" width="170" height="304" frameX="-31" frameY="0" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="PipAttack instance 10025" x="1462" y="737" width="170" height="304" frameX="-31" frameY="0" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="Piper ded instance 10000" x="1642" y="737" width="174" height="278" frameX="-41" frameY="-89" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10001" x="1826" y="737" width="207" height="278" frameX="-51" frameY="-89" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10002" x="2043" y="737" width="235" height="341" frameX="-25" frameY="-26" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10003" x="2288" y="737" width="250" height="362" frameX="-18" frameY="-5" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10004" x="2548" y="737" width="259" height="366" frameX="-15" frameY="-2" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10005" x="2817" y="737" width="267" height="368" frameX="-12" frameY="0" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10006" x="3094" y="737" width="253" height="369" frameX="-9" frameY="0" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10007" x="3357" y="737" width="260" height="369" frameX="-3" frameY="0" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10008" x="3627" y="737" width="262" height="369" frameX="-3" frameY="0" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10009" x="10" y="1116" width="263" height="369" frameX="-2" frameY="0" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10010" x="283" y="1116" width="263" height="367" frameX="-2" frameY="0" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10011" x="556" y="1116" width="203" height="276" frameX="-62" frameY="-91" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10012" x="769" y="1116" width="202" height="271" frameX="-62" frameY="-96" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10013" x="981" y="1116" width="202" height="271" frameX="-62" frameY="-96" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10014" x="1193" y="1116" width="211" height="262" frameX="-62" frameY="-105" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10015" x="1414" y="1116" width="211" height="262" frameX="-62" frameY="-105" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10016" x="1635" y="1116" width="231" height="249" frameX="-60" frameY="-118" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10017" x="1876" y="1116" width="231" height="249" frameX="-60" frameY="-118" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10018" x="2117" y="1116" width="265" height="231" frameX="-47" frameY="-135" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10019" x="2392" y="1116" width="265" height="230" frameX="-47" frameY="-136" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10020" x="2667" y="1116" width="294" height="192" frameX="-43" frameY="-174" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10021" x="2971" y="1116" width="331" height="112" frameX="-27" frameY="-293" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10022" x="3312" y="1116" width="297" height="119" frameX="-50" frameY="-256" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10023" x="3619" y="1116" width="297" height="119" frameX="-50" frameY="-256" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10024" x="10" y="1495" width="303" height="108" frameX="-44" frameY="-283" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10025" x="323" y="1495" width="302" height="108" frameX="-44" frameY="-283" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10026" x="635" y="1495" width="306" height="123" frameX="-40" frameY="-287" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10027" x="951" y="1495" width="306" height="123" frameX="-40" frameY="-287" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10028" x="1267" y="1495" width="306" height="123" frameX="-40" frameY="-287" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10029" x="1583" y="1495" width="306" height="123" frameX="-40" frameY="-287" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10030" x="1899" y="1495" width="315" height="123" frameX="-40" frameY="-287" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10031" x="2224" y="1495" width="366" height="123" frameX="-19" frameY="-287" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10032" x="2600" y="1495" width="392" height="123" frameX="-6" frameY="-287" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10033" x="3002" y="1495" width="403" height="123" frameX="0" frameY="-287" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10034" x="3415" y="1495" width="403" height="123" frameX="0" frameY="-287" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10035" x="10" y="1628" width="403" height="122" frameX="-2" frameY="-287" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10036" x="423" y="1628" width="392" height="119" frameX="-4" frameY="-289" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10037" x="825" y="1628" width="386" height="114" frameX="-6" frameY="-291" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10038" x="1221" y="1628" width="379" height="107" frameX="-8" frameY="-295" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10039" x="1610" y="1628" width="370" height="98" frameX="-11" frameY="-299" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10040" x="1990" y="1628" width="360" height="92" frameX="-14" frameY="-304" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10041" x="2360" y="1628" width="348" height="84" frameX="-18" frameY="-311" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10042" x="2718" y="1628" width="335" height="77" frameX="-22" frameY="-318" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10043" x="3063" y="1628" width="305" height="68" frameX="-27" frameY="-326" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10044" x="3378" y="1628" width="292" height="63" frameX="-32" frameY="-330" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10045" x="3680" y="1628" width="278" height="58" frameX="-37" frameY="-333" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10046" x="10" y="1760" width="263" height="56" frameX="-43" frameY="-334" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10047" x="283" y="1760" width="204" height="54" frameX="-49" frameY="-335" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10048" x="497" y="1760" width="189" height="50" frameX="-56" frameY="-337" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10049" x="696" y="1760" width="174" height="47" frameX="-63" frameY="-339" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10050" x="880" y="1760" width="34" height="12" frameX="-71" frameY="-340" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper ded instance 10051" x="924" y="1760" width="21" height="8" frameX="-79" frameY="-342" frameWidth="405" frameHeight="410"/>
+	<SubTexture name="Piper gets Hit instance 10000" x="955" y="1760" width="241" height="253" frameX="-39" frameY="-113" frameWidth="282" frameHeight="367"/>
+	<SubTexture name="Piper gets Hit instance 10001" x="1206" y="1760" width="220" height="267" frameX="-36" frameY="-100" frameWidth="282" frameHeight="367"/>
+	<SubTexture name="Piper gets Hit instance 10002" x="1436" y="1760" width="248" height="342" frameX="-24" frameY="-25" frameWidth="282" frameHeight="367"/>
+	<SubTexture name="Piper gets Hit instance 10003" x="1694" y="1760" width="254" height="362" frameX="-17" frameY="-5" frameWidth="282" frameHeight="367"/>
+	<SubTexture name="Piper gets Hit instance 10004" x="1958" y="1760" width="265" height="365" frameX="-13" frameY="-2" frameWidth="282" frameHeight="367"/>
+	<SubTexture name="Piper gets Hit instance 10005" x="2233" y="1760" width="271" height="367" frameX="-11" frameY="0" frameWidth="282" frameHeight="367"/>
+	<SubTexture name="Piper gets Hit instance 10006" x="2514" y="1760" width="261" height="366" frameX="-7" frameY="-1" frameWidth="282" frameHeight="367"/>
+	<SubTexture name="Piper gets Hit instance 10007" x="2785" y="1760" width="265" height="367" frameX="-1" frameY="0" frameWidth="282" frameHeight="367"/>
+	<SubTexture name="Piper gets Hit instance 10008" x="2785" y="1760" width="265" height="367" frameX="-1" frameY="0" frameWidth="282" frameHeight="367"/>
+	<SubTexture name="Piper gets Hit instance 10009" x="3060" y="1760" width="268" height="367" frameX="0" frameY="0" frameWidth="282" frameHeight="367"/>
+	<SubTexture name="Piper gets Hit instance 10010" x="3338" y="1760" width="268" height="367" frameX="0" frameY="0" frameWidth="282" frameHeight="367"/>
+	<SubTexture name="Piperr instance 10000" x="3616" y="1760" width="181" height="266" frameX="-5" frameY="-13" frameWidth="186" frameHeight="280"/>
+	<SubTexture name="Piperr instance 10001" x="1105" y="425" width="174" height="278" frameX="-8" frameY="-1" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="Piperr instance 10002" x="1289" y="425" width="174" height="278" frameX="-8" frameY="-2" frameWidth="224" frameHeight="304"/>
+	<SubTexture name="Piperr instance 10003" x="3807" y="1760" width="175" height="279" frameX="-6" frameY="-1" frameWidth="186" frameHeight="280"/>
+	<SubTexture name="Piperr instance 10004" x="10" y="2137" width="175" height="279" frameX="-6" frameY="-1" frameWidth="186" frameHeight="280"/>
+	<SubTexture name="Piperr instance 10005" x="195" y="2137" width="177" height="280" frameX="-3" frameY="0" frameWidth="186" frameHeight="280"/>
+	<SubTexture name="Piperr instance 10006" x="382" y="2137" width="177" height="279" frameX="-3" frameY="-1" frameWidth="186" frameHeight="280"/>
+	<SubTexture name="Piperr instance 10007" x="569" y="2137" width="178" height="279" frameX="-2" frameY="-1" frameWidth="186" frameHeight="280"/>
+	<SubTexture name="Piperr instance 10008" x="757" y="2137" width="178" height="280" frameX="-2" frameY="0" frameWidth="186" frameHeight="280"/>
+	<SubTexture name="Piperr instance 10009" x="945" y="2137" width="178" height="280" frameX="-1" frameY="0" frameWidth="186" frameHeight="280"/>
+	<SubTexture name="Piperr instance 10010" x="1133" y="2137" width="178" height="279" frameX="-1" frameY="-1" frameWidth="186" frameHeight="280"/>
+	<SubTexture name="Piperr instance 10011" x="1321" y="2137" width="179" height="279" frameX="0" frameY="-1" frameWidth="186" frameHeight="280"/>
+	<SubTexture name="Piperr instance 10012" x="1510" y="2137" width="179" height="280" frameX="0" frameY="0" frameWidth="186" frameHeight="280"/>
+	<SubTexture name="Piperr instance 10013" x="1699" y="2137" width="179" height="280" frameX="0" frameY="0" frameWidth="186" frameHeight="280"/>
+	<SubTexture name="Piperr instance 10014" x="1699" y="2137" width="179" height="280" frameX="0" frameY="-1" frameWidth="186" frameHeight="280"/>
+	<SubTexture name="pip walk instance 10000" x="1888" y="2137" width="186" height="262" frameX="-12" frameY="-24" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10001" x="1888" y="2137" width="186" height="262" frameX="-12" frameY="-24" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10002" x="2084" y="2137" width="211" height="266" frameX="0" frameY="-19" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10003" x="2084" y="2137" width="211" height="266" frameX="0" frameY="-19" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10004" x="2305" y="2137" width="187" height="269" frameX="-20" frameY="-15" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10005" x="2305" y="2137" width="187" height="269" frameX="-20" frameY="-15" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10006" x="2502" y="2137" width="182" height="268" frameX="-53" frameY="-14" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10007" x="2502" y="2137" width="182" height="268" frameX="-53" frameY="-14" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10008" x="2694" y="2137" width="195" height="273" frameX="-70" frameY="-13" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10009" x="2694" y="2137" width="195" height="273" frameX="-70" frameY="-13" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10010" x="2899" y="2137" width="198" height="289" frameX="-75" frameY="-8" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10011" x="2899" y="2137" width="198" height="289" frameX="-75" frameY="-8" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10012" x="3107" y="2137" width="192" height="298" frameX="-80" frameY="-6" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10013" x="3107" y="2137" width="192" height="298" frameX="-80" frameY="-6" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10014" x="3309" y="2137" width="174" height="306" frameX="-84" frameY="0" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10015" x="3309" y="2137" width="174" height="306" frameX="-84" frameY="0" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10016" x="3493" y="2137" width="171" height="280" frameX="-65" frameY="-2" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10017" x="3493" y="2137" width="171" height="280" frameX="-65" frameY="-2" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10018" x="3674" y="2137" width="179" height="272" frameX="-37" frameY="-8" frameWidth="273" frameHeight="306"/>
+	<SubTexture name="pip walk instance 10019" x="3674" y="2137" width="179" height="272" frameX="-37" frameY="-8" frameWidth="273" frameHeight="306"/>
+</TextureAtlas>

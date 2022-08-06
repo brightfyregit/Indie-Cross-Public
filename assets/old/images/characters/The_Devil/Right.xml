@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Right.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dog instance 10000" x="10" y="10" width="1782" height="1286" frameX="-48" frameY="-43" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10001" x="1802" y="10" width="1723" height="1336" frameX="-52" frameY="0" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10002" x="1802" y="10" width="1723" height="1336" frameX="-52" frameY="0" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10003" x="3535" y="10" width="1732" height="1330" frameX="-42" frameY="-4" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10004" x="3535" y="10" width="1732" height="1330" frameX="-42" frameY="-4" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10005" x="5277" y="10" width="1740" height="1324" frameX="-32" frameY="-8" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10006" x="5277" y="10" width="1740" height="1324" frameX="-32" frameY="-8" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10007" x="10" y="1356" width="1747" height="1320" frameX="-24" frameY="-11" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10008" x="10" y="1356" width="1747" height="1320" frameX="-24" frameY="-11" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10009" x="1767" y="1356" width="1753" height="1315" frameX="-17" frameY="-14" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10010" x="1767" y="1356" width="1753" height="1315" frameX="-17" frameY="-14" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10011" x="3530" y="1356" width="1757" height="1311" frameX="-12" frameY="-17" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10012" x="3530" y="1356" width="1757" height="1311" frameX="-12" frameY="-17" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10013" x="5297" y="1356" width="1761" height="1308" frameX="-8" frameY="-19" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10014" x="5297" y="1356" width="1761" height="1308" frameX="-8" frameY="-19" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10015" x="10" y="2686" width="1764" height="1307" frameX="-4" frameY="-20" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10016" x="10" y="2686" width="1764" height="1307" frameX="-4" frameY="-20" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10017" x="1784" y="2686" width="1766" height="1305" frameX="-2" frameY="-21" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10018" x="1784" y="2686" width="1766" height="1305" frameX="-2" frameY="-21" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10019" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10020" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10021" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10022" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10023" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10024" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10025" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10026" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10027" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10028" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10029" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10030" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10031" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10032" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10033" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10034" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+	<SubTexture name="Dog instance 10035" x="3560" y="2686" width="1767" height="1304" frameX="0" frameY="-22" frameWidth="1830" frameHeight="1336"/>
+</TextureAtlas>

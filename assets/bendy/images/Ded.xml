@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ded.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Res0000" x="10" y="10" width="611" height="243" frameX="-4" frameY="0" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0001" x="631" y="10" width="611" height="243" frameX="-4" frameY="0" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0002" x="1252" y="10" width="620" height="243"/>
+	<SubTexture name="Res0003" x="1882" y="10" width="620" height="243"/>
+	<SubTexture name="Res0004" x="2512" y="10" width="611" height="243" frameX="-4" frameY="0" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0005" x="3133" y="10" width="611" height="243" frameX="-4" frameY="0" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0006" x="10" y="263" width="611" height="243" frameX="-4" frameY="0" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0007" x="631" y="263" width="611" height="243" frameX="-4" frameY="0" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0008" x="1252" y="263" width="611" height="243" frameX="-4" frameY="0" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0009" x="1873" y="263" width="611" height="243" frameX="-4" frameY="0" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0010" x="2494" y="263" width="611" height="243" frameX="-4" frameY="0" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0011" x="3115" y="263" width="611" height="243" frameX="-4" frameY="0" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0012" x="10" y="516" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0013" x="629" y="516" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0014" x="1248" y="516" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0015" x="1867" y="516" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0016" x="2486" y="516" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0017" x="3105" y="516" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0018" x="10" y="731" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0019" x="629" y="731" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0020" x="1248" y="731" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0021" x="1867" y="731" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0022" x="2486" y="731" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0023" x="3105" y="731" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0024" x="10" y="946" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0025" x="629" y="946" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0026" x="1248" y="946" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0027" x="1867" y="946" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0028" x="2486" y="946" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0029" x="3105" y="946" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Res0030" x="10" y="1161" width="609" height="205" frameX="-5" frameY="-19" frameWidth="620" frameHeight="243"/>
+	<SubTexture name="Reset0000" x="639" y="1161" width="551" height="189" frameX="-29" frameY="-9" frameWidth="609" frameHeight="207"/>
+	<SubTexture name="Reset0001" x="1200" y="1161" width="558" height="192" frameX="-26" frameY="-8" frameWidth="609" frameHeight="207"/>
+	<SubTexture name="Reset0002" x="1768" y="1161" width="563" height="194" frameX="-23" frameY="-7" frameWidth="609" frameHeight="207"/>
+	<SubTexture name="Reset0003" x="2341" y="1161" width="571" height="195" frameX="-19" frameY="-6" frameWidth="609" frameHeight="207"/>
+	<SubTexture name="Reset0004" x="2922" y="1161" width="577" height="197" frameX="-16" frameY="-5" frameWidth="609" frameHeight="207"/>
+	<SubTexture name="Reset0005" x="10" y="1376" width="583" height="199" frameX="-13" frameY="-4" frameWidth="609" frameHeight="207"/>
+	<SubTexture name="Reset0006" x="603" y="1376" width="589" height="201" frameX="-10" frameY="-3" frameWidth="609" frameHeight="207"/>
+	<SubTexture name="Reset0007" x="1202" y="1376" width="595" height="203" frameX="-7" frameY="-2" frameWidth="609" frameHeight="207"/>
+	<SubTexture name="Reset0008" x="1807" y="1376" width="599" height="203" frameX="-5" frameY="-2" frameWidth="609" frameHeight="207"/>
+	<SubTexture name="Reset0009" x="2416" y="1376" width="601" height="204" frameX="-4" frameY="-2" frameWidth="609" frameHeight="207"/>
+	<SubTexture name="Reset0010" x="3027" y="1376" width="605" height="205" frameX="-2" frameY="-1" frameWidth="609" frameHeight="207"/>
+	<SubTexture name="Reset0011" x="10" y="1591" width="607" height="205" frameX="-1" frameY="-1" frameWidth="609" frameHeight="207"/>
+	<SubTexture name="Reset0012" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0013" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0014" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0015" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0016" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0017" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0018" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0019" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0020" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0021" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0022" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0023" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0024" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0025" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0026" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0027" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0028" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0029" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0030" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0031" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0032" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0033" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0034" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0035" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0036" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0037" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0038" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0039" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0040" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0041" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0042" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0043" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0044" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0045" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0046" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0047" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0048" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0049" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0050" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0051" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0052" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0053" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0054" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0055" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0056" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0057" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0058" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0059" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0060" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0061" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0062" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0063" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0064" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0065" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0066" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0067" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0068" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0069" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0070" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0071" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0072" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0073" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0074" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0075" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0076" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0077" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0078" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0079" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0080" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0081" x="627" y="1591" width="609" height="207"/>
+	<SubTexture name="Reset0082" x="627" y="1591" width="609" height="207"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled_Goose_BG.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG instance 10000" x="0" y="0" width="2165" height="1252"/>
+	<SubTexture name="BG instance 10001" x="0" y="0" width="2165" height="1252"/>
+	<SubTexture name="BG instance 10002" x="2165" y="0" width="2165" height="1252"/>
+	<SubTexture name="BG instance 10003" x="2165" y="0" width="2165" height="1252"/>
+	<SubTexture name="BG instance 10004" x="4330" y="0" width="2165" height="1252"/>
+	<SubTexture name="BG instance 10005" x="4330" y="0" width="2165" height="1252"/>
+	<SubTexture name="BG instance 10006" x="0" y="1252" width="2165" height="1252"/>
+	<SubTexture name="BG instance 10007" x="0" y="1252" width="2165" height="1252"/>
+	<SubTexture name="BG instance 10008" x="2165" y="1252" width="2165" height="1252"/>
+	<SubTexture name="BG instance 10009" x="2165" y="1252" width="2165" height="1252"/>
+	<SubTexture name="BG instance 10010" x="4330" y="1252" width="2165" height="1252"/>
+	<SubTexture name="BG instance 10011" x="0" y="2504" width="2165" height="1252"/>
+	<SubTexture name="BG instance 10012" x="0" y="2504" width="2165" height="1252"/>
+	<SubTexture name="BG instance 10013" x="0" y="2504" width="2165" height="1252"/>
+	<SubTexture name="BG instance 10014" x="0" y="2504" width="2165" height="1252"/>
+</TextureAtlas>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Difficulties.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Chart Easy instance 10000" x="10" y="10" width="595" height="67"/>
+	<SubTexture name="Chart Hard instance 10000" x="615" y="10" width="592" height="63"/>
+	<SubTexture name="Chart Normal instance 10000" x="1217" y="10" width="594" height="68"/>
+	<SubTexture name="Mechs Dis instance 10000" x="10" y="88" width="595" height="94"/>
+	<SubTexture name="Mechs Hard instance 10000" x="615" y="88" width="595" height="94"/>
+	<SubTexture name="Mechs Hell instance 10000" x="1220" y="88" width="602" height="123"/>
+	<SubTexture name="Mechs Hell instance 10001" x="10" y="221" width="593" height="94" frameX="-9" frameY="-29" frameWidth="602" frameHeight="123"/>
+	<SubTexture name="Mechs Hell instance 10002" x="613" y="221" width="593" height="104" frameX="-9" frameY="-19" frameWidth="602" frameHeight="123"/>
+	<SubTexture name="Mechs Hell instance 10003" x="1216" y="221" width="593" height="94" frameX="-9" frameY="-29" frameWidth="602" frameHeight="123"/>
+	<SubTexture name="Mechs Hell instance 10004" x="10" y="335" width="593" height="95" frameX="-9" frameY="-28" frameWidth="602" frameHeight="123"/>
+	<SubTexture name="Mechs Hell instance 10005" x="613" y="335" width="593" height="94" frameX="-9" frameY="-29" frameWidth="602" frameHeight="123"/>
+	<SubTexture name="Mechs Hell instance 10006" x="1216" y="335" width="595" height="100" frameX="-7" frameY="-23" frameWidth="602" frameHeight="123"/>
+	<SubTexture name="Mechs Hell instance 10007" x="10" y="445" width="593" height="94" frameX="-9" frameY="-29" frameWidth="602" frameHeight="123"/>
+	<SubTexture name="Mechs Hell instance 10008" x="613" y="445" width="593" height="104" frameX="-9" frameY="-19" frameWidth="602" frameHeight="123"/>
+	<SubTexture name="Mechs Hell instance 10009" x="1216" y="445" width="593" height="94" frameX="-9" frameY="-29" frameWidth="602" frameHeight="123"/>
+	<SubTexture name="Mechs Hell instance 10010" x="10" y="559" width="593" height="95" frameX="-9" frameY="-28" frameWidth="602" frameHeight="123"/>
+	<SubTexture name="Mechs Hell instance 10011" x="613" y="559" width="593" height="94" frameX="-9" frameY="-29" frameWidth="602" frameHeight="123"/>
+</TextureAtlas>

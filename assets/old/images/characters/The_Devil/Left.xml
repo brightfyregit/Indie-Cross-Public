@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Left.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10000" x="10" y="10" width="2420" height="1171" frameX="0" frameY="-49" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10001" x="2440" y="10" width="2318" height="1202" frameX="-71" frameY="-19" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10002" x="2440" y="10" width="2318" height="1202" frameX="-71" frameY="-19" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10003" x="4768" y="10" width="2317" height="1217" frameX="-72" frameY="-5" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10004" x="4768" y="10" width="2317" height="1217" frameX="-72" frameY="-5" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10005" x="10" y="1237" width="2316" height="1219" frameX="-73" frameY="-4" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10006" x="10" y="1237" width="2316" height="1219" frameX="-73" frameY="-4" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10007" x="2336" y="1237" width="2315" height="1221" frameX="-74" frameY="-3" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10008" x="2336" y="1237" width="2315" height="1221" frameX="-74" frameY="-3" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10009" x="4661" y="1237" width="2315" height="1223" frameX="-74" frameY="-2" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10010" x="4661" y="1237" width="2315" height="1223" frameX="-74" frameY="-2" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10011" x="10" y="2470" width="2314" height="1224" frameX="-75" frameY="-1" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10012" x="10" y="2470" width="2314" height="1224" frameX="-75" frameY="-1" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10013" x="2334" y="2470" width="2314" height="1225" frameX="-75" frameY="-1" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10014" x="2334" y="2470" width="2314" height="1225" frameX="-75" frameY="-1" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10015" x="4658" y="2470" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10016" x="4658" y="2470" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10017" x="10" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10018" x="10" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10019" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10020" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10021" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10022" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10023" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10024" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10025" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10026" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10027" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10028" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10029" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10030" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10031" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10032" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10033" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+	<SubTexture name="they call me uhh smth Idk I forgot the line instance 10034" x="2333" y="3706" width="2313" height="1226" frameX="-76" frameY="0" frameWidth="2420" frameHeight="1226"/>
+</TextureAtlas>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cuphead.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CupON THE GROUND NOW instance 10000" x="10" y="10" width="416" height="400" frameX="0" frameY="-19" frameWidth="416" frameHeight="420"/>
+	<SubTexture name="CupON THE GROUND NOW instance 10001" x="436" y="10" width="407" height="416" frameX="-6" frameY="-3" frameWidth="416" frameHeight="420"/>
+	<SubTexture name="CupON THE GROUND NOW instance 10002" x="436" y="10" width="407" height="416" frameX="-6" frameY="-3" frameWidth="416" frameHeight="420"/>
+	<SubTexture name="CupON THE GROUND NOW instance 10003" x="853" y="10" width="407" height="418" frameX="-6" frameY="-1" frameWidth="416" frameHeight="420"/>
+	<SubTexture name="CupON THE GROUND NOW instance 10004" x="853" y="10" width="407" height="418" frameX="-6" frameY="-1" frameWidth="416" frameHeight="420"/>
+	<SubTexture name="CupON THE GROUND NOW instance 10005" x="1270" y="10" width="407" height="420" frameX="-6" frameY="0" frameWidth="416" frameHeight="420"/>
+	<SubTexture name="CupON THE GROUND NOW instance 10006" x="1270" y="10" width="407" height="420" frameX="-6" frameY="0" frameWidth="416" frameHeight="420"/>
+	<SubTexture name="CupON THE GROUND NOW instance 10007" x="1270" y="10" width="407" height="420" frameX="-6" frameY="0" frameWidth="416" frameHeight="420"/>
+	<SubTexture name="CupUp instance 10000" x="1687" y="10" width="448" height="463" frameX="-10" frameY="0" frameWidth="475" frameHeight="463"/>
+	<SubTexture name="CupUp instance 10001" x="2145" y="10" width="463" height="438" frameX="-4" frameY="-25" frameWidth="475" frameHeight="463"/>
+	<SubTexture name="CupUp instance 10002" x="2145" y="10" width="463" height="438" frameX="-4" frameY="-25" frameWidth="475" frameHeight="463"/>
+	<SubTexture name="CupUp instance 10003" x="2618" y="10" width="472" height="430" frameX="-1" frameY="-33" frameWidth="475" frameHeight="463"/>
+	<SubTexture name="CupUp instance 10004" x="2618" y="10" width="472" height="430" frameX="-1" frameY="-33" frameWidth="475" frameHeight="463"/>
+	<SubTexture name="CupUp instance 10005" x="3100" y="10" width="475" height="426" frameX="0" frameY="-37" frameWidth="475" frameHeight="463"/>
+	<SubTexture name="CupUp instance 10006" x="3100" y="10" width="475" height="426" frameX="0" frameY="-37" frameWidth="475" frameHeight="463"/>
+	<SubTexture name="Cuphead_standing instance 10000" x="3585" y="10" width="357" height="434" frameX="-21" frameY="0" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10001" x="3585" y="10" width="357" height="434" frameX="-21" frameY="0" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10002" x="3585" y="10" width="357" height="434" frameX="-21" frameY="0" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10003" x="3585" y="10" width="357" height="434" frameX="-21" frameY="0" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10004" x="10" y="483" width="360" height="431" frameX="-18" frameY="-3" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10005" x="10" y="483" width="360" height="431" frameX="-18" frameY="-3" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10006" x="10" y="483" width="360" height="431" frameX="-18" frameY="-3" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10007" x="10" y="483" width="360" height="431" frameX="-18" frameY="-3" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10008" x="10" y="483" width="360" height="431" frameX="-18" frameY="-3" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10009" x="380" y="483" width="363" height="429" frameX="-15" frameY="-5" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10010" x="380" y="483" width="363" height="429" frameX="-15" frameY="-5" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10011" x="380" y="483" width="363" height="429" frameX="-15" frameY="-5" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10012" x="380" y="483" width="363" height="429" frameX="-15" frameY="-5" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10013" x="753" y="483" width="381" height="412" frameX="0" frameY="-21" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10014" x="753" y="483" width="381" height="412" frameX="0" frameY="-21" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10015" x="753" y="483" width="381" height="412" frameX="0" frameY="-21" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10016" x="1144" y="483" width="373" height="420" frameX="-5" frameY="-14" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10017" x="1144" y="483" width="373" height="420" frameX="-5" frameY="-14" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10018" x="1144" y="483" width="373" height="420" frameX="-5" frameY="-14" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10019" x="380" y="483" width="363" height="429" frameX="-15" frameY="-5" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10020" x="380" y="483" width="363" height="429" frameX="-15" frameY="-5" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10021" x="380" y="483" width="363" height="429" frameX="-15" frameY="-5" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10022" x="10" y="483" width="360" height="431" frameX="-18" frameY="-3" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10023" x="10" y="483" width="360" height="431" frameX="-18" frameY="-3" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10024" x="10" y="483" width="360" height="431" frameX="-18" frameY="-3" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cuphead_standing instance 10025" x="10" y="483" width="360" height="431" frameX="-18" frameY="-3" frameWidth="381" frameHeight="434"/>
+	<SubTexture name="Cupleft instance 10000" x="1527" y="483" width="501" height="426" frameX="0" frameY="-8" frameWidth="519" frameHeight="434"/>
+	<SubTexture name="Cupleft instance 10001" x="2038" y="483" width="495" height="434" frameX="-15" frameY="0" frameWidth="519" frameHeight="434"/>
+	<SubTexture name="Cupleft instance 10002" x="2038" y="483" width="495" height="434" frameX="-15" frameY="0" frameWidth="519" frameHeight="434"/>
+	<SubTexture name="Cupleft instance 10003" x="2543" y="483" width="497" height="434" frameX="-18" frameY="0" frameWidth="519" frameHeight="434"/>
+	<SubTexture name="Cupleft instance 10004" x="2543" y="483" width="497" height="434" frameX="-18" frameY="0" frameWidth="519" frameHeight="434"/>
+	<SubTexture name="Cupleft instance 10005" x="3050" y="483" width="500" height="434" frameX="-19" frameY="0" frameWidth="519" frameHeight="434"/>
+	<SubTexture name="Cupleft instance 10006" x="3050" y="483" width="500" height="434" frameX="-19" frameY="0" frameWidth="519" frameHeight="434"/>
+	<SubTexture name="CupyRight instance 10000" x="3560" y="483" width="411" height="439" frameX="0" frameY="-6" frameWidth="411" frameHeight="445"/>
+	<SubTexture name="CupyRight instance 10001" x="10" y="932" width="374" height="445" frameX="-6" frameY="0" frameWidth="411" frameHeight="445"/>
+	<SubTexture name="CupyRight instance 10002" x="10" y="932" width="374" height="445" frameX="-6" frameY="0" frameWidth="411" frameHeight="445"/>
+	<SubTexture name="CupyRight instance 10003" x="394" y="932" width="371" height="427" frameX="-6" frameY="-18" frameWidth="411" frameHeight="445"/>
+	<SubTexture name="CupyRight instance 10004" x="394" y="932" width="371" height="427" frameX="-6" frameY="-18" frameWidth="411" frameHeight="445"/>
+	<SubTexture name="CupyRight instance 10005" x="775" y="932" width="369" height="427" frameX="-6" frameY="-18" frameWidth="411" frameHeight="445"/>
+	<SubTexture name="CupyRight instance 10006" x="775" y="932" width="369" height="427" frameX="-6" frameY="-18" frameWidth="411" frameHeight="445"/>
+	<SubTexture name="CupyRight instance 10007" x="775" y="932" width="369" height="427" frameX="-6" frameY="-18" frameWidth="411" frameHeight="445"/>
+	<SubTexture name="CupyRight instance 10008" x="775" y="932" width="369" height="427" frameX="-6" frameY="-18" frameWidth="411" frameHeight="445"/>
+</TextureAtlas>

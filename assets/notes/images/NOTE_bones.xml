@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_bones.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downB alone0000" x="183" y="211" width="163" height="183"/>
+	<SubTexture name="downO alone0000" x="10" y="216" width="157" height="164"/>
+	<SubTexture name="leftB alone0000" x="10" y="10" width="163" height="196"/>
+	<SubTexture name="leftB hold0000" x="237" y="404" width="50" height="44"/>
+	<SubTexture name="leftB tail0000" x="177" y="404" width="50" height="64"/>
+	<SubTexture name="leftO alone0000" x="356" y="185" width="151" height="157"/>
+	<SubTexture name="leftO hold0000" x="237" y="458" width="50" height="44"/>
+	<SubTexture name="leftO tail0000" x="177" y="478" width="50" height="64"/>
+	<SubTexture name="rightB alone0000" x="183" y="10" width="159" height="191"/>
+	<SubTexture name="rightO alone0000" x="356" y="352" width="151" height="157"/>
+	<SubTexture name="upB alone0000" x="352" y="10" width="158" height="165"/>
+	<SubTexture name="upO alone0000" x="10" y="390" width="157" height="164"/>
+</TextureAtlas>

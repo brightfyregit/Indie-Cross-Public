@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE sin notes.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="D-Down0000" x="2" y="2" width="282" height="449" frameX="-22" frameY="0" frameWidth="330" frameHeight="462"/>
+	<SubTexture name="D-Down0001" x="284" y="2" width="290" height="449" frameX="-16" frameY="0" frameWidth="330" frameHeight="462"/>
+	<SubTexture name="D-Down0002" x="574" y="2" width="274" height="448" frameX="-27" frameY="0" frameWidth="330" frameHeight="462"/>
+	<SubTexture name="D-Down0003" x="848" y="2" width="297" height="448" frameX="-17" frameY="0" frameWidth="330" frameHeight="462"/>
+	<SubTexture name="D-Down0004" x="1145" y="2" width="274" height="448" frameX="-27" frameY="0" frameWidth="330" frameHeight="462"/>
+	<SubTexture name="D-Down0005" x="1419" y="2" width="300" height="448" frameX="-9" frameY="0" frameWidth="330" frameHeight="462"/>
+	<SubTexture name="D-Down0006" x="1719" y="2" width="318" height="448" frameX="-7" frameY="0" frameWidth="330" frameHeight="462"/>
+	<SubTexture name="D-Down0007" x="2037" y="2" width="274" height="448" frameX="-27" frameY="0" frameWidth="330" frameHeight="462"/>
+	<SubTexture name="D-Down0008" x="2311" y="2" width="330" height="462"/>
+	<SubTexture name="D-Down0009" x="2641" y="2" width="308" height="448" frameX="-6" frameY="0" frameWidth="330" frameHeight="462"/>
+	<SubTexture name="D-Left0000" x="2949" y="2" width="302" height="420" frameX="-18" frameY="0" frameWidth="330" frameHeight="434"/>
+	<SubTexture name="D-Left0001" x="3251" y="2" width="304" height="420" frameX="-16" frameY="0" frameWidth="330" frameHeight="434"/>
+	<SubTexture name="D-Left0002" x="3555" y="2" width="302" height="420" frameX="-18" frameY="0" frameWidth="330" frameHeight="434"/>
+	<SubTexture name="D-Left0003" x="2" y="464" width="303" height="420" frameX="-17" frameY="0" frameWidth="330" frameHeight="434"/>
+	<SubTexture name="D-Left0004" x="305" y="464" width="302" height="420" frameX="-18" frameY="0" frameWidth="330" frameHeight="434"/>
+	<SubTexture name="D-Left0005" x="607" y="464" width="311" height="420" frameX="-9" frameY="0" frameWidth="330" frameHeight="434"/>
+	<SubTexture name="D-Left0006" x="918" y="464" width="318" height="420" frameX="-7" frameY="0" frameWidth="330" frameHeight="434"/>
+	<SubTexture name="D-Left0007" x="1236" y="464" width="302" height="420" frameX="-18" frameY="0" frameWidth="330" frameHeight="434"/>
+	<SubTexture name="D-Left0008" x="1538" y="464" width="330" height="434"/>
+	<SubTexture name="D-Left0009" x="1868" y="464" width="314" height="419" frameX="-6" frameY="0" frameWidth="330" frameHeight="434"/>
+	<SubTexture name="D-Right0000" x="2182" y="464" width="301" height="439" frameX="-5" frameY="0" frameWidth="330" frameHeight="452"/>
+	<SubTexture name="D-Right0001" x="2483" y="464" width="301" height="439" frameX="-5" frameY="0" frameWidth="330" frameHeight="452"/>
+	<SubTexture name="D-Right0002" x="2784" y="464" width="301" height="438" frameX="-5" frameY="0" frameWidth="330" frameHeight="452"/>
+	<SubTexture name="D-Right0003" x="3085" y="464" width="309" height="438" frameX="-5" frameY="0" frameWidth="330" frameHeight="452"/>
+	<SubTexture name="D-Right0004" x="3394" y="464" width="301" height="438" frameX="-5" frameY="0" frameWidth="330" frameHeight="452"/>
+	<SubTexture name="D-Right0005" x="3695" y="464" width="304" height="438" frameX="-5" frameY="0" frameWidth="330" frameHeight="452"/>
+	<SubTexture name="D-Right0006" x="2" y="903" width="320" height="438" frameX="-5" frameY="0" frameWidth="330" frameHeight="452"/>
+	<SubTexture name="D-Right0007" x="322" y="903" width="301" height="438" frameX="-5" frameY="0" frameWidth="330" frameHeight="452"/>
+	<SubTexture name="D-Right0008" x="623" y="903" width="330" height="452"/>
+	<SubTexture name="D-Right0009" x="953" y="903" width="309" height="438" frameX="-5" frameY="0" frameWidth="330" frameHeight="452"/>
+	<SubTexture name="D-Up0000" x="1262" y="903" width="282" height="434" frameX="-22" frameY="0" frameWidth="330" frameHeight="448"/>
+	<SubTexture name="D-Up0001" x="1544" y="903" width="290" height="434" frameX="-16" frameY="0" frameWidth="330" frameHeight="448"/>
+	<SubTexture name="D-Up0002" x="1834" y="903" width="273" height="433" frameX="-24" frameY="0" frameWidth="330" frameHeight="448"/>
+	<SubTexture name="D-Up0003" x="2107" y="903" width="297" height="433" frameX="-17" frameY="0" frameWidth="330" frameHeight="448"/>
+	<SubTexture name="D-Up0004" x="2404" y="903" width="273" height="433" frameX="-24" frameY="0" frameWidth="330" frameHeight="448"/>
+	<SubTexture name="D-Up0005" x="2677" y="903" width="300" height="433" frameX="-9" frameY="0" frameWidth="330" frameHeight="448"/>
+	<SubTexture name="D-Up0006" x="2977" y="903" width="318" height="433" frameX="-7" frameY="0" frameWidth="330" frameHeight="448"/>
+	<SubTexture name="D-Up0007" x="3295" y="903" width="273" height="433" frameX="-24" frameY="0" frameWidth="330" frameHeight="448"/>
+	<SubTexture name="D-Up0008" x="3568" y="903" width="330" height="448"/>
+	<SubTexture name="D-Up0009" x="2" y="1355" width="308" height="433" frameX="-6" frameY="0" frameWidth="330" frameHeight="448"/>
+</TextureAtlas>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<!-- _________________________ Application Settings _________________________ -->
+
+	<app title="Indie Cross" file="Indie Cross" packageName="com.brightfyregit.indiecross" package="com.brightfyregit.indiecross" main="Main" version="1.5.0" company="Team 375" />
+	
+	<app preloader="flixel.system.FlxPreloader" />
+	<set name="SWF_VERSION" value="11.8" />
+
+	<!-- ____________________________ Window Settings ___________________________ -->
+
+	<!--These window settings apply to all targets-->
+	<window width="1280" height="720" fps="" background="#000000" hardware="true" vsync="false" />
+	<window if="desktop" orientation="landscape" fullscreen="false" resizable="true" vsync="false"/>
+
+	<!-- _____________________________ Path Settings ____________________________ -->
+
+	<set name="BUILD_DIR" value="export/debug" if="debug" />
+	<set name="BUILD_DIR" value="export/release" unless="debug" />
+	<set name="BUILD_DIR" value="export/32bit" if="32bit" />
+
+	<source path="source" />
+	
+	<library name="songs"    preload="true" />
+	<library name="shared"   preload="true" />
+	<library name="bendy"   preload="true" />
+	<library name="sans"   preload="true" />
+	<library name="cup"   preload="true" />
+	<library name="customSkins"   preload="true" />
+	<library name="achievements"   preload="true" />
+	
+	<assets path="assets/preload" rename="assets"/>
+	<assets path="assets/songs"  library="songs"/>
+	<assets path="assets/hiddenContent" embed="true" library="hiddenContent" if="windows"/>
+	<assets path="assets/hiddenContent" embed="false" library="hiddenContent" if="linux"/> <!-- linux hates embedding :/ -->
+	<assets path="assets/shared"  library="shared"/>
+	<assets path="assets/bendy"  library="bendy"/>
+	<assets path="assets/sans"  library="sans"/>
+	<assets path="assets/cup"  library="cup"/>
+	<assets path="assets/achievements"  library="achievements"/>
+	<assets path="assets/notes" embed="true" library="notes" if="windows"/>
+	<assets path="assets/notes" embed="false" library="notes" if="linux"/>
+	<assets path="assets/videos"/>
+	<assets path="assets/fonts" embed='true' if="windows"/>
+	<assets path="assets/fonts" embed='false' if="linux"/>
+
+	<!-- epic wacky shit -->
+	<assets path="assets/compileData/plugins/plugins/" rename='plugins/' if="windows"/>
+	<assets path="assets/compileData/plugins/plugins (but for mac)/" rename='plugins/' if="macos"/>
+	<assets path="assets/compileData/dlls/" rename='' if="windows"/>
+	<assets path="tools/Bink2DLL/" rename='' if="windows"/>
+	<assets path="assets/compileData/IndieCross-Crash.exe" type="template" rename='FlixelCrashHandler.exe' if="windows" />
+	<assets path='assets/compileData/crash logs go here.txt' rename='crash/crash logs go here.txt' />
+	
+	<!-- _______________________________ Libraries ______________________________ -->
+
+	<haxelib name="flixel" />
+	<haxelib name="flixel-addons" />
+	<haxelib name="flixel-ui" />
+	<haxelib name="discord_rpc" if="cpp"/>
+    <haxelib name="tentools" />
+	<haxelib name="linc_luajit" if="cpp"/>
+	<haxelib name="systools" if="cpp"/>
+    <ndll name="systools" haxelib="systools" if="cpp" />
+
+	<!-- ______________________________ Haxedefines _____________________________ -->
+
+	<!--Disable the Flixel core focus lost screen-->
+	<haxedef name="FLX_NO_FOCUS_LOST_SCREEN" />
+
+	<!--Disable the Flixel core debugger. Automatically gets set whenever you compile in release mode!-->
+	<haxedef name="FLX_NO_DEBUG" unless="debug" />
+
+	<!--Makes crash messages show up in release build, essential for the crash message (lol)-->
+	<haxedef name="HXCPP_CHECK_POINTER" if="release" />
+	<haxedef name="HXCPP_STACK_LINE" if="release" />
+
+	<!--Enable this for Nape release builds for a serious peformance improvement-->
+	<haxedef name="NAPE_RELEASE_BUILD" unless="debug" />
+
+	<!-- _________________________________ Custom _______________________________ -->
+
+	<!--Place custom nodes like icons here (higher priority to override the HaxeFlixel icon)-->
+	
+	<icon path="assets/compileData/icon8.png" size='8'/>
+	<icon path="assets/compileData/icon16.png" size='16'/>
+	<icon path="assets/compileData/icon32.png" size='32'/>
+	<icon path="assets/compileData/icon64.png" size='64'/>
+	<icon path="assets/compileData/icon128.png" size='128'/>
+	<icon path="assets/compileData/icon256.png" size='256'/>
+	<icon path="assets/compileData/icon512.png" size='512'/>
+	<icon path="assets/compileData/iconOG.png" />
+	
+</project>

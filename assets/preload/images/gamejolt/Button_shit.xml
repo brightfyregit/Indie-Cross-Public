@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Button shit.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Button Click instance 10000" x="10" y="10" width="372" height="100" frameX="-32" frameY="-8" frameWidth="436" frameHeight="117"/>
+	<SubTexture name="Button Click instance 10001" x="392" y="10" width="400" height="108" frameX="-18" frameY="-4" frameWidth="436" frameHeight="117"/>
+	<SubTexture name="Button Click instance 10002" x="10" y="128" width="420" height="112" frameX="-8" frameY="-2" frameWidth="436" frameHeight="117"/>
+	<SubTexture name="Button Click instance 10003" x="440" y="128" width="432" height="116" frameX="-2" frameY="0" frameWidth="436" frameHeight="117"/>
+	<SubTexture name="Button Click instance 10004" x="10" y="254" width="436" height="117"/>
+	<SubTexture name="Button Click instance 10005" x="10" y="254" width="436" height="117"/>
+	<SubTexture name="Button Click instance 10006" x="10" y="254" width="436" height="117"/>
+	<SubTexture name="Button Click instance 10007" x="10" y="254" width="436" height="117"/>
+	<SubTexture name="Button Click instance 10008" x="10" y="254" width="436" height="117"/>
+	<SubTexture name="Button Click instance 10009" x="10" y="254" width="436" height="117"/>
+	<SubTexture name="Button Click instance 10010" x="10" y="254" width="436" height="117"/>
+	<SubTexture name="Button instance 10000" x="10" y="254" width="436" height="117"/>
+	<SubTexture name="Mouse on the button instance 10000" x="456" y="254" width="466" height="125"/>
+	<SubTexture name="Mouse on the button instance 10001" x="10" y="389" width="453" height="122" frameX="-7" frameY="-1" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10002" x="473" y="389" width="442" height="119" frameX="-12" frameY="-3" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10003" x="10" y="521" width="438" height="118" frameX="-14" frameY="-3" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10004" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10005" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10006" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10007" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10008" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10009" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10010" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10011" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10012" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10013" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10014" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10015" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10016" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10017" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10018" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10019" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10020" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10021" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10022" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10023" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10024" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10025" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10026" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10027" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10028" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10029" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10030" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10031" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10032" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10033" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10034" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10035" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10036" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10037" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10038" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10039" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10040" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10041" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10042" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10043" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10044" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10045" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10046" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10047" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10048" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10049" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10050" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10051" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10052" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10053" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10054" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10055" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10056" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10057" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10058" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10059" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10060" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10061" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10062" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10063" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10064" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10065" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10066" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10067" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10068" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10069" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10070" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10071" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10072" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10073" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10074" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10075" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10076" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10077" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10078" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10079" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10080" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10081" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10082" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10083" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10084" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10085" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10086" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10087" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10088" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10089" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10090" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10091" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10092" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10093" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10094" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+	<SubTexture name="Mouse on the button instance 10095" x="458" y="521" width="436" height="116" frameX="-15" frameY="-4" frameWidth="466" frameHeight="125"/>
+</TextureAtlas>

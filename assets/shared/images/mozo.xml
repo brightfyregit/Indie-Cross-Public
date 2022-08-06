@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mozo.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="YTJT instance 10000" x="10" y="10" width="354" height="79" frameX="0" frameY="-215" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10001" x="374" y="10" width="315" height="254" frameX="-57" frameY="-40" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10002" x="699" y="10" width="207" height="294" frameX="-240" frameY="0" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10003" x="916" y="10" width="204" height="289" frameX="-273" frameY="-5" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10004" x="1130" y="10" width="204" height="289" frameX="-273" frameY="-5" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10005" x="1344" y="10" width="205" height="283" frameX="-253" frameY="-11" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10006" x="1559" y="10" width="205" height="283" frameX="-253" frameY="-11" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10007" x="1774" y="10" width="206" height="282" frameX="-240" frameY="-12" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10008" x="10" y="314" width="206" height="282" frameX="-240" frameY="-12" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10009" x="226" y="314" width="204" height="274" frameX="-181" frameY="-20" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10010" x="440" y="314" width="204" height="274" frameX="-181" frameY="-20" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10011" x="654" y="314" width="203" height="269" frameX="-173" frameY="-25" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10012" x="867" y="314" width="203" height="269" frameX="-173" frameY="-25" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10013" x="1080" y="314" width="204" height="270" frameX="-177" frameY="-24" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10014" x="1294" y="314" width="204" height="270" frameX="-177" frameY="-24" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10015" x="1508" y="314" width="207" height="274" frameX="-233" frameY="-20" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10016" x="1725" y="314" width="207" height="274" frameX="-233" frameY="-20" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10017" x="10" y="606" width="207" height="273" frameX="-238" frameY="-21" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10018" x="227" y="606" width="207" height="273" frameX="-238" frameY="-21" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10019" x="444" y="606" width="206" height="265" frameX="-234" frameY="-29" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10020" x="660" y="606" width="206" height="265" frameX="-234" frameY="-29" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10021" x="876" y="606" width="203" height="207" frameX="-202" frameY="-87" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10022" x="1089" y="606" width="203" height="207" frameX="-202" frameY="-87" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10023" x="1302" y="606" width="144" height="178" frameX="-210" frameY="-116" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10024" x="1456" y="606" width="110" height="100" frameX="-198" frameY="-194" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10025" x="1576" y="606" width="110" height="45" frameX="-184" frameY="-249" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10026" x="1696" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10027" x="1706" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10028" x="1716" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10029" x="1726" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10030" x="1736" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10031" x="1746" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10032" x="1756" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10033" x="1766" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10034" x="1776" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10035" x="1786" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10036" x="1796" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10037" x="1806" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10038" x="1816" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10039" x="1826" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10040" x="1836" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10041" x="1846" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+	<SubTexture name="YTJT instance 10042" x="1856" y="606" width="0" height="0" frameX="599" frameY="354" frameWidth="477" frameHeight="294"/>
+</TextureAtlas>

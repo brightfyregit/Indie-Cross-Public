@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SammyBg.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sam instance 10000" x="10" y="10" width="315" height="653" frameX="0" frameY="-29" frameWidth="315" frameHeight="683"/>
+	<SubTexture name="Sam instance 10001" x="10" y="10" width="315" height="653" frameX="0" frameY="-29" frameWidth="315" frameHeight="683"/>
+	<SubTexture name="Sam instance 10002" x="335" y="10" width="303" height="668" frameX="-6" frameY="-15" frameWidth="315" frameHeight="683"/>
+	<SubTexture name="Sam instance 10003" x="335" y="10" width="303" height="668" frameX="-6" frameY="-15" frameWidth="315" frameHeight="683"/>
+	<SubTexture name="Sam instance 10004" x="648" y="10" width="303" height="674" frameX="-7" frameY="-9" frameWidth="315" frameHeight="683"/>
+	<SubTexture name="Sam instance 10005" x="648" y="10" width="303" height="674" frameX="-7" frameY="-9" frameWidth="315" frameHeight="683"/>
+	<SubTexture name="Sam instance 10006" x="961" y="10" width="303" height="678" frameX="-7" frameY="-5" frameWidth="315" frameHeight="683"/>
+	<SubTexture name="Sam instance 10007" x="961" y="10" width="303" height="678" frameX="-7" frameY="-5" frameWidth="315" frameHeight="683"/>
+	<SubTexture name="Sam instance 10008" x="1274" y="10" width="303" height="681" frameX="-8" frameY="-2" frameWidth="315" frameHeight="683"/>
+	<SubTexture name="Sam instance 10009" x="1274" y="10" width="303" height="681" frameX="-8" frameY="-2" frameWidth="315" frameHeight="683"/>
+	<SubTexture name="Sam instance 10010" x="1587" y="10" width="303" height="682" frameX="-8" frameY="-1" frameWidth="315" frameHeight="683"/>
+	<SubTexture name="Sam instance 10011" x="1587" y="10" width="303" height="682" frameX="-8" frameY="-1" frameWidth="315" frameHeight="683"/>
+	<SubTexture name="Sam instance 10012" x="10" y="702" width="303" height="683" frameX="-8" frameY="0" frameWidth="315" frameHeight="683"/>
+	<SubTexture name="Sam instance 10013" x="10" y="702" width="303" height="683" frameX="-8" frameY="0" frameWidth="315" frameHeight="683"/>
+</TextureAtlas>

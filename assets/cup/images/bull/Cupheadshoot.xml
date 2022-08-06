@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cupheadshoot.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BulletFX_H-Tween_02 instance 10000" x="10" y="10" width="71" height="35" frameX="0" frameY="-308" frameWidth="1101" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 10001" x="91" y="10" width="151" height="37" frameX="-79" frameY="-307" frameWidth="1101" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 10002" x="252" y="10" width="296" height="38" frameX="-90" frameY="-305" frameWidth="1101" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 10003" x="558" y="10" width="324" height="39" frameX="-217" frameY="-303" frameWidth="1101" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 10004" x="892" y="10" width="272" height="37" frameX="-424" frameY="-307" frameWidth="1101" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 10005" x="1174" y="10" width="328" height="116" frameX="-551" frameY="-260" frameWidth="1101" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 10006" x="402" y="764" width="169" height="167" frameX="-726" frameY="-236" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 10007" x="581" y="764" width="347" height="345" frameX="-636" frameY="-130" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 10008" x="938" y="764" width="508" height="523" frameX="-551" frameY="-44" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 10009" x="1456" y="764" width="547" height="591" frameX="-544" frameY="-9" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 10010" x="10" y="1365" width="577" height="619" frameX="-524" frameY="0" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 10011" x="1512" y="10" width="0" height="0" frameX="2787" frameY="1210" frameWidth="1101" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 20000" x="10" y="10" width="71" height="35" frameX="0" frameY="-308" frameWidth="1101" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 20001" x="91" y="10" width="151" height="37" frameX="-79" frameY="-307" frameWidth="1101" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 20002" x="252" y="10" width="296" height="38" frameX="-90" frameY="-305" frameWidth="1101" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 20003" x="558" y="10" width="324" height="39" frameX="-217" frameY="-303" frameWidth="1101" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 20004" x="892" y="10" width="272" height="37" frameX="-424" frameY="-306" frameWidth="1101" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 20005" x="1174" y="10" width="328" height="116" frameX="-551" frameY="-260" frameWidth="1101" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 20006" x="402" y="764" width="169" height="167" frameX="-726" frameY="-235" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 20007" x="581" y="764" width="347" height="345" frameX="-636" frameY="-130" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 20008" x="938" y="764" width="508" height="523" frameX="-551" frameY="-44" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 20009" x="1456" y="764" width="547" height="591" frameX="-544" frameY="-9" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 20010" x="10" y="136" width="577" height="618" frameX="-524" frameY="0" frameWidth="1101" frameHeight="618"/>
+	<SubTexture name="BulletFX_H-Tween_02 instance 20011" x="1512" y="10" width="0" height="0" frameX="2778" frameY="1160" frameWidth="1101" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_03 instance 10000" x="597" y="136" width="83" height="37" frameX="0" frameY="-303" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_03 instance 10001" x="690" y="136" width="128" height="42" frameX="-81" frameY="-301" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_03 instance 10002" x="828" y="136" width="335" height="36" frameX="-23" frameY="-304" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_03 instance 10003" x="1173" y="136" width="247" height="32" frameX="-242" frameY="-306" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_03 instance 10004" x="1430" y="136" width="296" height="38" frameX="-320" frameY="-302" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_03 instance 10005" x="10" y="764" width="382" height="115" frameX="-418" frameY="-261" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_03 instance 10006" x="402" y="764" width="169" height="167" frameX="-647" frameY="-236" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_03 instance 10007" x="581" y="764" width="347" height="345" frameX="-557" frameY="-131" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_03 instance 10008" x="938" y="764" width="508" height="523" frameX="-472" frameY="-44" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_03 instance 10009" x="1456" y="764" width="547" height="591" frameX="-465" frameY="-10" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_03 instance 10010" x="10" y="1365" width="577" height="619" frameX="-445" frameY="0" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_03 instance 10011" x="597" y="1365" width="0" height="0" frameX="2797" frameY="1255" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_03 instance 10012" x="597" y="1365" width="0" height="0" frameX="2797" frameY="1255" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFX_H-Tween_03 instance 10013" x="597" y="1365" width="0" height="0" frameX="2797" frameY="1255" frameWidth="1022" frameHeight="619"/>
+	<SubTexture name="BulletFlashFX instance 10000" x="607" y="1365" width="98" height="118" frameX="-42" frameY="-34" frameWidth="185" frameHeight="177"/>
+	<SubTexture name="BulletFlashFX instance 10001" x="715" y="1365" width="112" height="137" frameX="-35" frameY="-25" frameWidth="185" frameHeight="177"/>
+	<SubTexture name="BulletFlashFX instance 10002" x="837" y="1365" width="163" height="152" frameX="0" frameY="-21" frameWidth="185" frameHeight="177"/>
+	<SubTexture name="BulletFlashFX instance 10003" x="1010" y="1365" width="184" height="177" frameX="-1" frameY="0" frameWidth="185" frameHeight="177"/>
+</TextureAtlas>

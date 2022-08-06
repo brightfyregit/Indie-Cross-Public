@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Special Thanks.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SP instance 10000" x="10" y="10" width="682" height="76"/>
+	<SubTexture name="SP instance 10001" x="10" y="10" width="682" height="76"/>
+	<SubTexture name="SP instance 10002" x="702" y="10" width="682" height="76"/>
+	<SubTexture name="SP instance 10003" x="10" y="96" width="682" height="76"/>
+	<SubTexture name="SP instance 10004" x="702" y="96" width="682" height="76"/>
+	<SubTexture name="SP instance 10005" x="10" y="182" width="682" height="76"/>
+	<SubTexture name="SP instance 10006" x="702" y="182" width="682" height="76"/>
+	<SubTexture name="SP instance 10007" x="10" y="268" width="682" height="76"/>
+	<SubTexture name="SP instance 10008" x="702" y="268" width="682" height="76"/>
+	<SubTexture name="SP instance 10009" x="10" y="354" width="682" height="76"/>
+	<SubTexture name="SP instance 10010" x="702" y="354" width="682" height="76"/>
+	<SubTexture name="SP instance 10011" x="10" y="440" width="682" height="76"/>
+	<SubTexture name="SP instance 10012" x="702" y="440" width="682" height="76"/>
+	<SubTexture name="SP instance 10013" x="10" y="10" width="682" height="76"/>
+	<SubTexture name="SP instance 10014" x="10" y="10" width="682" height="76"/>
+	<SubTexture name="SP instance 10015" x="10" y="10" width="682" height="76"/>
+	<SubTexture name="SP instance 10016" x="10" y="10" width="682" height="76"/>
+	<SubTexture name="SP instance 10017" x="10" y="10" width="682" height="76"/>
+	<SubTexture name="SP instance 10018" x="10" y="10" width="682" height="76"/>
+</TextureAtlas>

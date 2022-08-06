@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cuphead Gaming.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cuphead Gaming instance 10000" x="10" y="10" width="650" height="671" frameX="0" frameY="0" frameWidth="650" frameHeight="673"/>
+	<SubTexture name="Cuphead Gaming instance 10001" x="10" y="10" width="650" height="671" frameX="0" frameY="0" frameWidth="650" frameHeight="673"/>
+	<SubTexture name="Cuphead Gaming instance 10002" x="670" y="10" width="649" height="673" frameX="0" frameY="0" frameWidth="650" frameHeight="673"/>
+	<SubTexture name="Cuphead Gaming instance 10003" x="1329" y="10" width="649" height="673" frameX="0" frameY="0" frameWidth="650" frameHeight="673"/>
+	<SubTexture name="Cuphead Gaming instance 10004" x="10" y="693" width="650" height="665" frameX="0" frameY="-8" frameWidth="650" frameHeight="673"/>
+	<SubTexture name="Cuphead Gaming instance 10005" x="670" y="693" width="650" height="665" frameX="0" frameY="-8" frameWidth="650" frameHeight="673"/>
+	<SubTexture name="Cuphead Gaming instance 10006" x="1330" y="693" width="641" height="673" frameX="-8" frameY="0" frameWidth="650" frameHeight="673"/>
+	<SubTexture name="Cuphead Gaming instance 10007" x="1330" y="693" width="641" height="673" frameX="-8" frameY="0" frameWidth="650" frameHeight="673"/>
+</TextureAtlas>

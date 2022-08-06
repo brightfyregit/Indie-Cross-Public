@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Roundabout.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Roundabout instance 10000" x="10" y="10" width="312" height="298" frameX="-7" frameY="-13" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10001" x="332" y="10" width="314" height="312" frameX="-6" frameY="0" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10002" x="656" y="10" width="288" height="317" frameX="-16" frameY="-3" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10003" x="954" y="10" width="291" height="316" frameX="-24" frameY="-1" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10004" x="1255" y="10" width="302" height="309" frameX="-9" frameY="-5" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10005" x="1567" y="10" width="311" height="303" frameX="-9" frameY="-7" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10006" x="10" y="337" width="301" height="298" frameX="-10" frameY="-12" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10007" x="321" y="337" width="318" height="293" frameX="-5" frameY="-17" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10008" x="649" y="337" width="330" height="292" frameX="0" frameY="-14" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10009" x="989" y="337" width="329" height="276" frameX="-3" frameY="-21" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10010" x="1328" y="337" width="323" height="288" frameX="0" frameY="-15" frameWidth="333" frameHeight="320"/>
+	<SubTexture name="Roundabout instance 10011" x="1661" y="337" width="317" height="288" frameX="-4" frameY="-19" frameWidth="333" frameHeight="320"/>
+</TextureAtlas>

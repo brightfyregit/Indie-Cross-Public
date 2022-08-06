@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HorrorVision.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Add instance 10000" x="10" y="10" width="1948" height="1120" frameX="-62" frameY="-13" frameWidth="2039" frameHeight="1174"/>
+	<SubTexture name="Add instance 10001" x="1968" y="10" width="2016" height="1121" frameX="0" frameY="-13" frameWidth="2039" frameHeight="1174"/>
+	<SubTexture name="Add instance 10002" x="3994" y="10" width="1948" height="1120" frameX="-62" frameY="-13" frameWidth="2039" frameHeight="1174"/>
+	<SubTexture name="Add instance 10003" x="5952" y="10" width="1992" height="1174" frameX="-28" frameY="0" frameWidth="2039" frameHeight="1174"/>
+	<SubTexture name="Add instance 10004" x="10" y="1194" width="1948" height="1120" frameX="-62" frameY="-13" frameWidth="2039" frameHeight="1174"/>
+	<SubTexture name="Add instance 10005" x="1968" y="1194" width="1997" height="1127" frameX="-42" frameY="-13" frameWidth="2039" frameHeight="1174"/>
+	<SubTexture name="Add instance 10006" x="3975" y="1194" width="1948" height="1120" frameX="-62" frameY="-13" frameWidth="2039" frameHeight="1174"/>
+	<SubTexture name="Add instance 10007" x="5933" y="1194" width="2011" height="1133" frameX="-27" frameY="-4" frameWidth="2039" frameHeight="1174"/>
+	<SubTexture name="Add instance 10008" x="10" y="2337" width="1948" height="1120" frameX="-62" frameY="-13" frameWidth="2039" frameHeight="1174"/>
+	<SubTexture name="Add instance 10009" x="10" y="1194" width="1948" height="1120" frameX="-62" frameY="-13" frameWidth="2039" frameHeight="1174"/>
+</TextureAtlas>

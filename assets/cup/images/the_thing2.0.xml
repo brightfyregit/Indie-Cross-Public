@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="the_thing2.0.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BOO instance 10000" x="10" y="10" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10001" x="10" y="10" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10002" x="1272" y="10" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10003" x="1272" y="10" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10004" x="2534" y="10" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10005" x="10" y="724" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10006" x="1272" y="724" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10007" x="2534" y="724" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10008" x="10" y="1438" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10009" x="1272" y="1438" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10010" x="2534" y="1438" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10011" x="10" y="2152" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10012" x="1272" y="2152" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10013" x="2534" y="2152" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10014" x="10" y="2866" width="1252" height="704"/>
+	<SubTexture name="BOO instance 10015" x="1272" y="2866" width="1252" height="704"/>
+</TextureAtlas>

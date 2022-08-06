@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Notmobilegameanymore.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Attack Click instance 10000" x="10" y="10" width="174" height="153" frameX="-4" frameY="-3" frameWidth="181" frameHeight="159"/>
+	<SubTexture name="Attack Click instance 10001" x="10" y="10" width="174" height="153" frameX="-4" frameY="-3" frameWidth="181" frameHeight="159"/>
+	<SubTexture name="Attack Click instance 10002" x="194" y="10" width="181" height="159"/>
+	<SubTexture name="Attack Click instance 10003" x="194" y="10" width="181" height="159"/>
+	<SubTexture name="Attack Click instance 10004" x="194" y="10" width="181" height="159"/>
+	<SubTexture name="Attack instance 10000" x="385" y="10" width="201" height="177"/>
+	<SubTexture name="AttackNA instance 10000" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10001" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10002" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10003" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10004" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10005" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10006" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10007" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10008" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10009" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10010" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10011" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10012" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10013" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10014" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10015" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10016" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10017" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10018" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10019" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10020" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10021" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10022" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10023" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10024" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10025" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10026" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10027" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10028" x="596" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10029" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10030" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10031" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10032" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10033" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10034" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10035" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10036" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10037" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10038" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10039" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10040" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10041" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10042" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10043" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10044" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10045" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10046" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10047" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10048" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10049" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10050" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10051" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10052" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10053" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10054" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10055" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10056" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10057" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10058" x="789" y="10" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10059" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10060" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10061" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10062" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10063" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10064" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10065" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10066" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10067" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10068" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10069" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10070" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10071" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10072" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10073" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10074" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10075" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10076" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10077" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10078" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10079" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10080" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10081" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10082" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10083" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10084" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10085" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10086" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10087" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10088" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10089" x="10" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10090" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10091" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10092" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10093" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10094" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10095" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10096" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10097" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10098" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10099" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10100" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10101" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10102" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10103" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10104" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10105" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10106" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10107" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10108" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10109" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10110" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10111" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10112" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10113" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10114" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10115" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10116" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10117" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10118" x="203" y="227" width="183" height="207"/>
+	<SubTexture name="AttackNA instance 10119" x="396" y="227" width="183" height="207"/>
+	<SubTexture name="Dodge click instance 10000" x="589" y="227" width="183" height="212" frameX="-4" frameY="-5" frameWidth="191" frameHeight="222"/>
+	<SubTexture name="Dodge click instance 10001" x="589" y="227" width="183" height="212" frameX="-4" frameY="-5" frameWidth="191" frameHeight="222"/>
+	<SubTexture name="Dodge click instance 10002" x="782" y="227" width="191" height="222"/>
+	<SubTexture name="Dodge click instance 10003" x="782" y="227" width="191" height="222"/>
+	<SubTexture name="Dodge click instance 10004" x="782" y="227" width="191" height="222"/>
+	<SubTexture name="Dodge instance 10000" x="10" y="459" width="209" height="244"/>
+</TextureAtlas>

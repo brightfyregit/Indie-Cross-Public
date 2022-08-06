@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LEGSS.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AAAAright instance 10000" x="10" y="10" width="410" height="202" frameX="0" frameY="0" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10001" x="10" y="10" width="410" height="202" frameX="0" frameY="0" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10002" x="430" y="10" width="388" height="207" frameX="-20" frameY="-20" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10003" x="828" y="10" width="174" height="190" frameX="-100" frameY="-101" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10004" x="10" y="227" width="255" height="199" frameX="-41" frameY="-93" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10005" x="275" y="227" width="416" height="202" frameX="0" frameY="0" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10006" x="275" y="227" width="416" height="202" frameX="0" frameY="0" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10007" x="10" y="439" width="348" height="242" frameX="-59" frameY="-26" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10008" x="368" y="439" width="277" height="178" frameX="-47" frameY="-109" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10009" x="655" y="439" width="196" height="201" frameX="-77" frameY="-92" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10010" x="10" y="10" width="410" height="202" frameX="0" frameY="0" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10011" x="10" y="10" width="410" height="202" frameX="0" frameY="0" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10012" x="430" y="10" width="388" height="207" frameX="-20" frameY="-20" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10013" x="828" y="10" width="174" height="190" frameX="-100" frameY="-101" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10014" x="10" y="227" width="255" height="199" frameX="-41" frameY="-93" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10015" x="275" y="227" width="416" height="202" frameX="0" frameY="0" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10016" x="275" y="227" width="416" height="202" frameX="0" frameY="0" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10017" x="10" y="439" width="348" height="242" frameX="-59" frameY="-26" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10018" x="368" y="439" width="277" height="178" frameX="-47" frameY="-109" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10019" x="655" y="439" width="196" height="201" frameX="-77" frameY="-92" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10020" x="10" y="10" width="410" height="202" frameX="0" frameY="0" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10021" x="10" y="10" width="410" height="202" frameX="0" frameY="0" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10022" x="430" y="10" width="388" height="207" frameX="-20" frameY="-20" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10023" x="828" y="10" width="174" height="190" frameX="-100" frameY="-101" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10024" x="10" y="227" width="255" height="199" frameX="-41" frameY="-93" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10025" x="275" y="227" width="416" height="202" frameX="0" frameY="0" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10026" x="275" y="227" width="416" height="202" frameX="0" frameY="0" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10027" x="10" y="439" width="348" height="242" frameX="-59" frameY="-26" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10028" x="368" y="439" width="277" height="178" frameX="-47" frameY="-109" frameWidth="416" frameHeight="293"/>
+	<SubTexture name="AAAAright instance 10029" x="655" y="439" width="196" height="201" frameX="-77" frameY="-92" frameWidth="416" frameHeight="293"/>
+</TextureAtlas>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_bounce.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down Orenji instance 1 alone0000" x="10" y="10" width="158" height="154"/>
+	<SubTexture name="Down instance 1 alone0000" x="178" y="10" width="157" height="154"/>
+	<SubTexture name="Left Orng instance 1 alone0000" x="345" y="10" width="155" height="157"/>
+	<SubTexture name="Left instance 1 alone0000" x="510" y="10" width="154" height="157"/>
+	<SubTexture name="NoteSplash Orange instance 10000" x="674" y="10" width="248" height="260" frameX="-31" frameY="0" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash Orange instance 10001" x="932" y="10" width="170" height="169" frameX="-57" frameY="-56" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash Orange instance 10002" x="1112" y="10" width="212" height="212" frameX="-36" frameY="-34" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash Orange instance 10003" x="1334" y="10" width="222" height="222" frameX="-31" frameY="-29" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash Orange instance 10004" x="1566" y="10" width="236" height="236" frameX="-24" frameY="-22" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash Orange instance 10005" x="10" y="280" width="248" height="248" frameX="-18" frameY="-16" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash Orange instance 10006" x="268" y="280" width="262" height="231" frameX="-11" frameY="-8" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash Orange instance 10007" x="540" y="280" width="276" height="243" frameX="-4" frameY="-2" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash Orange instance 10008" x="826" y="280" width="284" height="168" frameX="0" frameY="-69" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash instance 10000" x="1140" y="280" width="249" height="260" frameX="-31" frameY="0" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash instance 10001" x="1399" y="280" width="169" height="169" frameX="-58" frameY="-56" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash instance 10002" x="1578" y="280" width="213" height="212" frameX="-36" frameY="-34" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash instance 10003" x="1801" y="280" width="222" height="222" frameX="-32" frameY="-29" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash instance 10004" x="10" y="550" width="237" height="236" frameX="-24" frameY="-22" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash instance 10005" x="257" y="550" width="248" height="248" frameX="-19" frameY="-16" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash instance 10006" x="515" y="550" width="263" height="231" frameX="-11" frameY="-8" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash instance 10007" x="788" y="550" width="276" height="243" frameX="-5" frameY="-2" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="NoteSplash instance 10008" x="1074" y="550" width="284" height="168" frameX="0" frameY="-69" frameWidth="284" frameHeight="264"/>
+	<SubTexture name="Right Orng instance 1 alone0000" x="1388" y="550" width="155" height="157"/>
+	<SubTexture name="Right instance 1 alone0000" x="1553" y="550" width="154" height="157"/>
+	<SubTexture name="Up Orang instance 1 alone0000" x="1717" y="550" width="158" height="154"/>
+	<SubTexture name="Up instance 1 alone0000" x="10" y="808" width="157" height="154"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NewIcons.png">
+	<SubTexture name="Bendo instance 10000" x="10" y="10" width="126" height="115"/>
+	<SubTexture name="C-Dead instance 10000" x="146" y="10" width="122" height="101"/>
+	<SubTexture name="C-Nightmare instance 10000" x="278" y="10" width="124" height="115"/>
+	<SubTexture name="C-Normal instance 10000" x="10" y="135" width="124" height="109"/>
+	<SubTexture name="C-Pissed instance 10000" x="144" y="135" width="124" height="115"/>
+	<SubTexture name="C-lose instance 10000" x="278" y="135" width="121" height="93"/>
+</TextureAtlas>

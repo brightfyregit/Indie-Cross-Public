@@ -1,0 +1,8 @@
+export/
+test/
+crash-dialog/build/
+.vscode/
+source/GJKeys.hx
+tools/ModLauncher/ModLauncher/bin/
+tools/ModLauncher/ModLauncher/obj/
+tools/ICLauncher/obj/

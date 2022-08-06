@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pauseButtons.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menu0000" x="5" y="5" width="244" height="28"/>
+	<SubTexture name="menu0001" x="5" y="48" width="244" height="28"/>
+	<SubTexture name="options0000" x="264" y="48" width="156" height="28"/>
+	<SubTexture name="options blue0000" x="5" y="91" width="156" height="28"/>
+	<SubTexture name="quit0000" x="176" y="91" width="201" height="33"/>
+	<SubTexture name="quit0001" x="5" y="139" width="201" height="33"/>
+	<SubTexture name="resume0000" x="221" y="139" width="144" height="28"/>
+	<SubTexture name="resume blue0000" x="5" y="187" width="144" height="28"/>
+	<SubTexture name="retry0000" x="164" y="187" width="110" height="27"/>
+	<SubTexture name="retry0001" x="289" y="187" width="110" height="27"/>
+</TextureAtlas>

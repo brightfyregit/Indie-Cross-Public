@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DARKDEATHNOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DDown alone0000" x="10" y="10" width="282" height="394" frameX="-26" frameY="-13" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0001" x="302" y="10" width="291" height="394" frameX="-24" frameY="-13" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0002" x="603" y="10" width="193" height="393" frameX="-71" frameY="-14" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0003" x="806" y="10" width="298" height="393" frameX="-15" frameY="-14" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0004" x="1114" y="10" width="199" height="393" frameX="-67" frameY="-14" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0005" x="1323" y="10" width="301" height="393" frameX="-20" frameY="-14" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0006" x="1634" y="10" width="318" height="393" frameX="-5" frameY="-14" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0007" x="1962" y="10" width="209" height="393" frameX="-66" frameY="-14" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0008" x="2181" y="10" width="331" height="407"/>
+	<SubTexture name="DDown alone0009" x="2522" y="10" width="309" height="392" frameX="-16" frameY="-15" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0000" x="2841" y="10" width="282" height="393" frameX="-23" frameY="0" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0001" x="3133" y="10" width="291" height="393" frameX="-17" frameY="0" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0002" x="3434" y="10" width="192" height="392" frameX="-68" frameY="0" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0003" x="3636" y="10" width="298" height="392" frameX="-18" frameY="0" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0004" x="10" y="427" width="199" height="392" frameX="-65" frameY="0" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0005" x="219" y="427" width="301" height="392" frameX="-10" frameY="0" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0006" x="530" y="427" width="319" height="392" frameX="-8" frameY="0" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0007" x="859" y="427" width="209" height="392" frameX="-56" frameY="0" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DDown alone0008" x="1078" y="427" width="331" height="407"/>
+	<SubTexture name="DDown alone0009" x="1419" y="427" width="310" height="392" frameX="-6" frameY="0" frameWidth="331" frameHeight="407"/>
+	<SubTexture name="DLeft alone0000" x="1739" y="427" width="282" height="376" frameX="-26" frameY="-13" frameWidth="331" frameHeight="395"/>
+	<SubTexture name="DLeft alone0001" x="2031" y="427" width="291" height="369" frameX="-23" frameY="-13" frameWidth="331" frameHeight="395"/>
+	<SubTexture name="DLeft alone0002" x="2332" y="427" width="192" height="378" frameX="-71" frameY="-14" frameWidth="331" frameHeight="395"/>
+	<SubTexture name="DLeft alone0003" x="2534" y="427" width="298" height="373" frameX="-15" frameY="-14" frameWidth="331" frameHeight="395"/>
+	<SubTexture name="DLeft alone0004" x="2842" y="427" width="199" height="375" frameX="-67" frameY="-14" frameWidth="331" frameHeight="395"/>
+	<SubTexture name="DLeft alone0005" x="3051" y="427" width="301" height="368" frameX="-20" frameY="-14" frameWidth="331" frameHeight="395"/>
+	<SubTexture name="DLeft alone0006" x="3362" y="427" width="319" height="378" frameX="-4" frameY="-14" frameWidth="331" frameHeight="395"/>
+	<SubTexture name="DLeft alone0007" x="3691" y="427" width="208" height="373" frameX="-66" frameY="-14" frameWidth="331" frameHeight="395"/>
+	<SubTexture name="DLeft alone0008" x="10" y="844" width="331" height="395"/>
+	<SubTexture name="DLeft alone0009" x="351" y="844" width="310" height="368" frameX="-15" frameY="-14" frameWidth="331" frameHeight="395"/>
+	<SubTexture name="DLeft alone0000" x="671" y="844" width="282" height="376" frameX="-23" frameY="-7" frameWidth="332" frameHeight="396"/>
+	<SubTexture name="DLeft alone0001" x="963" y="844" width="291" height="370" frameX="-17" frameY="-13" frameWidth="332" frameHeight="396"/>
+	<SubTexture name="DLeft alone0002" x="1264" y="844" width="192" height="378" frameX="-68" frameY="-4" frameWidth="332" frameHeight="396"/>
+	<SubTexture name="DLeft alone0003" x="1466" y="844" width="298" height="373" frameX="-18" frameY="-9" frameWidth="332" frameHeight="396"/>
+	<SubTexture name="DLeft alone0004" x="1774" y="844" width="198" height="375" frameX="-66" frameY="-7" frameWidth="332" frameHeight="396"/>
+	<SubTexture name="DLeft alone0005" x="1982" y="844" width="301" height="369" frameX="-10" frameY="-13" frameWidth="332" frameHeight="396"/>
+	<SubTexture name="DLeft alone0006" x="2293" y="844" width="319" height="378" frameX="-8" frameY="-4" frameWidth="332" frameHeight="396"/>
+	<SubTexture name="DLeft alone0007" x="2622" y="844" width="208" height="373" frameX="-57" frameY="-9" frameWidth="332" frameHeight="396"/>
+	<SubTexture name="DLeft alone0008" x="2840" y="844" width="332" height="396"/>
+	<SubTexture name="DLeft alone0009" x="3182" y="844" width="309" height="369" frameX="-7" frameY="-13" frameWidth="332" frameHeight="396"/>
+	<SubTexture name="DRight alone0000" x="3501" y="844" width="282" height="385" frameX="-26" frameY="-13" frameWidth="331" frameHeight="401"/>
+	<SubTexture name="DRight alone0001" x="3793" y="844" width="291" height="379" frameX="-23" frameY="-13" frameWidth="331" frameHeight="401"/>
+	<SubTexture name="DRight alone0002" x="10" y="1250" width="192" height="387" frameX="-71" frameY="-14" frameWidth="331" frameHeight="401"/>
+	<SubTexture name="DRight alone0003" x="212" y="1250" width="298" height="382" frameX="-15" frameY="-14" frameWidth="331" frameHeight="401"/>
+	<SubTexture name="DRight alone0004" x="520" y="1250" width="199" height="384" frameX="-67" frameY="-14" frameWidth="331" frameHeight="401"/>
+	<SubTexture name="DRight alone0005" x="729" y="1250" width="301" height="378" frameX="-20" frameY="-14" frameWidth="331" frameHeight="401"/>
+	<SubTexture name="DRight alone0006" x="1040" y="1250" width="319" height="387" frameX="-4" frameY="-14" frameWidth="331" frameHeight="401"/>
+	<SubTexture name="DRight alone0007" x="1369" y="1250" width="208" height="382" frameX="-66" frameY="-14" frameWidth="331" frameHeight="401"/>
+	<SubTexture name="DRight alone0008" x="1587" y="1250" width="331" height="398" frameX="0" frameY="0" frameWidth="331" frameHeight="401"/>
+	<SubTexture name="DRight alone0009" x="1928" y="1250" width="310" height="378" frameX="-15" frameY="-14" frameWidth="331" frameHeight="401"/>
+	<SubTexture name="DRight alone0000" x="2248" y="1250" width="282" height="386" frameX="-23" frameY="-3" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DRight alone0001" x="2540" y="1250" width="291" height="379" frameX="-17" frameY="-10" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DRight alone0002" x="2841" y="1250" width="192" height="388" frameX="-68" frameY="0" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DRight alone0003" x="3043" y="1250" width="298" height="382" frameX="-18" frameY="-6" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DRight alone0004" x="3351" y="1250" width="198" height="385" frameX="-66" frameY="-3" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DRight alone0005" x="3559" y="1250" width="301" height="378" frameX="-10" frameY="-10" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DRight alone0006" x="10" y="1658" width="319" height="388" frameX="-8" frameY="0" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DRight alone0007" x="339" y="1658" width="208" height="382" frameX="-57" frameY="-6" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DRight alone0008" x="557" y="1658" width="332" height="399" frameX="0" frameY="-3" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DRight alone0009" x="899" y="1658" width="309" height="378" frameX="-7" frameY="-10" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DUp alone0000" x="1218" y="1658" width="282" height="375" frameX="-26" frameY="-13" frameWidth="331" frameHeight="402"/>
+	<SubTexture name="DUp alone0001" x="1510" y="1658" width="291" height="389" frameX="-23" frameY="-13" frameWidth="331" frameHeight="402"/>
+	<SubTexture name="DUp alone0002" x="1811" y="1658" width="192" height="388" frameX="-71" frameY="-14" frameWidth="331" frameHeight="402"/>
+	<SubTexture name="DUp alone0003" x="2013" y="1658" width="298" height="371" frameX="-15" frameY="-14" frameWidth="331" frameHeight="402"/>
+	<SubTexture name="DUp alone0004" x="2321" y="1658" width="199" height="374" frameX="-67" frameY="-14" frameWidth="331" frameHeight="402"/>
+	<SubTexture name="DUp alone0005" x="2530" y="1658" width="301" height="388" frameX="-20" frameY="-14" frameWidth="331" frameHeight="402"/>
+	<SubTexture name="DUp alone0006" x="2841" y="1658" width="319" height="388" frameX="-4" frameY="-14" frameWidth="331" frameHeight="402"/>
+	<SubTexture name="DUp alone0007" x="3170" y="1658" width="209" height="371" frameX="-66" frameY="-14" frameWidth="331" frameHeight="402"/>
+	<SubTexture name="DUp alone0008" x="3389" y="1658" width="331" height="395" frameX="0" frameY="0" frameWidth="331" frameHeight="402"/>
+	<SubTexture name="DUp alone0009" x="3730" y="1658" width="310" height="388" frameX="-15" frameY="-14" frameWidth="331" frameHeight="402"/>
+	<SubTexture name="DUp alone0000" x="10" y="2067" width="282" height="375" frameX="-23" frameY="-14" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DUp alone0001" x="302" y="2067" width="291" height="389" frameX="-17" frameY="0" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DUp alone0002" x="603" y="2067" width="192" height="388" frameX="-68" frameY="0" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DUp alone0003" x="805" y="2067" width="298" height="371" frameX="-18" frameY="-17" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DUp alone0004" x="1113" y="2067" width="199" height="374" frameX="-65" frameY="-14" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DUp alone0005" x="1322" y="2067" width="301" height="388" frameX="-10" frameY="0" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DUp alone0006" x="1633" y="2067" width="319" height="388" frameX="-8" frameY="0" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DUp alone0007" x="1962" y="2067" width="208" height="371" frameX="-57" frameY="-17" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DUp alone0008" x="2180" y="2067" width="332" height="396" frameX="0" frameY="-6" frameWidth="332" frameHeight="402"/>
+	<SubTexture name="DUp alone0009" x="2522" y="2067" width="309" height="388" frameX="-7" frameY="0" frameWidth="332" frameHeight="402"/>
+</TextureAtlas>

@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF FINAL.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN copy instance 10000" x="10" y="10" width="266" height="235" frameX="0" frameY="-18" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE DOWN copy instance 10001" x="286" y="10" width="252" height="246" frameX="-6" frameY="-8" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE DOWN copy instance 10002" x="548" y="10" width="252" height="246" frameX="-6" frameY="-8" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE DOWN copy instance 10003" x="810" y="10" width="253" height="248" frameX="-5" frameY="-6" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE DOWN copy instance 10004" x="1073" y="10" width="253" height="248" frameX="-5" frameY="-6" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE DOWN copy instance 10005" x="1336" y="10" width="254" height="250" frameX="-4" frameY="-4" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE DOWN copy instance 10006" x="1600" y="10" width="254" height="250" frameX="-4" frameY="-4" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE DOWN copy instance 10007" x="1864" y="10" width="254" height="252" frameX="-4" frameY="-2" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE DOWN copy instance 10008" x="2128" y="10" width="254" height="252" frameX="-4" frameY="-2" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE DOWN copy instance 10009" x="2392" y="10" width="255" height="253" frameX="-3" frameY="-1" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE DOWN copy instance 10010" x="2657" y="10" width="255" height="253" frameX="-3" frameY="-1" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE DOWN copy instance 10011" x="2922" y="10" width="255" height="253" frameX="-3" frameY="-1" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE DOWN copy instance 10012" x="3187" y="10" width="255" height="253" frameX="-3" frameY="-1" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE DOWN copy instance 10013" x="3452" y="10" width="255" height="254" frameX="-3" frameY="0" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE DOWN copy instance 10014" x="3717" y="10" width="255" height="254" frameX="-3" frameY="0" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE LEFT copy instance 10000" x="10" y="274" width="297" height="262" frameX="0" frameY="-10" frameWidth="297" frameHeight="273"/>
+	<SubTexture name="BF NOTE LEFT copy instance 10001" x="317" y="274" width="260" height="273" frameX="-23" frameY="0" frameWidth="297" frameHeight="273"/>
+	<SubTexture name="BF NOTE LEFT copy instance 10002" x="587" y="274" width="260" height="273" frameX="-23" frameY="0" frameWidth="297" frameHeight="273"/>
+	<SubTexture name="BF NOTE LEFT copy instance 10003" x="857" y="274" width="254" height="273" frameX="-29" frameY="0" frameWidth="297" frameHeight="273"/>
+	<SubTexture name="BF NOTE LEFT copy instance 10004" x="1121" y="274" width="254" height="273" frameX="-29" frameY="0" frameWidth="297" frameHeight="273"/>
+	<SubTexture name="BF NOTE LEFT copy instance 10005" x="1385" y="274" width="251" height="273" frameX="-34" frameY="0" frameWidth="297" frameHeight="273"/>
+	<SubTexture name="BF NOTE LEFT copy instance 10006" x="1646" y="274" width="251" height="273" frameX="-34" frameY="0" frameWidth="297" frameHeight="273"/>
+	<SubTexture name="BF NOTE LEFT copy instance 10007" x="1907" y="274" width="254" height="273" frameX="-37" frameY="0" frameWidth="297" frameHeight="273"/>
+	<SubTexture name="BF NOTE LEFT copy instance 10008" x="2171" y="274" width="254" height="273" frameX="-37" frameY="0" frameWidth="297" frameHeight="273"/>
+	<SubTexture name="BF NOTE LEFT copy instance 10009" x="2435" y="274" width="255" height="273" frameX="-39" frameY="0" frameWidth="297" frameHeight="273"/>
+	<SubTexture name="BF NOTE LEFT copy instance 10010" x="2700" y="274" width="255" height="273" frameX="-39" frameY="0" frameWidth="297" frameHeight="273"/>
+	<SubTexture name="BF NOTE LEFT copy instance 10011" x="2965" y="274" width="256" height="273" frameX="-39" frameY="0" frameWidth="297" frameHeight="273"/>
+	<SubTexture name="BF NOTE LEFT copy instance 10012" x="3231" y="274" width="256" height="273" frameX="-39" frameY="0" frameWidth="297" frameHeight="273"/>
+	<SubTexture name="BF NOTE RIGHT copy instance 10000" x="3497" y="274" width="309" height="262" frameX="-11" frameY="-13" frameWidth="320" frameHeight="277"/>
+	<SubTexture name="BF NOTE RIGHT copy instance 10001" x="10" y="557" width="274" height="277" frameX="-18" frameY="0" frameWidth="320" frameHeight="277"/>
+	<SubTexture name="BF NOTE RIGHT copy instance 10002" x="294" y="557" width="275" height="277" frameX="-17" frameY="0" frameWidth="320" frameHeight="277"/>
+	<SubTexture name="BF NOTE RIGHT copy instance 10003" x="579" y="557" width="268" height="276" frameX="-14" frameY="-1" frameWidth="320" frameHeight="277"/>
+	<SubTexture name="BF NOTE RIGHT copy instance 10004" x="857" y="557" width="268" height="276" frameX="-14" frameY="-1" frameWidth="320" frameHeight="277"/>
+	<SubTexture name="BF NOTE RIGHT copy instance 10005" x="1135" y="557" width="267" height="275" frameX="-7" frameY="-2" frameWidth="320" frameHeight="277"/>
+	<SubTexture name="BF NOTE RIGHT copy instance 10006" x="1412" y="557" width="267" height="275" frameX="-7" frameY="-2" frameWidth="320" frameHeight="277"/>
+	<SubTexture name="BF NOTE RIGHT copy instance 10007" x="1689" y="557" width="266" height="275" frameX="-3" frameY="-2" frameWidth="320" frameHeight="277"/>
+	<SubTexture name="BF NOTE RIGHT copy instance 10008" x="1965" y="557" width="266" height="275" frameX="-3" frameY="-2" frameWidth="320" frameHeight="277"/>
+	<SubTexture name="BF NOTE RIGHT copy instance 10009" x="2241" y="557" width="264" height="274" frameX="-1" frameY="-3" frameWidth="320" frameHeight="277"/>
+	<SubTexture name="BF NOTE RIGHT copy instance 10010" x="2515" y="557" width="264" height="274" frameX="-1" frameY="-3" frameWidth="320" frameHeight="277"/>
+	<SubTexture name="BF NOTE RIGHT copy instance 10011" x="2789" y="557" width="264" height="274" frameX="0" frameY="-3" frameWidth="320" frameHeight="277"/>
+	<SubTexture name="BF NOTE RIGHT copy instance 10012" x="3063" y="557" width="264" height="274" frameX="0" frameY="-3" frameWidth="320" frameHeight="277"/>
+	<SubTexture name="BF NOTE UP copy instance 10000" x="3337" y="557" width="239" height="318" frameX="-12" frameY="0" frameWidth="265" frameHeight="318"/>
+	<SubTexture name="BF NOTE UP copy instance 10001" x="3586" y="557" width="251" height="298" frameX="-6" frameY="-17" frameWidth="265" frameHeight="318"/>
+	<SubTexture name="BF NOTE UP copy instance 10002" x="10" y="885" width="251" height="298" frameX="-6" frameY="-17" frameWidth="265" frameHeight="318"/>
+	<SubTexture name="BF NOTE UP copy instance 10003" x="271" y="885" width="256" height="292" frameX="-4" frameY="-23" frameWidth="265" frameHeight="318"/>
+	<SubTexture name="BF NOTE UP copy instance 10004" x="537" y="885" width="256" height="292" frameX="-4" frameY="-23" frameWidth="265" frameHeight="318"/>
+	<SubTexture name="BF NOTE UP copy instance 10005" x="803" y="885" width="260" height="288" frameX="-2" frameY="-27" frameWidth="265" frameHeight="318"/>
+	<SubTexture name="BF NOTE UP copy instance 10006" x="1073" y="885" width="260" height="288" frameX="-2" frameY="-27" frameWidth="265" frameHeight="318"/>
+	<SubTexture name="BF NOTE UP copy instance 10007" x="1343" y="885" width="263" height="286" frameX="-1" frameY="-29" frameWidth="265" frameHeight="318"/>
+	<SubTexture name="BF NOTE UP copy instance 10008" x="1616" y="885" width="263" height="286" frameX="-1" frameY="-29" frameWidth="265" frameHeight="318"/>
+	<SubTexture name="BF NOTE UP copy instance 10009" x="1889" y="885" width="264" height="284" frameX="0" frameY="-31" frameWidth="265" frameHeight="318"/>
+	<SubTexture name="BF NOTE UP copy instance 10010" x="2163" y="885" width="264" height="284" frameX="0" frameY="-31" frameWidth="265" frameHeight="318"/>
+	<SubTexture name="BF NOTE UP copy instance 10011" x="2437" y="885" width="265" height="282" frameX="0" frameY="-32" frameWidth="265" frameHeight="318"/>
+	<SubTexture name="BF NOTE UP copy instance 10012" x="2712" y="885" width="265" height="282" frameX="0" frameY="-32" frameWidth="265" frameHeight="318"/>
+	<SubTexture name="BF annoyed instance 10000" x="2987" y="885" width="280" height="265" frameX="0" frameY="-11" frameWidth="282" frameHeight="277"/>
+	<SubTexture name="BF annoyed instance 10001" x="3277" y="885" width="280" height="265" frameX="0" frameY="-11" frameWidth="282" frameHeight="277"/>
+	<SubTexture name="BF annoyed instance 10002" x="3567" y="885" width="271" height="273" frameX="-9" frameY="-4" frameWidth="282" frameHeight="277"/>
+	<SubTexture name="BF annoyed instance 10003" x="10" y="1193" width="271" height="273" frameX="-9" frameY="-4" frameWidth="282" frameHeight="277"/>
+	<SubTexture name="BF annoyed instance 10004" x="291" y="1193" width="272" height="276" frameX="-10" frameY="-1" frameWidth="282" frameHeight="277"/>
+	<SubTexture name="BF annoyed instance 10005" x="573" y="1193" width="272" height="276" frameX="-10" frameY="-1" frameWidth="282" frameHeight="277"/>
+	<SubTexture name="BF annoyed instance 10006" x="855" y="1193" width="272" height="276" frameX="-10" frameY="-1" frameWidth="282" frameHeight="277"/>
+	<SubTexture name="BF annoyed instance 10007" x="1137" y="1193" width="273" height="277" frameX="-9" frameY="0" frameWidth="282" frameHeight="277"/>
+	<SubTexture name="BF annoyed instance 10008" x="1420" y="1193" width="273" height="277" frameX="-9" frameY="0" frameWidth="282" frameHeight="277"/>
+	<SubTexture name="BF annoyed instance 10009" x="1703" y="1193" width="273" height="277" frameX="-9" frameY="0" frameWidth="282" frameHeight="277"/>
+	<SubTexture name="BF annoyed instance 10010" x="1986" y="1193" width="274" height="276" frameX="-8" frameY="-1" frameWidth="282" frameHeight="277"/>
+	<SubTexture name="BF annoyed instance 10011" x="2270" y="1193" width="274" height="276" frameX="-8" frameY="-1" frameWidth="282" frameHeight="277"/>
+	<SubTexture name="BF annoyed instance 10012" x="2554" y="1193" width="274" height="276" frameX="-8" frameY="-1" frameWidth="282" frameHeight="277"/>
+	<SubTexture name="D-Miss instance 10000" x="2838" y="1193" width="254" height="289" frameX="0" frameY="-21" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10001" x="3102" y="1193" width="254" height="262" frameX="0" frameY="-6" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10002" x="3366" y="1193" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10003" x="3630" y="1193" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10004" x="10" y="1492" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10005" x="274" y="1492" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10006" x="538" y="1492" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10007" x="802" y="1492" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10008" x="1066" y="1492" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10009" x="1330" y="1492" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10010" x="1594" y="1492" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10011" x="1858" y="1492" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10012" x="2122" y="1492" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10013" x="2386" y="1492" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10014" x="2650" y="1492" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10015" x="2914" y="1492" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10016" x="3178" y="1492" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="D-Miss instance 10017" x="3442" y="1492" width="254" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310"/>
+	<SubTexture name="L-Miss instance 10000" x="3706" y="1492" width="337" height="291"/>
+	<SubTexture name="L-Miss instance 10001" x="10" y="1793" width="268" height="291" frameX="-21" frameY="0" frameWidth="337" frameHeight="291"/>
+	<SubTexture name="L-Miss instance 10002" x="288" y="1793" width="269" height="291" frameX="-21" frameY="0" frameWidth="337" frameHeight="291"/>
+	<SubTexture name="L-Miss instance 10003" x="567" y="1793" width="269" height="291" frameX="-21" frameY="0" frameWidth="337" frameHeight="291"/>
+	<SubTexture name="L-Miss instance 10004" x="846" y="1793" width="269" height="291" frameX="-21" frameY="0" frameWidth="337" frameHeight="291"/>
+	<SubTexture name="L-Miss instance 10005" x="1125" y="1793" width="269" height="291" frameX="-21" frameY="0" frameWidth="337" frameHeight="291"/>
+	<SubTexture name="L-Miss instance 10006" x="1404" y="1793" width="269" height="291" frameX="-21" frameY="0" frameWidth="337" frameHeight="291"/>
+	<SubTexture name="L-Miss instance 10007" x="1683" y="1793" width="269" height="291" frameX="-21" frameY="0" frameWidth="337" frameHeight="291"/>
+	<SubTexture name="L-Miss instance 10008" x="1962" y="1793" width="269" height="291" frameX="-21" frameY="0" frameWidth="337" frameHeight="291"/>
+	<SubTexture name="L-Miss instance 10009" x="2241" y="1793" width="269" height="291" frameX="-21" frameY="0" frameWidth="337" frameHeight="291"/>
+	<SubTexture name="L-Miss instance 10010" x="2520" y="1793" width="269" height="291" frameX="-21" frameY="0" frameWidth="337" frameHeight="291"/>
+	<SubTexture name="L-Miss instance 10011" x="2799" y="1793" width="269" height="291" frameX="-21" frameY="0" frameWidth="337" frameHeight="291"/>
+	<SubTexture name="L-Miss instance 10012" x="3078" y="1793" width="269" height="291" frameX="-21" frameY="0" frameWidth="337" frameHeight="291"/>
+	<SubTexture name="R-Miss instance 10000" x="3357" y="1793" width="309" height="290"/>
+	<SubTexture name="R-Miss instance 10001" x="3676" y="1793" width="249" height="290" frameX="-32" frameY="0" frameWidth="309" frameHeight="290"/>
+	<SubTexture name="R-Miss instance 10002" x="10" y="2094" width="249" height="290" frameX="-24" frameY="0" frameWidth="309" frameHeight="290"/>
+	<SubTexture name="R-Miss instance 10003" x="269" y="2094" width="249" height="290" frameX="-24" frameY="0" frameWidth="309" frameHeight="290"/>
+	<SubTexture name="R-Miss instance 10004" x="528" y="2094" width="249" height="290" frameX="-24" frameY="0" frameWidth="309" frameHeight="290"/>
+	<SubTexture name="R-Miss instance 10005" x="787" y="2094" width="249" height="290" frameX="-24" frameY="0" frameWidth="309" frameHeight="290"/>
+	<SubTexture name="R-Miss instance 10006" x="1046" y="2094" width="249" height="290" frameX="-24" frameY="0" frameWidth="309" frameHeight="290"/>
+	<SubTexture name="R-Miss instance 10007" x="1305" y="2094" width="249" height="290" frameX="-24" frameY="0" frameWidth="309" frameHeight="290"/>
+	<SubTexture name="R-Miss instance 10008" x="1564" y="2094" width="249" height="290" frameX="-24" frameY="0" frameWidth="309" frameHeight="290"/>
+	<SubTexture name="R-Miss instance 10009" x="1823" y="2094" width="249" height="290" frameX="-24" frameY="0" frameWidth="309" frameHeight="290"/>
+	<SubTexture name="R-Miss instance 10010" x="2082" y="2094" width="249" height="290" frameX="-24" frameY="0" frameWidth="309" frameHeight="290"/>
+	<SubTexture name="U-Miss instance 10000" x="2341" y="2094" width="239" height="343" frameX="0" frameY="0" frameWidth="239" frameHeight="367"/>
+	<SubTexture name="U-Miss instance 10001" x="2590" y="2094" width="239" height="301" frameX="0" frameY="-66" frameWidth="239" frameHeight="367"/>
+	<SubTexture name="U-Miss instance 10002" x="2839" y="2094" width="239" height="289" frameX="0" frameY="-62" frameWidth="239" frameHeight="367"/>
+	<SubTexture name="U-Miss instance 10003" x="3088" y="2094" width="239" height="289" frameX="0" frameY="-62" frameWidth="239" frameHeight="367"/>
+	<SubTexture name="U-Miss instance 10004" x="3337" y="2094" width="239" height="289" frameX="0" frameY="-62" frameWidth="239" frameHeight="367"/>
+	<SubTexture name="U-Miss instance 10005" x="3586" y="2094" width="239" height="289" frameX="0" frameY="-62" frameWidth="239" frameHeight="367"/>
+	<SubTexture name="U-Miss instance 10006" x="3835" y="2094" width="239" height="289" frameX="0" frameY="-62" frameWidth="239" frameHeight="367"/>
+	<SubTexture name="U-Miss instance 10007" x="10" y="2447" width="239" height="289" frameX="0" frameY="-62" frameWidth="239" frameHeight="367"/>
+	<SubTexture name="U-Miss instance 10008" x="259" y="2447" width="239" height="289" frameX="0" frameY="-62" frameWidth="239" frameHeight="367"/>
+	<SubTexture name="U-Miss instance 10009" x="508" y="2447" width="239" height="289" frameX="0" frameY="-62" frameWidth="239" frameHeight="367"/>
+	<SubTexture name="U-Miss instance 10010" x="757" y="2447" width="239" height="289" frameX="0" frameY="-62" frameWidth="239" frameHeight="367"/>
+</TextureAtlas>

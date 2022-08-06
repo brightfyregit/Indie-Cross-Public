@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_fire.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down alone0000" x="10" y="10" width="184" height="282" frameX="-15" frameY="-15" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="Down alone0001" x="204" y="10" width="205" height="250" frameX="0" frameY="0" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="Down alone0002" x="419" y="10" width="205" height="312" frameX="0" frameY="0" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="Down alone0003" x="634" y="10" width="205" height="276" frameX="0" frameY="0" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="Down alone0004" x="849" y="10" width="175" height="288" frameX="-15" frameY="-15" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="Down alone0005" x="1034" y="10" width="205" height="318" frameX="0" frameY="0" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="Down alone0006" x="1249" y="10" width="205" height="339" frameX="0" frameY="0" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="Down alone0007" x="1464" y="10" width="205" height="346"/>
+	<SubTexture name="Down alone0008" x="1679" y="10" width="185" height="280" frameX="-15" frameY="-15" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="Down alone0009" x="1874" y="10" width="205" height="253" frameX="0" frameY="0" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="Down alone0010" x="2089" y="10" width="205" height="263" frameX="0" frameY="0" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="Down alone0011" x="2304" y="10" width="205" height="277" frameX="0" frameY="0" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="Down alone0012" x="2519" y="10" width="175" height="290" frameX="-15" frameY="-15" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="Down alone0013" x="2704" y="10" width="205" height="319" frameX="0" frameY="0" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="Down alone0014" x="2919" y="10" width="205" height="337" frameX="0" frameY="0" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="Down alone0015" x="3134" y="10" width="205" height="341" frameX="0" frameY="0" frameWidth="205" frameHeight="346"/>
+	<SubTexture name="DownScroll-Down alone0000" x="3349" y="10" width="188" height="285" frameX="-2" frameY="-49" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Down alone0001" x="3547" y="10" width="205" height="253" frameX="0" frameY="-96" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Down alone0002" x="3762" y="10" width="205" height="315" frameX="0" frameY="-34" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Down alone0003" x="10" y="366" width="205" height="280" frameX="0" frameY="-69" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Down alone0004" x="225" y="366" width="175" height="291" frameX="-15" frameY="-43" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Down alone0005" x="410" y="366" width="205" height="321" frameX="0" frameY="-28" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Down alone0006" x="625" y="366" width="205" height="342" frameX="0" frameY="-7" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Down alone0007" x="840" y="366" width="205" height="349"/>
+	<SubTexture name="DownScroll-Down alone0008" x="1055" y="366" width="189" height="283" frameX="-1" frameY="-51" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Down alone0009" x="1254" y="366" width="205" height="256" frameX="0" frameY="-93" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Down alone0010" x="1469" y="366" width="205" height="266" frameX="0" frameY="-83" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Down alone0011" x="1684" y="366" width="205" height="280" frameX="0" frameY="-69" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Down alone0012" x="1899" y="366" width="175" height="293" frameX="-15" frameY="-41" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Down alone0013" x="2084" y="366" width="205" height="322" frameX="0" frameY="-27" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Down alone0014" x="2299" y="366" width="205" height="340" frameX="0" frameY="-9" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Down alone0015" x="2514" y="366" width="205" height="345" frameX="0" frameY="-4" frameWidth="205" frameHeight="349"/>
+	<SubTexture name="DownScroll-Left alone0000" x="2729" y="366" width="186" height="288" frameX="-2" frameY="-49" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Left alone0001" x="2925" y="366" width="203" height="256" frameX="0" frameY="-96" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Left alone0002" x="3138" y="366" width="203" height="318" frameX="0" frameY="-34" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Left alone0003" x="3351" y="366" width="203" height="283" frameX="0" frameY="-69" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Left alone0004" x="3564" y="366" width="173" height="294" frameX="-15" frameY="-43" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Left alone0005" x="3747" y="366" width="203" height="324" frameX="0" frameY="-28" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Left alone0006" x="10" y="725" width="203" height="345" frameX="0" frameY="-7" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Left alone0007" x="223" y="725" width="203" height="352"/>
+	<SubTexture name="DownScroll-Left alone0008" x="436" y="725" width="187" height="286" frameX="-1" frameY="-51" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Left alone0009" x="633" y="725" width="203" height="259" frameX="0" frameY="-93" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Left alone0010" x="846" y="725" width="203" height="269" frameX="0" frameY="-83" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Left alone0011" x="1059" y="725" width="203" height="283" frameX="0" frameY="-69" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Left alone0012" x="1272" y="725" width="173" height="296" frameX="-15" frameY="-41" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Left alone0013" x="1455" y="725" width="203" height="325" frameX="0" frameY="-27" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Left alone0014" x="1668" y="725" width="203" height="343" frameX="0" frameY="-9" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Left alone0015" x="1881" y="725" width="203" height="348" frameX="0" frameY="-4" frameWidth="203" frameHeight="352"/>
+	<SubTexture name="DownScroll-Right alone0000" x="2094" y="725" width="184" height="285" frameX="-3" frameY="-50" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Right alone0001" x="2288" y="725" width="202" height="253" frameX="0" frameY="-97" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Right alone0002" x="2500" y="725" width="202" height="316" frameX="0" frameY="-34" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Right alone0003" x="2712" y="725" width="202" height="280" frameX="0" frameY="-70" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Right alone0004" x="2924" y="725" width="172" height="292" frameX="-15" frameY="-43" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Right alone0005" x="3106" y="725" width="202" height="322" frameX="0" frameY="-28" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Right alone0006" x="3318" y="725" width="202" height="342" frameX="0" frameY="-8" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Right alone0007" x="3530" y="725" width="202" height="350"/>
+	<SubTexture name="DownScroll-Right alone0008" x="3742" y="725" width="186" height="283" frameX="-1" frameY="-52" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Right alone0009" x="10" y="1087" width="202" height="257" frameX="0" frameY="-93" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Right alone0010" x="222" y="1087" width="202" height="266" frameX="0" frameY="-84" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Right alone0011" x="434" y="1087" width="202" height="280" frameX="0" frameY="-70" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Right alone0012" x="646" y="1087" width="172" height="293" frameX="-15" frameY="-42" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Right alone0013" x="828" y="1087" width="202" height="323" frameX="0" frameY="-27" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Right alone0014" x="1040" y="1087" width="202" height="341" frameX="0" frameY="-9" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Right alone0015" x="1252" y="1087" width="202" height="345" frameX="0" frameY="-5" frameWidth="202" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0000" x="1464" y="1087" width="187" height="285" frameX="-3" frameY="-50" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0001" x="1661" y="1087" width="205" height="253" frameX="0" frameY="-97" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0002" x="1876" y="1087" width="205" height="316" frameX="0" frameY="-34" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0003" x="2091" y="1087" width="205" height="280" frameX="0" frameY="-70" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0004" x="2306" y="1087" width="175" height="292" frameX="-15" frameY="-43" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0005" x="2491" y="1087" width="205" height="321" frameX="0" frameY="-29" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0006" x="2706" y="1087" width="205" height="342" frameX="0" frameY="-8" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0007" x="2921" y="1087" width="205" height="350"/>
+	<SubTexture name="DownScroll-Up alone0008" x="3136" y="1087" width="189" height="283" frameX="-1" frameY="-52" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0009" x="3335" y="1087" width="205" height="257" frameX="0" frameY="-93" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0010" x="3550" y="1087" width="205" height="266" frameX="0" frameY="-84" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0011" x="3765" y="1087" width="205" height="280" frameX="0" frameY="-70" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0012" x="10" y="1447" width="175" height="293" frameX="-15" frameY="-42" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0013" x="195" y="1447" width="205" height="323" frameX="0" frameY="-27" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0014" x="410" y="1447" width="205" height="340" frameX="0" frameY="-10" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="DownScroll-Up alone0015" x="625" y="1447" width="205" height="345" frameX="0" frameY="-5" frameWidth="205" frameHeight="350"/>
+	<SubTexture name="Left alone0000" x="840" y="1447" width="183" height="281" frameX="-13" frameY="-15" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Left alone0001" x="1033" y="1447" width="203" height="249" frameX="0" frameY="0" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Left alone0002" x="1246" y="1447" width="203" height="311" frameX="0" frameY="0" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Left alone0003" x="1459" y="1447" width="203" height="276" frameX="0" frameY="0" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Left alone0004" x="1672" y="1447" width="175" height="287" frameX="-13" frameY="-15" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Left alone0005" x="1857" y="1447" width="203" height="317" frameX="0" frameY="0" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Left alone0006" x="2070" y="1447" width="203" height="338" frameX="0" frameY="0" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Left alone0007" x="2283" y="1447" width="203" height="345"/>
+	<SubTexture name="Left alone0008" x="2496" y="1447" width="185" height="279" frameX="-13" frameY="-15" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Left alone0009" x="2691" y="1447" width="203" height="252" frameX="0" frameY="0" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Left alone0010" x="2904" y="1447" width="203" height="262" frameX="0" frameY="0" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Left alone0011" x="3117" y="1447" width="203" height="276" frameX="0" frameY="0" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Left alone0012" x="3330" y="1447" width="175" height="289" frameX="-13" frameY="-15" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Left alone0013" x="3515" y="1447" width="203" height="318" frameX="0" frameY="0" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Left alone0014" x="3728" y="1447" width="203" height="336" frameX="0" frameY="0" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Left alone0015" x="10" y="1802" width="203" height="341" frameX="0" frameY="0" frameWidth="203" frameHeight="345"/>
+	<SubTexture name="Right alone0000" x="223" y="1802" width="183" height="284" frameX="-13" frameY="-15" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Right alone0001" x="416" y="1802" width="203" height="252" frameX="0" frameY="0" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Right alone0002" x="629" y="1802" width="203" height="315" frameX="0" frameY="0" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Right alone0003" x="842" y="1802" width="203" height="279" frameX="0" frameY="0" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Right alone0004" x="1055" y="1802" width="175" height="291" frameX="-13" frameY="-15" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Right alone0005" x="1240" y="1802" width="203" height="321" frameX="0" frameY="0" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Right alone0006" x="1453" y="1802" width="203" height="341" frameX="0" frameY="0" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Right alone0007" x="1666" y="1802" width="203" height="349"/>
+	<SubTexture name="Right alone0008" x="1879" y="1802" width="185" height="282" frameX="-13" frameY="-15" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Right alone0009" x="2074" y="1802" width="203" height="256" frameX="0" frameY="0" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Right alone0010" x="2287" y="1802" width="203" height="265" frameX="0" frameY="0" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Right alone0011" x="2500" y="1802" width="203" height="279" frameX="0" frameY="0" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Right alone0012" x="2713" y="1802" width="175" height="292" frameX="-13" frameY="-15" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Right alone0013" x="2898" y="1802" width="203" height="322" frameX="0" frameY="0" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Right alone0014" x="3111" y="1802" width="203" height="339" frameX="0" frameY="0" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Right alone0015" x="3324" y="1802" width="203" height="344" frameX="0" frameY="0" frameWidth="203" frameHeight="349"/>
+	<SubTexture name="Up alone0000" x="3537" y="1802" width="184" height="281" frameX="-15" frameY="-15" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="Up alone0001" x="3731" y="1802" width="206" height="249" frameX="0" frameY="0" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="Up alone0002" x="10" y="2161" width="206" height="312" frameX="0" frameY="0" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="Up alone0003" x="226" y="2161" width="206" height="276" frameX="0" frameY="0" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="Up alone0004" x="442" y="2161" width="176" height="288" frameX="-15" frameY="-15" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="Up alone0005" x="628" y="2161" width="206" height="318" frameX="0" frameY="0" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="Up alone0006" x="844" y="2161" width="206" height="338" frameX="0" frameY="0" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="Up alone0007" x="1060" y="2161" width="206" height="346"/>
+	<SubTexture name="Up alone0008" x="1276" y="2161" width="186" height="279" frameX="-15" frameY="-15" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="Up alone0009" x="1472" y="2161" width="206" height="253" frameX="0" frameY="0" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="Up alone0010" x="1688" y="2161" width="206" height="262" frameX="0" frameY="0" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="Up alone0011" x="1904" y="2161" width="206" height="276" frameX="0" frameY="0" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="Up alone0012" x="2120" y="2161" width="176" height="289" frameX="-15" frameY="-15" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="Up alone0013" x="2306" y="2161" width="206" height="319" frameX="0" frameY="0" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="Up alone0014" x="2522" y="2161" width="206" height="336" frameX="0" frameY="0" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="Up alone0015" x="2738" y="2161" width="206" height="341" frameX="0" frameY="0" frameWidth="206" frameHeight="346"/>
+	<SubTexture name="oUCH0000" x="2954" y="2161" width="396" height="362" frameX="0" frameY="0" frameWidth="405" frameHeight="368"/>
+	<SubTexture name="oUCH0001" x="3360" y="2161" width="396" height="332" frameX="0" frameY="0" frameWidth="405" frameHeight="368"/>
+	<SubTexture name="oUCH0002" x="10" y="2533" width="396" height="344" frameX="0" frameY="0" frameWidth="405" frameHeight="368"/>
+	<SubTexture name="oUCH0003" x="416" y="2533" width="396" height="350" frameX="0" frameY="0" frameWidth="405" frameHeight="368"/>
+	<SubTexture name="oUCH0004" x="822" y="2533" width="396" height="360" frameX="0" frameY="0" frameWidth="405" frameHeight="368"/>
+	<SubTexture name="oUCH0005" x="1228" y="2533" width="396" height="368" frameX="0" frameY="0" frameWidth="405" frameHeight="368"/>
+	<SubTexture name="oUCH0006" x="1634" y="2533" width="396" height="334" frameX="0" frameY="0" frameWidth="405" frameHeight="368"/>
+	<SubTexture name="oUCH0007" x="2040" y="2533" width="400" height="342" frameX="0" frameY="0" frameWidth="405" frameHeight="368"/>
+	<SubTexture name="oUCH0008" x="2450" y="2533" width="405" height="332" frameX="0" frameY="0" frameWidth="405" frameHeight="368"/>
+</TextureAtlas>

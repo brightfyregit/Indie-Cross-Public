@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NightmareOrangeNotes.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="O-01 instance 10000" x="10" y="10" width="250" height="363" frameX="-20" frameY="-15" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-01 instance 10001" x="270" y="10" width="259" height="363" frameX="-14" frameY="-15" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-01 instance 10002" x="539" y="10" width="170" height="364" frameX="-60" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-01 instance 10003" x="719" y="10" width="264" height="364" frameX="-16" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-01 instance 10004" x="993" y="10" width="176" height="364" frameX="-58" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-01 instance 10005" x="1179" y="10" width="268" height="364" frameX="-8" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-01 instance 10006" x="1457" y="10" width="283" height="364" frameX="-7" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-01 instance 10007" x="1750" y="10" width="186" height="364" frameX="-49" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-01 instance 10008" x="1946" y="10" width="294" height="392"/>
+	<SubTexture name="O-01 instance 10009" x="2250" y="10" width="275" height="364" frameX="-5" frameY="-13" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-02 instance 10000" x="2535" y="10" width="251" height="364" frameX="-20" frameY="-15" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-02 instance 10001" x="2796" y="10" width="260" height="364" frameX="-14" frameY="-15" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-02 instance 10002" x="3066" y="10" width="171" height="364" frameX="-60" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-02 instance 10003" x="3247" y="10" width="265" height="364" frameX="-16" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-02 instance 10004" x="3522" y="10" width="176" height="364" frameX="-58" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-02 instance 10005" x="3708" y="10" width="268" height="364" frameX="-8" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-02 instance 10006" x="10" y="412" width="283" height="364" frameX="-7" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-02 instance 10007" x="303" y="412" width="186" height="364" frameX="-50" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-02 instance 10008" x="499" y="412" width="294" height="392"/>
+	<SubTexture name="O-02 instance 10009" x="803" y="412" width="276" height="364" frameX="-5" frameY="-14" frameWidth="294" frameHeight="392"/>
+	<SubTexture name="O-03 instance 10000" x="1089" y="412" width="249" height="363" frameX="-20" frameY="-15" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-03 instance 10001" x="1348" y="412" width="258" height="363" frameX="-14" frameY="-15" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-03 instance 10002" x="1616" y="412" width="169" height="363" frameX="-60" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-03 instance 10003" x="1795" y="412" width="263" height="363" frameX="-16" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-03 instance 10004" x="2068" y="412" width="176" height="363" frameX="-57" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-03 instance 10005" x="2254" y="412" width="267" height="363" frameX="-8" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-03 instance 10006" x="2531" y="412" width="282" height="363" frameX="-7" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-03 instance 10007" x="2823" y="412" width="185" height="363" frameX="-49" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-03 instance 10008" x="3018" y="412" width="293" height="391"/>
+	<SubTexture name="O-03 instance 10009" x="3321" y="412" width="274" height="364" frameX="-5" frameY="-13" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-04 instance 10000" x="3605" y="412" width="250" height="363" frameX="-20" frameY="-15" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="O-04 instance 10001" x="10" y="814" width="259" height="363" frameX="-14" frameY="-15" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="O-04 instance 10002" x="279" y="814" width="170" height="364" frameX="-60" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="O-04 instance 10003" x="459" y="814" width="264" height="364" frameX="-16" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="O-04 instance 10004" x="733" y="814" width="175" height="364" frameX="-58" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="O-04 instance 10005" x="918" y="814" width="267" height="364" frameX="-8" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="O-04 instance 10006" x="1195" y="814" width="282" height="364" frameX="-7" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="O-04 instance 10007" x="1487" y="814" width="185" height="364" frameX="-50" frameY="-14" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="O-04 instance 10008" x="1682" y="814" width="293" height="392"/>
+	<SubTexture name="O-04 instance 10009" x="1985" y="814" width="275" height="364" frameX="-5" frameY="-13" frameWidth="293" frameHeight="392"/>
+	<SubTexture name="O-05 instance 10000" x="2270" y="814" width="250" height="363" frameX="-24" frameY="-13" frameWidth="295" frameHeight="391"/>
+	<SubTexture name="O-05 instance 10001" x="2530" y="814" width="259" height="363" frameX="-21" frameY="-13" frameWidth="295" frameHeight="391"/>
+	<SubTexture name="O-05 instance 10002" x="2799" y="814" width="170" height="363" frameX="-64" frameY="-14" frameWidth="295" frameHeight="391"/>
+	<SubTexture name="O-05 instance 10003" x="2979" y="814" width="265" height="363" frameX="-14" frameY="-14" frameWidth="295" frameHeight="391"/>
+	<SubTexture name="O-05 instance 10004" x="3254" y="814" width="177" height="363" frameX="-60" frameY="-14" frameWidth="295" frameHeight="391"/>
+	<SubTexture name="O-05 instance 10005" x="3441" y="814" width="268" height="363" frameX="-18" frameY="-14" frameWidth="295" frameHeight="391"/>
+	<SubTexture name="O-05 instance 10006" x="3719" y="814" width="284" height="363" frameX="-4" frameY="-14" frameWidth="295" frameHeight="391"/>
+	<SubTexture name="O-05 instance 10007" x="10" y="1216" width="186" height="363" frameX="-59" frameY="-14" frameWidth="295" frameHeight="391"/>
+	<SubTexture name="O-05 instance 10008" x="206" y="1216" width="295" height="391"/>
+	<SubTexture name="O-05 instance 10009" x="511" y="1216" width="275" height="363" frameX="-14" frameY="-14" frameWidth="295" frameHeight="391"/>
+	<SubTexture name="O-06 instance 10000" x="796" y="1216" width="251" height="363" frameX="-23" frameY="-13" frameWidth="294" frameHeight="391"/>
+	<SubTexture name="O-06 instance 10001" x="1057" y="1216" width="260" height="363" frameX="-20" frameY="-13" frameWidth="294" frameHeight="391"/>
+	<SubTexture name="O-06 instance 10002" x="1327" y="1216" width="171" height="363" frameX="-63" frameY="-14" frameWidth="294" frameHeight="391"/>
+	<SubTexture name="O-06 instance 10003" x="1508" y="1216" width="264" height="363" frameX="-14" frameY="-14" frameWidth="294" frameHeight="391"/>
+	<SubTexture name="O-06 instance 10004" x="1782" y="1216" width="176" height="363" frameX="-60" frameY="-14" frameWidth="294" frameHeight="391"/>
+	<SubTexture name="O-06 instance 10005" x="1968" y="1216" width="268" height="363" frameX="-18" frameY="-14" frameWidth="294" frameHeight="391"/>
+	<SubTexture name="O-06 instance 10006" x="2246" y="1216" width="283" height="363" frameX="-4" frameY="-14" frameWidth="294" frameHeight="391"/>
+	<SubTexture name="O-06 instance 10007" x="2539" y="1216" width="186" height="363" frameX="-58" frameY="-14" frameWidth="294" frameHeight="391"/>
+	<SubTexture name="O-06 instance 10008" x="2735" y="1216" width="294" height="391"/>
+	<SubTexture name="O-06 instance 10009" x="3039" y="1216" width="275" height="363" frameX="-14" frameY="-15" frameWidth="294" frameHeight="391"/>
+	<SubTexture name="O-07 instance 10000" x="3324" y="1216" width="250" height="363" frameX="-23" frameY="-13" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-07 instance 10001" x="3584" y="1216" width="259" height="363" frameX="-20" frameY="-13" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-07 instance 10002" x="3853" y="1216" width="171" height="363" frameX="-62" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-07 instance 10003" x="10" y="1617" width="264" height="363" frameX="-13" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-07 instance 10004" x="284" y="1617" width="176" height="363" frameX="-59" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-07 instance 10005" x="470" y="1617" width="267" height="363" frameX="-18" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-07 instance 10006" x="747" y="1617" width="282" height="363" frameX="-4" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-07 instance 10007" x="1039" y="1617" width="186" height="363" frameX="-57" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-07 instance 10008" x="1235" y="1617" width="293" height="391"/>
+	<SubTexture name="O-07 instance 10009" x="1538" y="1617" width="275" height="363" frameX="-13" frameY="-15" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-08 instance 10000" x="1823" y="1617" width="250" height="363" frameX="-23" frameY="-13" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-08 instance 10001" x="2083" y="1617" width="258" height="363" frameX="-21" frameY="-13" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-08 instance 10002" x="2351" y="1617" width="169" height="363" frameX="-64" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-08 instance 10003" x="2530" y="1617" width="263" height="363" frameX="-14" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-08 instance 10004" x="2803" y="1617" width="175" height="363" frameX="-60" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-08 instance 10005" x="2988" y="1617" width="267" height="363" frameX="-18" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-08 instance 10006" x="3265" y="1617" width="282" height="363" frameX="-4" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-08 instance 10007" x="3557" y="1617" width="186" height="363" frameX="-58" frameY="-14" frameWidth="293" frameHeight="391"/>
+	<SubTexture name="O-08 instance 10008" x="3753" y="1617" width="293" height="391"/>
+	<SubTexture name="O-08 instance 10009" x="10" y="2018" width="274" height="363" frameX="-14" frameY="-14" frameWidth="293" frameHeight="391"/>
+</TextureAtlas>

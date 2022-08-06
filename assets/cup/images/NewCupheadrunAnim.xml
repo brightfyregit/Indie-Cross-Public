@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NewCupheadrunAnim.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Run_cycle_gif copy instance 10000" x="10" y="10" width="120" height="104" frameX="-494" frameY="-412" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10001" x="140" y="10" width="125" height="105" frameX="-490" frameY="-413" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10002" x="275" y="10" width="136" height="109" frameX="-483" frameY="-417" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10003" x="421" y="10" width="113" height="106" frameX="-504" frameY="-419" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10004" x="544" y="10" width="93" height="106" frameX="-520" frameY="-419" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10005" x="647" y="10" width="96" height="108" frameX="-515" frameY="-417" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10006" x="753" y="10" width="102" height="110" frameX="-510" frameY="-415" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10007" x="865" y="10" width="110" height="111" frameX="-503" frameY="-413" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10008" x="10" y="131" width="119" height="104" frameX="-494" frameY="-412" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10009" x="139" y="131" width="125" height="105" frameX="-490" frameY="-413" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10010" x="274" y="131" width="136" height="109" frameX="-483" frameY="-417" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10011" x="420" y="131" width="113" height="106" frameX="-504" frameY="-419" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10012" x="543" y="131" width="93" height="106" frameX="-520" frameY="-419" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10013" x="646" y="131" width="96" height="108" frameX="-515" frameY="-417" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10014" x="752" y="131" width="102" height="110" frameX="-510" frameY="-415" frameWidth="619" frameHeight="526"/>
+	<SubTexture name="Run_cycle_gif copy instance 10015" x="864" y="131" width="114" height="111" frameX="-499" frameY="-413" frameWidth="619" frameHeight="526"/>
+</TextureAtlas>

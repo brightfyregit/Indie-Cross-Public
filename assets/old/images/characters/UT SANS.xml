@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UT SANS.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DownUT instance 10000" x="10" y="10" width="474" height="487" frameX="0" frameY="-33" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10001" x="10" y="10" width="474" height="487" frameX="0" frameY="-33" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10002" x="494" y="10" width="455" height="513" frameX="-9" frameY="-7" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10003" x="494" y="10" width="455" height="513" frameX="-9" frameY="-7" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10004" x="959" y="10" width="453" height="517" frameX="-9" frameY="-3" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10005" x="959" y="10" width="453" height="517" frameX="-9" frameY="-3" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10006" x="1422" y="10" width="446" height="520" frameX="-9" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10007" x="1422" y="10" width="446" height="520" frameX="-9" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10008" x="1878" y="10" width="446" height="520" frameX="-9" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10009" x="1878" y="10" width="446" height="520" frameX="-9" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10010" x="2334" y="10" width="471" height="502" frameX="-5" frameY="-18" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10011" x="2334" y="10" width="471" height="502" frameX="-5" frameY="-18" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10012" x="2815" y="10" width="447" height="520" frameX="-13" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10013" x="2815" y="10" width="447" height="520" frameX="-13" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10014" x="3272" y="10" width="447" height="520" frameX="-13" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10015" x="3272" y="10" width="447" height="520" frameX="-13" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10016" x="3272" y="10" width="447" height="520" frameX="-13" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10017" x="3272" y="10" width="447" height="520" frameX="-13" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10018" x="3272" y="10" width="447" height="520" frameX="-13" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10019" x="3272" y="10" width="447" height="520" frameX="-13" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10020" x="3272" y="10" width="447" height="520" frameX="-13" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10021" x="3272" y="10" width="447" height="520" frameX="-13" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10022" x="3272" y="10" width="447" height="520" frameX="-13" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10023" x="3272" y="10" width="447" height="520" frameX="-13" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="DownUT instance 10024" x="3272" y="10" width="447" height="520" frameX="-13" frameY="0" frameWidth="476" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10000" x="3630" y="1603" width="448" height="520" frameX="-1" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="EReree ee instance 10001" x="3630" y="1603" width="448" height="520" frameX="-1" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="EReree ee instance 10002" x="10" y="540" width="446" height="518" frameX="-1" frameY="-2" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10003" x="10" y="540" width="446" height="518" frameX="-1" frameY="-2" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10004" x="466" y="540" width="443" height="517" frameX="-1" frameY="-3" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10005" x="466" y="540" width="443" height="517" frameX="-1" frameY="-3" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10006" x="919" y="540" width="440" height="512" frameX="0" frameY="-8" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10007" x="919" y="540" width="440" height="512" frameX="0" frameY="-8" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10008" x="466" y="540" width="443" height="517" frameX="-1" frameY="-3" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10009" x="466" y="540" width="443" height="517" frameX="-1" frameY="-3" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10010" x="10" y="540" width="446" height="518" frameX="-1" frameY="-2" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10011" x="10" y="540" width="446" height="518" frameX="-1" frameY="-2" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10012" x="3630" y="1603" width="448" height="520" frameX="-1" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="EReree ee instance 10013" x="3630" y="1603" width="448" height="520" frameX="-1" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="EReree ee instance 10014" x="1369" y="540" width="449" height="518" frameX="-1" frameY="-2" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10015" x="1369" y="540" width="449" height="518" frameX="-1" frameY="-2" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10016" x="1828" y="540" width="452" height="517" frameX="-1" frameY="-3" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10017" x="1828" y="540" width="452" height="517" frameX="-1" frameY="-3" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10018" x="2290" y="540" width="459" height="511" frameX="-1" frameY="-9" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10019" x="2290" y="540" width="459" height="511" frameX="-1" frameY="-9" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10020" x="1828" y="540" width="452" height="517" frameX="-1" frameY="-3" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10021" x="1828" y="540" width="452" height="517" frameX="-1" frameY="-3" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10022" x="1369" y="540" width="449" height="518" frameX="-1" frameY="-2" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="EReree ee instance 10023" x="1369" y="540" width="449" height="518" frameX="-1" frameY="-2" frameWidth="460" frameHeight="520"/>
+	<SubTexture name="LeftUT instance 10000" x="2759" y="540" width="496" height="521" frameX="0" frameY="-1" frameWidth="513" frameHeight="522"/>
+	<SubTexture name="LeftUT instance 10001" x="3265" y="540" width="448" height="521" frameX="-43" frameY="-1" frameWidth="513" frameHeight="522"/>
+	<SubTexture name="LeftUT instance 10002" x="3265" y="540" width="448" height="521" frameX="-43" frameY="-1" frameWidth="513" frameHeight="522"/>
+	<SubTexture name="LeftUT instance 10003" x="10" y="1071" width="438" height="522" frameX="-53" frameY="0" frameWidth="513" frameHeight="522"/>
+	<SubTexture name="LeftUT instance 10004" x="10" y="1071" width="438" height="522" frameX="-53" frameY="0" frameWidth="513" frameHeight="522"/>
+	<SubTexture name="LeftUT instance 10005" x="458" y="1071" width="438" height="520" frameX="-53" frameY="-2" frameWidth="513" frameHeight="522"/>
+	<SubTexture name="LeftUT instance 10006" x="458" y="1071" width="438" height="520" frameX="-53" frameY="-2" frameWidth="513" frameHeight="522"/>
+	<SubTexture name="LeftUT instance 10007" x="906" y="1071" width="466" height="510" frameX="-47" frameY="-12" frameWidth="513" frameHeight="522"/>
+	<SubTexture name="LeftUT instance 10008" x="906" y="1071" width="466" height="510" frameX="-47" frameY="-12" frameWidth="513" frameHeight="522"/>
+	<SubTexture name="LeftUT instance 10009" x="1382" y="1071" width="450" height="516" frameX="-52" frameY="-6" frameWidth="513" frameHeight="522"/>
+	<SubTexture name="LeftUT instance 10010" x="1382" y="1071" width="450" height="516" frameX="-52" frameY="-6" frameWidth="513" frameHeight="522"/>
+	<SubTexture name="LeftUT instance 10011" x="3630" y="1603" width="448" height="520" frameX="-53" frameY="-2" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="LeftUT instance 10012" x="3630" y="1603" width="448" height="520" frameX="-53" frameY="-2" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="LeftUT instance 10013" x="3630" y="1603" width="448" height="520" frameX="-53" frameY="-2" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="LeftUT instance 10014" x="3630" y="1603" width="448" height="520" frameX="-53" frameY="-2" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="LeftUT instance 10015" x="3630" y="1603" width="448" height="520" frameX="-53" frameY="-2" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="LeftUT instance 10016" x="3630" y="1603" width="448" height="520" frameX="-53" frameY="-2" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="LeftUT instance 10017" x="3630" y="1603" width="448" height="520" frameX="-53" frameY="-2" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="LeftUT instance 10018" x="3630" y="1603" width="448" height="520" frameX="-53" frameY="-2" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="LeftUT instance 10019" x="3630" y="1603" width="448" height="520" frameX="-53" frameY="-2" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="LeftUT instance 10020" x="3630" y="1603" width="448" height="520" frameX="-53" frameY="-2" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="LeftUT instance 10021" x="3630" y="1603" width="448" height="520" frameX="-53" frameY="-2" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="RightUT instance 10000" x="1842" y="1071" width="523" height="520"/>
+	<SubTexture name="RightUT instance 10001" x="2375" y="1071" width="479" height="520" frameX="-14" frameY="0" frameWidth="523" frameHeight="520"/>
+	<SubTexture name="RightUT instance 10002" x="2375" y="1071" width="479" height="520" frameX="-14" frameY="0" frameWidth="523" frameHeight="520"/>
+	<SubTexture name="RightUT instance 10003" x="2864" y="1071" width="459" height="520" frameX="-14" frameY="0" frameWidth="523" frameHeight="520"/>
+	<SubTexture name="RightUT instance 10004" x="2864" y="1071" width="459" height="520" frameX="-14" frameY="0" frameWidth="523" frameHeight="520"/>
+	<SubTexture name="RightUT instance 10005" x="3333" y="1071" width="445" height="520" frameX="-14" frameY="0" frameWidth="523" frameHeight="520"/>
+	<SubTexture name="RightUT instance 10006" x="3333" y="1071" width="445" height="520" frameX="-14" frameY="0" frameWidth="523" frameHeight="520"/>
+	<SubTexture name="RightUT instance 10007" x="10" y="1603" width="438" height="520" frameX="-14" frameY="0" frameWidth="523" frameHeight="520"/>
+	<SubTexture name="RightUT instance 10008" x="10" y="1603" width="438" height="520" frameX="-14" frameY="0" frameWidth="523" frameHeight="520"/>
+	<SubTexture name="RightUT instance 10009" x="458" y="1603" width="475" height="512" frameX="-6" frameY="-7" frameWidth="523" frameHeight="520"/>
+	<SubTexture name="RightUT instance 10010" x="458" y="1603" width="475" height="512" frameX="-6" frameY="-7" frameWidth="523" frameHeight="520"/>
+	<SubTexture name="RightUT instance 10011" x="3630" y="1603" width="448" height="520" frameX="-14" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="RightUT instance 10012" x="3630" y="1603" width="448" height="520" frameX="-14" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="RightUT instance 10013" x="3630" y="1603" width="448" height="520" frameX="-14" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="RightUT instance 10014" x="3630" y="1603" width="448" height="520" frameX="-14" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="RightUT instance 10015" x="3630" y="1603" width="448" height="520" frameX="-14" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="RightUT instance 10016" x="3630" y="1603" width="448" height="520" frameX="-14" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="RightUT instance 10017" x="3630" y="1603" width="448" height="520" frameX="-14" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="RightUT instance 10018" x="3630" y="1603" width="448" height="520" frameX="-14" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="RightUT instance 10019" x="3630" y="1603" width="448" height="520" frameX="-14" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="RightUT instance 10020" x="3630" y="1603" width="448" height="520" frameX="-14" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10000" x="943" y="1603" width="403" height="549" frameX="-24" frameY="0" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10001" x="1356" y="1603" width="438" height="523" frameX="-7" frameY="-26" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10002" x="1356" y="1603" width="438" height="523" frameX="-7" frameY="-26" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10003" x="1804" y="1603" width="438" height="523" frameX="-7" frameY="-26" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10004" x="1804" y="1603" width="438" height="523" frameX="-7" frameY="-26" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10005" x="2252" y="1603" width="438" height="523" frameX="-7" frameY="-26" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10006" x="2252" y="1603" width="438" height="523" frameX="-7" frameY="-26" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10007" x="2700" y="1603" width="462" height="501" frameX="0" frameY="-47" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10008" x="2700" y="1603" width="462" height="501" frameX="0" frameY="-47" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10009" x="3172" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10010" x="3172" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10011" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10012" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10013" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10014" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10015" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10016" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10017" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10018" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10019" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10020" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10021" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10022" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10023" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10024" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10025" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10026" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+	<SubTexture name="UpUT instance 10027" x="3630" y="1603" width="448" height="520" frameX="-7" frameY="-29" frameWidth="462" frameHeight="549"/>
+</TextureAtlas>

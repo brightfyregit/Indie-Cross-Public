@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FuckBoi.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bro wut instance 10000" x="10" y="10" width="128" height="136"/>
+	<SubTexture name="hehe funne sans instance 10000" x="148" y="10" width="160" height="100"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_parry.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EF alone0000" x="10" y="10" width="154" height="157"/>
+	<SubTexture name="LEf alone0000" x="174" y="10" width="154" height="157"/>
+	<SubTexture name="OO alone0000" x="338" y="10" width="157" height="154"/>
+	<SubTexture name="Pink note alone0000" x="10" y="177" width="157" height="154"/>
+</TextureAtlas>

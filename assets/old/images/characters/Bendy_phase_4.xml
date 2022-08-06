@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bendy_phase_4.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Brrrun instance 10000" x="10" y="10" width="1384" height="650" frameX="-39" frameY="-4" frameWidth="1423" frameHeight="738"/>
+	<SubTexture name="Brrrun instance 10001" x="10" y="10" width="1384" height="650" frameX="-39" frameY="-4" frameWidth="1423" frameHeight="738"/>
+	<SubTexture name="Brrrun instance 10002" x="1404" y="10" width="1409" height="687" frameX="0" frameY="0" frameWidth="1423" frameHeight="738"/>
+	<SubTexture name="Brrrun instance 10003" x="1404" y="10" width="1409" height="687" frameX="0" frameY="0" frameWidth="1423" frameHeight="738"/>
+	<SubTexture name="Brrrun instance 10004" x="2823" y="10" width="936" height="651" frameX="-249" frameY="-76" frameWidth="1423" frameHeight="738"/>
+	<SubTexture name="Brrrun instance 10005" x="2823" y="10" width="936" height="651" frameX="-249" frameY="-76" frameWidth="1423" frameHeight="738"/>
+	<SubTexture name="Brrrun instance 10006" x="3769" y="10" width="781" height="621" frameX="-339" frameY="-100" frameWidth="1423" frameHeight="738"/>
+	<SubTexture name="Brrrun instance 10007" x="4560" y="10" width="897" height="655" frameX="-239" frameY="-66" frameWidth="1423" frameHeight="738"/>
+	<SubTexture name="Brrrun instance 10008" x="5467" y="10" width="1223" height="674" frameX="-188" frameY="-51" frameWidth="1423" frameHeight="738"/>
+	<SubTexture name="Brrrun instance 10009" x="6700" y="10" width="1319" height="714" frameX="-96" frameY="-24" frameWidth="1423" frameHeight="738"/>
+	<SubTexture name="Legsss instance 10000" x="10" y="734" width="1026" height="655" frameX="0" frameY="0" frameWidth="1070" frameHeight="739"/>
+	<SubTexture name="Legsss instance 10001" x="10" y="734" width="1026" height="655" frameX="0" frameY="0" frameWidth="1070" frameHeight="739"/>
+	<SubTexture name="Legsss instance 10002" x="1046" y="734" width="1021" height="686" frameX="-14" frameY="-2" frameWidth="1070" frameHeight="739"/>
+	<SubTexture name="Legsss instance 10003" x="1046" y="734" width="1021" height="686" frameX="-14" frameY="-2" frameWidth="1070" frameHeight="739"/>
+	<SubTexture name="Legsss instance 10004" x="2077" y="734" width="997" height="691" frameX="-73" frameY="-36" frameWidth="1070" frameHeight="739"/>
+	<SubTexture name="Legsss instance 10005" x="2077" y="734" width="997" height="691" frameX="-73" frameY="-36" frameWidth="1070" frameHeight="739"/>
+	<SubTexture name="Legsss instance 10006" x="3084" y="734" width="1026" height="695" frameX="-40" frameY="-26" frameWidth="1070" frameHeight="739"/>
+	<SubTexture name="Legsss instance 10007" x="4120" y="734" width="1026" height="699" frameX="-22" frameY="-22" frameWidth="1070" frameHeight="739"/>
+	<SubTexture name="Legsss instance 10008" x="5156" y="734" width="1025" height="705" frameX="-20" frameY="-20" frameWidth="1070" frameHeight="739"/>
+	<SubTexture name="Legsss instance 10009" x="6191" y="734" width="1024" height="721" frameX="-12" frameY="-18" frameWidth="1070" frameHeight="739"/>
+	<SubTexture name="OOOOO SEEEE instance 10000" x="7225" y="734" width="921" height="712" frameX="-38" frameY="0" frameWidth="1008" frameHeight="796"/>
+	<SubTexture name="OOOOO SEEEE instance 10001" x="7225" y="734" width="921" height="712" frameX="-38" frameY="0" frameWidth="1008" frameHeight="796"/>
+	<SubTexture name="OOOOO SEEEE instance 10002" x="10" y="1465" width="952" height="738" frameX="0" frameY="-6" frameWidth="1008" frameHeight="796"/>
+	<SubTexture name="OOOOO SEEEE instance 10003" x="10" y="1465" width="952" height="738" frameX="0" frameY="-6" frameWidth="1008" frameHeight="796"/>
+	<SubTexture name="OOOOO SEEEE instance 10004" x="972" y="1465" width="759" height="673" frameX="-249" frameY="-111" frameWidth="1008" frameHeight="796"/>
+	<SubTexture name="OOOOO SEEEE instance 10005" x="972" y="1465" width="759" height="673" frameX="-249" frameY="-111" frameWidth="1008" frameHeight="796"/>
+	<SubTexture name="OOOOO SEEEE instance 10006" x="1741" y="1465" width="693" height="678" frameX="-259" frameY="-100" frameWidth="1008" frameHeight="796"/>
+	<SubTexture name="OOOOO SEEEE instance 10007" x="2444" y="1465" width="746" height="749" frameX="-233" frameY="-29" frameWidth="1008" frameHeight="796"/>
+	<SubTexture name="OOOOO SEEEE instance 10008" x="3200" y="1465" width="798" height="757" frameX="-189" frameY="-25" frameWidth="1008" frameHeight="796"/>
+	<SubTexture name="OOOOO SEEEE instance 10009" x="4008" y="1465" width="893" height="789" frameX="-96" frameY="-7" frameWidth="1008" frameHeight="796"/>
+	<SubTexture name="eezyhh instance 10000" x="4911" y="1465" width="1367" height="739" frameX="-39" frameY="-3" frameWidth="1410" frameHeight="827"/>
+	<SubTexture name="eezyhh instance 10001" x="4911" y="1465" width="1367" height="739" frameX="-39" frameY="-3" frameWidth="1410" frameHeight="827"/>
+	<SubTexture name="eezyhh instance 10002" x="6288" y="1465" width="1404" height="775" frameX="0" frameY="0" frameWidth="1410" frameHeight="827"/>
+	<SubTexture name="eezyhh instance 10003" x="6288" y="1465" width="1404" height="775" frameX="0" frameY="0" frameWidth="1410" frameHeight="827"/>
+	<SubTexture name="eezyhh instance 10004" x="10" y="2264" width="1148" height="744" frameX="-250" frameY="-71" frameWidth="1410" frameHeight="827"/>
+	<SubTexture name="eezyhh instance 10005" x="10" y="2264" width="1148" height="744" frameX="-250" frameY="-71" frameWidth="1410" frameHeight="827"/>
+	<SubTexture name="eezyhh instance 10006" x="1168" y="2264" width="1047" height="756" frameX="-341" frameY="-53" frameWidth="1410" frameHeight="827"/>
+	<SubTexture name="eezyhh instance 10007" x="2225" y="2264" width="1151" height="770" frameX="-241" frameY="-39" frameWidth="1410" frameHeight="827"/>
+	<SubTexture name="eezyhh instance 10008" x="3386" y="2264" width="1212" height="767" frameX="-190" frameY="-46" frameWidth="1410" frameHeight="827"/>
+	<SubTexture name="eezyhh instance 10009" x="4608" y="2264" width="1314" height="791" frameX="-96" frameY="-36" frameWidth="1410" frameHeight="827"/>
+	<SubTexture name="tuuj instance 10000" x="5932" y="2264" width="1122" height="618" frameX="-39" frameY="-6" frameWidth="1161" frameHeight="708"/>
+	<SubTexture name="tuuj instance 10001" x="5932" y="2264" width="1122" height="618" frameX="-39" frameY="-6" frameWidth="1161" frameHeight="708"/>
+	<SubTexture name="tuuj instance 10002" x="10" y="3065" width="1155" height="656" frameX="0" frameY="0" frameWidth="1161" frameHeight="708"/>
+	<SubTexture name="tuuj instance 10003" x="10" y="3065" width="1155" height="656" frameX="0" frameY="0" frameWidth="1161" frameHeight="708"/>
+	<SubTexture name="tuuj instance 10004" x="1175" y="3065" width="940" height="636" frameX="-217" frameY="-60" frameWidth="1161" frameHeight="708"/>
+	<SubTexture name="tuuj instance 10005" x="1175" y="3065" width="940" height="636" frameX="-217" frameY="-60" frameWidth="1161" frameHeight="708"/>
+	<SubTexture name="tuuj instance 10006" x="2125" y="3065" width="921" height="598" frameX="-229" frameY="-92" frameWidth="1161" frameHeight="708"/>
+	<SubTexture name="tuuj instance 10007" x="3056" y="3065" width="921" height="618" frameX="-229" frameY="-72" frameWidth="1161" frameHeight="708"/>
+	<SubTexture name="tuuj instance 10008" x="3987" y="3065" width="960" height="638" frameX="-190" frameY="-56" frameWidth="1161" frameHeight="708"/>
+	<SubTexture name="tuuj instance 10009" x="4957" y="3065" width="1059" height="666" frameX="-96" frameY="-42" frameWidth="1161" frameHeight="708"/>
+</TextureAtlas>

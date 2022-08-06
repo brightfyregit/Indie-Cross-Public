@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Candles.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Candless instance 10000" x="10" y="10" width="613" height="167" frameX="0" frameY="-1" frameWidth="613" frameHeight="168"/>
+	<SubTexture name="Candless instance 10001" x="633" y="10" width="613" height="168"/>
+	<SubTexture name="Candless instance 10002" x="1256" y="10" width="613" height="167" frameX="0" frameY="-1" frameWidth="613" frameHeight="168"/>
+	<SubTexture name="Candless instance 10003" x="10" y="188" width="613" height="168"/>
+	<SubTexture name="Candless instance 10004" x="633" y="188" width="613" height="166" frameX="0" frameY="-2" frameWidth="613" frameHeight="168"/>
+	<SubTexture name="Candless instance 10005" x="1256" y="188" width="613" height="165" frameX="0" frameY="-3" frameWidth="613" frameHeight="168"/>
+	<SubTexture name="Lights instance 10000" x="10" y="366" width="780" height="247"/>
+	<SubTexture name="Lights instance 10001" x="800" y="366" width="764" height="231" frameX="-8" frameY="-8" frameWidth="780" frameHeight="247"/>
+	<SubTexture name="Lights instance 10002" x="10" y="623" width="764" height="231" frameX="-8" frameY="-8" frameWidth="780" frameHeight="247"/>
+	<SubTexture name="Lights instance 10003" x="784" y="623" width="764" height="231" frameX="-8" frameY="-8" frameWidth="780" frameHeight="247"/>
+</TextureAtlas>

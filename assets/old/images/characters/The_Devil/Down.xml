@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Down.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down instance 10000" x="10" y="10" width="2339" height="889" frameX="0" frameY="-46" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10001" x="2359" y="10" width="2285" height="940" frameX="-26" frameY="0" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10002" x="2359" y="10" width="2285" height="940" frameX="-26" frameY="0" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10003" x="4654" y="10" width="2265" height="931" frameX="-34" frameY="-9" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10004" x="4654" y="10" width="2265" height="931" frameX="-34" frameY="-9" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10005" x="10" y="960" width="2246" height="923" frameX="-42" frameY="-17" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10006" x="10" y="960" width="2246" height="923" frameX="-42" frameY="-17" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10007" x="2266" y="960" width="2231" height="917" frameX="-48" frameY="-23" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10008" x="2266" y="960" width="2231" height="917" frameX="-48" frameY="-23" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10009" x="4507" y="960" width="2218" height="918" frameX="-54" frameY="-29" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10010" x="4507" y="960" width="2218" height="918" frameX="-54" frameY="-29" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10011" x="10" y="1893" width="2208" height="925" frameX="-58" frameY="-33" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10012" x="10" y="1893" width="2208" height="925" frameX="-58" frameY="-33" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10013" x="2228" y="1893" width="2201" height="930" frameX="-61" frameY="-36" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10014" x="2228" y="1893" width="2201" height="930" frameX="-61" frameY="-36" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10015" x="4439" y="1893" width="2197" height="933" frameX="-62" frameY="-38" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10016" x="4439" y="1893" width="2197" height="933" frameX="-62" frameY="-38" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10017" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10018" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10019" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10020" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10021" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10022" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10023" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10024" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10025" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10026" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10027" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10028" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10029" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10030" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10031" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+	<SubTexture name="Down instance 10032" x="10" y="2836" width="2195" height="933" frameX="-63" frameY="-39" frameWidth="2339" frameHeight="972"/>
+</TextureAtlas>

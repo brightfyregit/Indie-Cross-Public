@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="InkRain.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="erteyd instance 10000" x="10" y="10" width="1730" height="1080"/>
+	<SubTexture name="erteyd instance 10001" x="1750" y="10" width="1730" height="1080"/>
+	<SubTexture name="erteyd instance 10002" x="3490" y="10" width="1730" height="1080"/>
+	<SubTexture name="erteyd instance 10003" x="5230" y="10" width="1730" height="1080"/>
+	<SubTexture name="erteyd instance 10004" x="10" y="1100" width="1730" height="1080"/>
+	<SubTexture name="erteyd instance 10005" x="1750" y="1100" width="1730" height="1080"/>
+	<SubTexture name="erteyd instance 10006" x="3490" y="1100" width="1730" height="1080"/>
+	<SubTexture name="erteyd instance 10007" x="5230" y="1100" width="1730" height="1080"/>
+	<SubTexture name="erteyd instance 10008" x="10" y="2190" width="1730" height="1080"/>
+	<SubTexture name="erteyd instance 10009" x="1750" y="2190" width="1730" height="1080"/>
+	<SubTexture name="erteyd instance 10010" x="3490" y="2190" width="1730" height="1080"/>
+	<SubTexture name="erteyd instance 10011" x="5230" y="2190" width="1730" height="1080"/>
+	<SubTexture name="erteyd instance 10012" x="10" y="3280" width="1730" height="1080"/>
+</TextureAtlas>
