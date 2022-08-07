@@ -32,6 +32,7 @@
 	<assets path="assets/preload" rename="assets"/>
 	<assets path="assets/songs"  library="songs"/>
 	<assets path="assets/hiddenContent" embed="true" library="hiddenContent" if="windows"/>
+	<assets path="assets/hiddenContent" embed="true" library="hiddenContent" if="mac"/>
 	<assets path="assets/hiddenContent" embed="false" library="hiddenContent" if="linux"/> <!-- linux hates embedding :/ -->
 	<assets path="assets/shared"  library="shared"/>
 	<assets path="assets/bendy"  library="bendy"/>
@@ -39,9 +40,11 @@
 	<assets path="assets/cup"  library="cup"/>
 	<assets path="assets/achievements"  library="achievements"/>
 	<assets path="assets/notes" embed="true" library="notes" if="windows"/>
+	<assets path="assets/notes" embed="true" library="notes" if="mac"/>
 	<assets path="assets/notes" embed="false" library="notes" if="linux"/>
 	<assets path="assets/videos"/>
 	<assets path="assets/fonts" embed='true' if="windows"/>
+	<assets path="assets/fonts" embed='true' if="mac"/>
 	<assets path="assets/fonts" embed='false' if="linux"/>
 
 	<!-- epic wacky shit -->
@@ -58,10 +61,10 @@
 	<haxelib name="flixel-addons" />
 	<haxelib name="flixel-ui" />
 	<haxelib name="discord_rpc" if="cpp"/>
-    <haxelib name="tentools" />
+        <haxelib name="tentools" />
 	<haxelib name="linc_luajit" if="cpp"/>
 	<haxelib name="systools" if="cpp"/>
-    <ndll name="systools" haxelib="systools" if="cpp" />
+        <ndll name="systools" haxelib="systools" if="cpp" />
 
 	<!-- ______________________________ Haxedefines _____________________________ -->
 
