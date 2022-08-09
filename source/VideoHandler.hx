@@ -63,9 +63,6 @@ class VideoHandler
 		else
 			bitmap.repeat = 0;
 
-		bitmap.inWindow = isWindow;
-		bitmap.fullscreen = isFullscreen;
-
 		FlxG.addChildBelowMouse(bitmap);
 		bitmap.play(checkFile(path));
 

@@ -258,7 +258,6 @@ class MainMenuState extends MusicBeatState
 
 	final name:String = Lib.application.meta["name"];
 	final version:String = Lib.application.meta["version"];
-	static final commitHash:String = GitHash.getGitCommitHash();
 	
 	static var curSelected:Int = 0;
 

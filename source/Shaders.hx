@@ -19,7 +19,7 @@ class BloomHandler
 		bloomShader.shader.data.blurSize.value = [value];
 }
 
-class Bloom extends FlxShader
+class Bloom extends FlxFixedShader
 {
 	@:glFragmentSource('
 		#pragma header  
@@ -95,7 +95,7 @@ class BrightHandler
 	}
 }
 
-class Bright extends FlxShader
+class Bright extends FlxFixedShader
 {
 	@:glFragmentSource('
 		#pragma header
@@ -133,7 +133,7 @@ class ChromaHandler
 	}
 }
 
-class ChromaticAberration extends FlxShader
+class ChromaticAberration extends FlxFixedShader
 {
 	@:glFragmentSource('
 		#pragma header

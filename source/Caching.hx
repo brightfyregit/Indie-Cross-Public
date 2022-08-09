@@ -111,8 +111,6 @@ class Caching extends MusicBeatState
 			case 8:
 				FlxG.resizeWindow(3840,2160);
 				FlxG.resizeGame(3840,2160);
-
-
 		}
 
 		GameJoltAPI.connect();
