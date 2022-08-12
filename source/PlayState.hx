@@ -210,11 +210,8 @@ class PlayState extends MusicBeatState
 
 	public var accuracy:Float = 0.00;
 
-	private var accuracyDefault:Float = 0.00;
 	private var totalNotesHit:Float = 0;
-	private var totalNotesHitDefault:Float = 0;
 	private var totalPlayed:Int = 0;
-	private var ss:Bool = false;
 
 	private var healthBarBG:FlxSprite;
 	private var healthBar:FlxBar;
@@ -251,8 +248,6 @@ class PlayState extends MusicBeatState
 	public var dialoguePaused:Bool = false;
 
 	var songName:FlxText;
-
-	var fc:Bool = true;
 
 	var talking:Bool = true;
 
@@ -7890,7 +7885,6 @@ class PlayState extends MusicBeatState
 					combo = 0;
 					misses++;
 					healthincrease = -0.2;
-					ss = false;
 					shits++;
 					if (FlxG.save.data.accuracyMod == 0)
 						totalNotesHit -= 1;
@@ -7898,14 +7892,12 @@ class PlayState extends MusicBeatState
 					daRating = 'bad';
 					score = 0;
 					healthincrease = -0.06;
-					ss = false;
 					bads++;
 					if (FlxG.save.data.accuracyMod == 0)
 						totalNotesHit += 0.50;
 				case 'good':
 					daRating = 'good';
 					score = 200;
-					ss = false;
 					goods++;
 					if (health < 2)
 						if (canheal)
@@ -8458,7 +8450,6 @@ class PlayState extends MusicBeatState
 	{
 		totalPlayed += 1;
 		accuracy = Math.max(0, totalNotesHit / totalPlayed * 100);
-		accuracyDefault = Math.max(0, totalNotesHitDefault / totalPlayed * 100);
 	}
 
 	function getKeyPresses(note:Note):Int
