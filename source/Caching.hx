@@ -81,8 +81,8 @@ class Caching extends MusicBeatState
 		FlxG.fixedTimestep = false;
 		FlxG.mouse.useSystemCursor = true;
 		FlxG.console.autoPause = false;
-		FlxG.autoPause = FlxG.save.data.focusfreeze;
-		switch (FlxG.save.data.resolution)
+		FlxG.autoPause = false;
+		/*switch (FlxG.save.data.resolution)
 		{
 			case 0:
 				FlxG.resizeWindow(640,360);
@@ -113,7 +113,7 @@ class Caching extends MusicBeatState
 				FlxG.resizeGame(3840,2160);
 
 
-		}
+		}*/
 
 		GameJoltAPI.connect();
 		GameJoltAPI.authDaUser(FlxG.save.data.gjUser, FlxG.save.data.gjToken);

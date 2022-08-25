@@ -25,11 +25,11 @@ class SpecsDetector extends FlxState
 		KadeEngineData.initSave();
 		super.create();
 
-		FlxG.save.data.cachestart = checkSpecs();
+		//FlxG.save.data.cachestart = checkSpecs();
 		FlxG.switchState(new Caching());
 	}
 
-	function checkSpecs():Bool
+	/*function checkSpecs():Bool
 	{
 		var cpu:Bool = Capabilities.supports64BitProcesses; // too lazy for changing this
 		var ram:UInt64 = obtainRAM();
@@ -43,7 +43,7 @@ class SpecsDetector extends FlxState
 		}
 
 		return true;
-	}
+	}*/
 
 	override public function update(elapsed:Float)
 	{
@@ -86,7 +86,7 @@ class SpecsDetector extends FlxState
 		return 0;
 	}
 
-	function messageBox(title:ConstCharStar = null, msg:ConstCharStar = null)
+	/*function messageBox(title:ConstCharStar = null, msg:ConstCharStar = null)
 	{
 		#if windows
 		var msgID:Int = untyped MessageBox(null, msg, title, untyped __cpp__("MB_ICONQUESTION | MB_YESNO"));
@@ -101,5 +101,5 @@ class SpecsDetector extends FlxState
 		lime.app.Application.current.window.alert(cast msg, cast title);
 		return true;
 		#end
-	}
+	}*/
 }

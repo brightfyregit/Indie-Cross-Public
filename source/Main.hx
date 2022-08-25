@@ -29,7 +29,7 @@ class Main extends Sprite
 	var gameHeight:Int = 720; // Height of the game in pixels (might be less / more in actual pixels depending on your zoom).
 	var initialState:Class<FlxState> = SpecsDetector; // The FlxState the game starts with.
 	var zoom:Float = -1; // If -1, zoom is automatically calculated to fit the window dimensions.
-	var framerate:Int = 120; // How many frames per second the game should run at.
+	var framerate:Int = 60; // How many frames per second the game should run at.
 	var skipSplash:Bool = true; // Whether to skip the flixel splash screen that appears in release mode.
 	var startFullscreen:Bool = false; // Whether to start the game in fullscreen on desktop targets
 
@@ -72,8 +72,6 @@ class Main extends Sprite
 	public function new()
 	{
 		super();
-
-		Lib.current.loaderInfo.uncaughtErrorEvents.addEventListener(UncaughtErrorEvent.UNCAUGHT_ERROR, onCrash);
 
 		if (stage != null)
 		{
@@ -174,7 +172,7 @@ class Main extends Sprite
 			focusMusicTween = FlxTween.tween(FlxG.sound, {volume: newVol}, 0.5);
 
 			// Conserve power by lowering draw framerate when unfocuced
-			FlxG.drawFramerate = 60;
+			FlxG.drawFramerate = 30;
 		}
 	}
 
@@ -197,7 +195,7 @@ class Main extends Sprite
 			focusMusicTween = FlxTween.tween(FlxG.sound, {volume: oldVol}, 0.5);
 
 			// Bring framerate back when focused
-			FlxG.drawFramerate = 120;
+			FlxG.drawFramerate = 60; // html5 can't do 120 fps
 		}
 	}
 
