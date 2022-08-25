@@ -17,7 +17,7 @@ import openfl.display.Sprite;
 import openfl.events.Event;
 import openfl.system.System;
 import openfl.utils.Assets;
-import js.html.FileSystem;
+// import js.html.FileSystem;
 #if sys
 import sys.io.File;
 import sys.io.Process;
