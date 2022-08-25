@@ -1,0 +1,40 @@
+name: buildHTML5
+
+on: [push, pull_request, workflow_dispatch]
+
+jobs:
+ build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.1
+
+      - name: Setup Haxe
+        uses: krdlab/setup-haxe@master
+        with:
+          haxe-version: 4.2.5
+
+      - name: Install Haxelib
+        run: |
+          haxelib setup ~/haxelib
+          haxelib install hxcpp > /dev/null
+          haxelib install lime
+          haxelib install openfl
+          haxelib --never install flixel
+          haxelib run lime setup flixel
+          haxelib install flixel-tools
+          haxelib install flixel-ui
+          haxelib install flixel-addons
+          haxelib git tentools https://github.com/TentaRJ/tentools.git
+          haxelib git systools https://github.com/haya3218/systools
+          haxelib git linc_luajit https://github.com/nebulazorua/linc_luajit
+          haxelib install hxCodec
+          haxelib list
+      - name: Compile
+        run: haxelib run lime build html5 -final
+
+      - name: Publish Artifact
+        uses: actions/upload-artifact@v2.2.4
+        with:
+          name: htmlBuild
+          path: export/release/html5/bin

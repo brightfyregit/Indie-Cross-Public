@@ -48,8 +48,6 @@
 	<assets path="assets/compileData/plugins/plugins/" rename='plugins/' if="windows"/>
 	<assets path="assets/compileData/plugins/plugins (but for mac)/" rename='plugins/' if="macos"/>
 	<assets path="assets/compileData/dlls/" rename='' if="windows"/>
-	<assets path="tools/Bink2DLL/" rename='' if="windows"/>
-	<assets path="assets/compileData/IndieCross-Crash.exe" type="template" rename='FlixelCrashHandler.exe' if="windows" />
 	<assets path='assets/compileData/crash logs go here.txt' rename='crash/crash logs go here.txt' />
 	
 	<!-- _______________________________ Libraries ______________________________ -->

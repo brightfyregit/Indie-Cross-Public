@@ -1,8 +1,10 @@
 package;
 
+#if cpp
 import cpp.ConstCharStar;
 import cpp.Native;
 import cpp.UInt64;
+#end
 import flixel.FlxG;
 import flixel.FlxState;
 import lime.app.Application;

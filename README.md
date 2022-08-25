@@ -28,9 +28,6 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 ### Untitled Goose Game
  - [House House](https://twitter.com/house_house_)
 
-### BINK Video Player
- - [RAD Game Tools](http://www.radgametools.com/)
-
 ### Adobe Animate CC - Texture Atlas for OpenFL
  - [mathieuanthoine](https://github.com/mathieuanthoine)
 
